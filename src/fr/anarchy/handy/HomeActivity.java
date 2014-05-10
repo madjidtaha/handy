@@ -1,5 +1,6 @@
 package fr.anarchy.handy;
 
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.GridView;
@@ -22,9 +23,20 @@ public class HomeActivity extends Activity {
 		gridView = (GridView) findViewById(R.id.gridViewCustom);
 		// Create the Custom Adapter Object
 		homeCardAdapter = new HomePokemonCardAdapter(this, db);
-//		// Set the Adapter to GridView
+		// Set the Adapter to GridView
 		gridView.setAdapter(homeCardAdapter);
+		
+		
 
+		// Handling touch/click Event on GridView Item
+		/*gridView.setOnItemClickListener(new OnItemClickListener() {
+
+			@Override
+			public void onItemClick(AdapterView<?> arg0, View v, int position,
+					long arg3) {
+					
+			}
+		});*/
 
 	}
 }

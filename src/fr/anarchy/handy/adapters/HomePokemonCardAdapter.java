@@ -17,24 +17,27 @@ public class HomePokemonCardAdapter extends ArrayAdapter {
 	Context context;
 
 	private Cursor pokemons;
-	
+
 	int resId;
-	
+
 	int[] pokemonVectorImage;
+
 
 	public HomePokemonCardAdapter(Context context, PokemonDatabase db) {
 		super(context, 0);
 		this.context = context;
-		
-		pokemonVectorImage = new int[151]; 
-		
+
+		pokemonVectorImage = new int[20];
+
 		String packageName = this.context.getPackageName();
-	   
-		for(int imageIndex = 0; imageIndex < pokemonVectorImage.length; imageIndex++){
-			resId = this.context.getResources().getIdentifier("pokemon_vector_" + (imageIndex+1), "drawable", packageName);
+
+		for (int imageIndex = 0; imageIndex < pokemonVectorImage.length; imageIndex++) {
+			resId = this.context.getResources().getIdentifier(
+					"pokemon_vector_" + (imageIndex + 1), "drawable",
+					packageName);
 			pokemonVectorImage[imageIndex] = resId;
-			
-			Log.v("image",imageIndex+"");
+
+			Log.v("image", imageIndex + "");
 		}
 
 		String[] sqlSelect = { "0 _id", "identifier", "capture_rate" };
@@ -45,31 +48,35 @@ public class HomePokemonCardAdapter extends ArrayAdapter {
 	}
 
 	public int getCount() {
-		return 151;
+		return 20;
 	}
 
 	public View getView(int position, View convertView, ViewGroup parent) {
 		View row = convertView;
 
-		pokemons.moveToPosition(position);		
+		pokemons.moveToPosition(position);
+		LayoutInflater inflater = ((Activity) context).getLayoutInflater();
 
-			if (row == null) {
-				LayoutInflater inflater = ((Activity) context)
-						.getLayoutInflater();
-				row = inflater.inflate(R.layout.home_pokemon_card, parent,
-						false);
+		if (row == null) {
+			row = inflater.inflate(R.layout.home_pokemon_card, parent, false);
 
-				TextView textViewTitle = (TextView) row
-						.findViewById(R.id.textView);
-				ImageView imageViewIte = (ImageView) row
-						.findViewById(R.id.imageView);
+		} else {
 
-				textViewTitle.setText(pokemons.getString(1));
-				imageViewIte.setImageResource(pokemonVectorImage[position]);
+			 row = inflater.inflate(R.layout.home_pokemon_card, parent, false);
+			
+			 TextView textViewTitle = (TextView) row.findViewById(R.id.textView);
+			 ImageView imageViewIte = (ImageView) row.findViewById(R.id.imageView);
+			 
+			 
+			
+			 textViewTitle.setText(pokemons.getString(1));
+			 imageViewIte.setImageResource(pokemonVectorImage[position]);
 
-			}
-//			Log.v("pokemon",pokemons.getPosition()+"");
-		
+		}
+
+		// pokemons.moveToNext();
+		// Log.v("pokemon",pokemons.getPosition()+"");
+
 		return row;
 
 	}
