@@ -21,4 +21,5 @@ dependencies {
     compile 'com.android.support:support-v4:+'
     compile files('libs/android-sqlite-asset-helper.jar')
     compile 'com.github.gabrielemariotti.cards:library:1.6.0'
+    compile 'com.github.manuelpeinado.fadingactionbar:fadingactionbar:3.1.2'
 }
