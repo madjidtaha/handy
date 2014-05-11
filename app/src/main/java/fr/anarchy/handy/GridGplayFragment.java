@@ -31,8 +31,6 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-import fr.anarchy.handy.BaseFragment;
-import fr.anarchy.handy.R;
 import it.gmariotti.cardslib.library.internal.Card;
 import it.gmariotti.cardslib.library.internal.CardGridArrayAdapter;
 import it.gmariotti.cardslib.library.internal.CardHeader;
@@ -56,7 +54,7 @@ public class GridGplayFragment extends BaseFragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.grid, container, false);
+        return inflater.inflate(R.layout.home_grid_card_view, container, false);
     }
 
     @Override
@@ -117,7 +115,7 @@ public class GridGplayFragment extends BaseFragment {
         protected float rating;
 
         public GplayGridCard(Context context) {
-            super(context, R.layout.carddemo_gplay_inner_content);
+            super(context, R.layout.home_card_inner_content);
         }
 
         public GplayGridCard(Context context, int innerLayout) {
@@ -155,8 +153,8 @@ public class GridGplayFragment extends BaseFragment {
         @Override
         public void setupInnerViewElements(ViewGroup parent, View view) {
 
-            TextView title = (TextView) view.findViewById(R.id.carddemo_gplay_main_inner_title);
-            title.setText("FREE");
+           /* TextView title = (TextView) view.findViewById(R.id.carddemo_gplay_main_inner_title);
+            title.setText("FREE");*/
 
             TextView subtitle = (TextView) view.findViewById(R.id.carddemo_gplay_main_inner_subtitle);
             subtitle.setText(secondaryTitle);
