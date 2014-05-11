@@ -25,5 +25,5 @@
     android:layout_width="@dimen/carddemo_gplay_grid_columnwidth_card"
     android:layout_height="wrap_content"
     style="@style/grid_card"
-    card:card_layout_resourceID="@layout/carddemo_googleplay_layout"
+    card:card_layout_resourceID="@layout/home_card_layout"
     />

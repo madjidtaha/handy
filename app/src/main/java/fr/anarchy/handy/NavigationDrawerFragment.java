@@ -30,6 +30,14 @@ import android.widget.Toast;
  */
 public class NavigationDrawerFragment extends Fragment {
 
+    final String[] fragments = {
+            "fr.anarchy.handy.GridPlayFragment",
+            "fr.anarchy.handy.StatsCalcFragment"
+    };
+
+    int currentFragmentPos;
+
+
     /**
      * Remember the position of the selected item.
      */
@@ -94,11 +102,12 @@ public class NavigationDrawerFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         mDrawerListView = (ListView) inflater.inflate(
-                R.layout.fragment_navigation_drawer, container, false);
+                R.layout.navigation_drawer, container, false);
         mDrawerListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 selectItem(position);
+                currentFragmentPos = position;
             }
         });
         mDrawerListView.setAdapter(new ArrayAdapter<String>(
@@ -109,7 +118,8 @@ public class NavigationDrawerFragment extends Fragment {
                         getString(R.string.title_section1),
                         getString(R.string.title_section2),
                         getString(R.string.title_section3),
-                }));
+                }
+        ));
         mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
         return mDrawerListView;
     }
@@ -152,7 +162,21 @@ public class NavigationDrawerFragment extends Fragment {
                     return;
                 }
 
-                getActivity().invalidateOptionsMenu(); // calls onPrepareOptionsMenu()
+                switch (currentFragmentPos){
+                    case 0 :
+                        fragment = new GridGplayFragment();
+                        break;
+                    case 1 :
+                        fragment = new StatsCalcFragment();
+                        break;
+                }
+
+                fragmentManager = getFragmentManager();
+                fragmentManager.beginTransaction()
+                        .replace(R.id.container, fragment)
+                        .commit();
+
+
             }
 
             @Override
@@ -200,7 +224,8 @@ public class NavigationDrawerFragment extends Fragment {
         if (mDrawerLayout != null) {
             mDrawerLayout.closeDrawer(mFragmentContainerView);
         }
-         if (mCallbacks != null) {
+        if (mCallbacks != null) {
+            mCallbacks.onNavigationDrawerItemSelected(position);
  /*           switch(position) {
                case 0:
                     mCallbacks.onNavigationDrawerItemSelected(position);
@@ -220,13 +245,9 @@ public class NavigationDrawerFragment extends Fragment {
                 case 2:
 
                     break;*/
-                mCallbacks.onNavigationDrawerItemSelected(position);
-                fragment = new GridGplayFragment();
-                fragmentManager = getFragmentManager();
-                fragmentManager.beginTransaction()
-                        .replace(R.id.container, fragment)
-                        .commit();
-           // }
+
+
+            // }
         }
     }
 
