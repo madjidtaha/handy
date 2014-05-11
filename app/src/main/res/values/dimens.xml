@@ -10,4 +10,10 @@
     -->
     <dimen name="navigation_drawer_width">240dp</dimen>
 
+    <!-- Grid -->
+    <dimen name="carddemo_base_grid_columnwidth">140dp</dimen>
+    <dimen name="carddemo_base_grid_columnwidth_card">125dp</dimen>
+    <dimen name="carddemo_gplay_grid_columnwidth">140dp</dimen>
+    <dimen name="carddemo_gplay_grid_columnwidth_card">125dp</dimen>
+
 </resources>

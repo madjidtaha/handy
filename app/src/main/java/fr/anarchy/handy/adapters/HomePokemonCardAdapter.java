@@ -40,11 +40,11 @@ public class HomePokemonCardAdapter extends ArrayAdapter {
 			Log.v("image", imageIndex + "");
 		}
 
-		String[] sqlSelect = { "0 _id", "identifier", "capture_rate" };
-		String sqlTables = "pokemon_species";
+        String[] sqlSelect = { "0 _id", "identifier", "capture_rate" };
+        String sqlTables = "pokemon_species";
 
-		pokemons = db.getPokemonInfos(sqlSelect, sqlTables);
-		pokemons.moveToFirst();
+        pokemons = db.getPokemonInfos(sqlSelect, sqlTables);
+        pokemons.moveToFirst();
 	}
 
 	public int getCount() {
