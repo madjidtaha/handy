@@ -19,7 +19,9 @@
 package fr.anarchy.handy;
 
 import android.content.Context;
+import android.database.Cursor;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
@@ -29,14 +31,10 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.util.ArrayList;
-
 import it.gmariotti.cardslib.library.internal.Card;
-import it.gmariotti.cardslib.library.internal.CardGridArrayAdapter;
 import it.gmariotti.cardslib.library.internal.CardHeader;
 import it.gmariotti.cardslib.library.internal.CardThumbnail;
 import it.gmariotti.cardslib.library.internal.base.BaseCard;
-import it.gmariotti.cardslib.library.view.CardGridView;
 
 /**
  * Grid as Google Play example
@@ -46,6 +44,15 @@ import it.gmariotti.cardslib.library.view.CardGridView;
 public class GridGplayFragment extends BaseFragment {
 
     protected ScrollView mScrollView;
+
+    public PokemonDatabase pokemonDB;
+
+    private Cursor pokemons;
+
+    int resId;
+
+    int[] pokemonVectorImage;
+
 
     @Override
     public int getTitleResourceId() {
@@ -60,34 +67,43 @@ public class GridGplayFragment extends BaseFragment {
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
+        pokemonDB = new PokemonDatabase(getActivity());
+
+        pokemonVectorImage = new int[151];
+
+        String packageName = getActivity().getPackageName();
+
+        for(int imageIndex = 0; imageIndex < pokemonVectorImage.length; imageIndex++){
+            resId = getActivity().getResources().getIdentifier("pokemon_vector_" + (imageIndex+1), "drawable", packageName);
+            pokemonVectorImage[imageIndex] = resId;
+
+            Log.v("image", imageIndex + "");
+        }
+
 
         initCards();
     }
 
 
     private void initCards() {
+        String[] sqlSelect = { "local_language_id", "name"};
+        String sqlTables = "pokemon_species_names";
 
-        ArrayList<Card> cards = new ArrayList<Card>();
-        for (int i = 0; i < 200; i++) {
+        pokemons = pokemonDB.getPokemonInfos(sqlSelect, sqlTables);
+        pokemons.moveToFirst();
+
+       /* ArrayList<Card> cards = new ArrayList<Card>();
+        for (int i = 0; i < 151; i++) {
+
+            pokemons.moveToPosition(i);
 
             GplayGridCard card = new GplayGridCard(getActivity());
 
-            card.headerTitle = "App example " + i;
-            card.secondaryTitle = "Some text here " + i;
+            card.headerTitle = "#00" + i;
+            card.secondaryTitle = pokemons.getString(1);
             card.rating = (float) (Math.random() * (5.0));
 
-            //Only for test, change some icons
-            if ((i % 6 == 0)) {
-                card.resourceIdThumbnail = R.drawable.pokemon_vector_1;
-            } else if ((i % 6 == 1)) {
-                card.resourceIdThumbnail = R.drawable.pokemon_vector_2;
-            } else if ((i % 6 == 2)) {
-                card.resourceIdThumbnail = R.drawable.pokemon_vector_3;
-            } else if ((i % 6 == 3)) {
-                card.resourceIdThumbnail = R.drawable.pokemon_vector_4;
-            } else if ((i % 6 == 4)) {
-                card.resourceIdThumbnail = R.drawable.pokemon_vector_5;
-            }
+            card.resourceIdThumbnail = pokemonVectorImage[i];
 
             card.init();
             cards.add(card);
@@ -98,7 +114,7 @@ public class GridGplayFragment extends BaseFragment {
         CardGridView listView = (CardGridView) getActivity().findViewById(R.id.carddemo_grid_base1);
         if (listView != null) {
             listView.setAdapter(mCardArrayAdapter);
-        }
+        }*/
     }
 
 

@@ -70,9 +70,6 @@ public class NavigationDrawerFragment extends Fragment {
     Fragment fragment;
     FragmentManager fragmentManager;
 
-    public NavigationDrawerFragment() {
-    }
-
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
