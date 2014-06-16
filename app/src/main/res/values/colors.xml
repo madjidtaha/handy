@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="type_text_color">#ffffff</color>
+    <color name="fire_border">#CE0000</color>
+    <color name="fire_bg">#ffed1600</color>
+    <integer name="fire_bg_color">0xffed1600</integer>
+    <color name="flying_border">#CE0000</color>
+    <color name="flying_bg">#ffed1600</color>
+
+
+</resources>

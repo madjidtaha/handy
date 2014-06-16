@@ -11,13 +11,16 @@
     <it.gmariotti.cardslib.library.view.CardGridView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
         android:columnWidth="@dimen/carddemo_gplay_grid_columnwidth"
         android:numColumns="3"
         android:verticalSpacing="3dp"
-        android:horizontalSpacing="1dp"
-        android:stretchMode="columnWidth"
+        android:horizontalSpacing="2dp"
+        android:stretchMode="none"
         android:gravity="center"
         card:list_card_layout_resourceID="@layout/home_card"
-        android:id="@+id/carddemo_grid_base1"/>
+        android:id="@+id/carddemo_grid_base1"
+        android:fastScrollEnabled="true"/>
 
 </LinearLayout>

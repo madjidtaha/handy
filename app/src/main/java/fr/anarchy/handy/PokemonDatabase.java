@@ -11,8 +11,10 @@ public class PokemonDatabase extends SQLiteAssetHelper {
 
 	private static final String DATABASE_NAME = "pokedex";
 	private static final int DATABASE_VERSION = 1;
-	
-	public PokemonDatabase(Context context) {
+    SQLiteDatabase db;
+    SQLiteQueryBuilder qb;
+
+    public PokemonDatabase(Context context) {
 		super(context, DATABASE_NAME, null, DATABASE_VERSION);
 		
 		// you can use an alternate constructor to specify a database location 
@@ -20,24 +22,31 @@ public class PokemonDatabase extends SQLiteAssetHelper {
 		// you must ensure that this folder is available and you have permission
 		// to write to it
 		//super(context, DATABASE_NAME, context.getExternalFilesDir(null).getAbsolutePath(), null, DATABASE_VERSION);
-		
-	}
 
-	public Cursor getPokemonInfos(String [] sqlSelect, String sqlTables) {
+        db = getReadableDatabase();
+        qb = new SQLiteQueryBuilder();
+    }
 
-		SQLiteDatabase db = getReadableDatabase();
-		SQLiteQueryBuilder qb = new SQLiteQueryBuilder();
+	public Cursor getPokemonInfos(String [] query, String selector, String sqlTables) {
+
+
 
 //		String [] sqlSelect = {"0 _id", "identifier", "capture_rate"}; 
 //		String sqlTables = "pokemon_species";
 
 		qb.setTables(sqlTables);
-		Cursor c = qb.query(db, sqlSelect, null, null,
+		Cursor c = qb.query(db, query, selector, null,
 				null, null, null);
 
 		c.moveToFirst();
 		return c;
 
 	}
+
+    public Cursor rawQuery(String query){
+        Cursor c = db.rawQuery(query, null);
+        c.moveToFirst();
+        return c;
+    }
 
 }
