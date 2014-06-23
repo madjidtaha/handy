@@ -22,6 +22,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
+import android.os.Handler;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
@@ -34,6 +35,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+import fr.anarchy.handy.fr.anarchy.handy.json.GlobalJSON;
 import it.gmariotti.cardslib.library.internal.Card;
 import it.gmariotti.cardslib.library.internal.CardGridArrayAdapter;
 import it.gmariotti.cardslib.library.internal.CardHeader;
@@ -49,128 +51,115 @@ import it.gmariotti.cardslib.library.view.CardGridView;
 public class GridGplayFragment extends BaseFragment {
 
     protected ScrollView mScrollView;
-
     public PokemonDatabase pokemonDB;
-
     private Cursor pokemonNames;
     private Cursor pokemonTypesNames;
     private Cursor pokemonTypesNames2;
-
     int resId;
-
     int[] pokemonVectorImage;
-
     int localLanguageID = 9;
+    ArrayList<Card> cards;
+    CardGridView listView;
+    CardGridArrayAdapter mCardArrayAdapter;
+    MainActivity main;
+
+    Handler myHandler;
 
 
-    @Override
     public int getTitleResourceId() {
         return R.string.carddemo_title_grid_gplay;
     }
 
-    @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.home_grid_card_view, container, false);
     }
 
-    @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        pokemonDB = new PokemonDatabase(getActivity());
+
+        myHandler = new Handler();
 
         pokemonVectorImage = new int[151];
 
         String packageName = getActivity().getPackageName();
 
+        // load images in array
         for (int imageIndex = 0; imageIndex < pokemonVectorImage.length; imageIndex++) {
             resId = getActivity().getResources().getIdentifier("pokemon_vector_" + (imageIndex + 1), "drawable", packageName);
             pokemonVectorImage[imageIndex] = resId;
-
-            Log.v("image", imageIndex + "");
         }
 
 
-        initCards();
+          // initialize cards with no content except images
+            cards = new ArrayList<Card>();
+            for (int i = 0; i < 151; i++) {
+                cards.add(initCard(i, "................."));
+            }
+
+
+        updateNames();
+
+        updateGrid();
     }
 
+    // method used to create a card
+    public GplayGridCard initCard(int i, String name) {
 
-/*    private void initCards() {
-        new Thread(
-                new Runnable() {
-                    public void run() {
-                        initCardsThread();
-                    }
-                }
-        ).start();
-    }*/
+        Log.v("name", name);
+        // initialize the card
+        GplayGridCard card = new GplayGridCard(getActivity());
+        // with mutliple parameters
+        card.headerTitle = "#" + String.format("%03d", i + 1);
+        card.secondaryTitle = name;
+        card.type1title = "lol";
+        card.firstTypeID = 1;
+        card.type2title = "mdr";
+        card.resourceIdThumbnail = pokemonVectorImage[i];
 
+        card.init();
 
-    private void initCards() {
+        return card;
+    }
 
+    // call this method always after cards have been initialized
+    public void updateGrid() {
+        // the adapter will get the latest cards state
+        mCardArrayAdapter = new CardGridArrayAdapter(getActivity(), cards);
 
-        String[] sqlSelect = {"name"};
-        String selector = "local_language_id = " + localLanguageID;
-        String sqlTables = "pokemon_species_names";
-        pokemonNames = pokemonDB.getPokemonInfos(sqlSelect, selector, sqlTables);
-
-        pokemonTypesNames = pokemonDB.rawQuery(
-                "SELECT type_names.name, type_names.type_id" +
-                        " FROM type_names JOIN pokemon_types" +
-                        " ON pokemon_types.type_id = type_names.type_id" +
-                        " AND pokemon_types.slot = 1" +
-                        " AND type_names.local_language_id = " + localLanguageID
-        );
-
-        pokemonTypesNames2 = pokemonDB.rawQuery(
-                "SELECT type_names.name" +
-                        " FROM type_names JOIN pokemon_types" +
-                        " ON pokemon_types.type_id = type_names.type_id" +
-                        " AND pokemon_types.slot = 2" +
-                        " AND type_names.local_language_id = " + localLanguageID
-        );
-
-
-        ArrayList<Card> cards = new ArrayList<Card>();
-        for (int i = 0; i < 151; i++) {
-
-            pokemonNames.moveToPosition(i);
-
-            GplayGridCard card = new GplayGridCard(getActivity());
-
-            card.headerTitle = "#" + String.format("%03d", i + 1);
-
-
-            card.secondaryTitle = pokemonNames.getString(0);
-
-            pokemonTypesNames.moveToPosition(i);
-            pokemonTypesNames2.moveToPosition(i);
-
-            card.type1title = pokemonTypesNames.getString(0);
-            card.firstTypeID = Integer.parseInt(pokemonTypesNames.getString(1));
-
-            card.type2title = pokemonTypesNames2.getString(0);
-
-            card.rating = 0;
-
-            card.resourceIdThumbnail = pokemonVectorImage[i];
-
-            card.init();
-            cards.add(card);
-        }
-
-        CardGridArrayAdapter mCardArrayAdapter = new CardGridArrayAdapter(getActivity(), cards);
-
-        CardGridView listView = (CardGridView) getActivity().findViewById(R.id.carddemo_grid_base1);
+        listView = (CardGridView) getActivity().findViewById(R.id.carddemo_grid_base1);
         if (listView != null) {
+            // p
             listView.setAdapter(mCardArrayAdapter);
         }
+    }
 
+    public ArrayList<Card> getCards() {
+        return cards;
+    }
 
+    // this method calls the other necessary methods in order to update the grid correctly
+    public void changeCardsName(int index) {
+        GplayGridCard card = initCard(index, GlobalJSON.pokemonNames[index]);
+        cards.set(index, card);
+        updateGrid();
+    }
+
+    public void updateNames(){
+        this.myHandler.post(new Runnable() {
+
+            public void run() {
+                for (int i = 0; i < 151; i++) {
+                    changeCardsName(i);
+                }
+            }
+        });
     }
 
 
-    public class GplayGridCard extends Card {
+    /*******************************************************************/
 
+    // card class
+    public class GplayGridCard extends Card {
         protected TextView mTitle;
         protected TextView mSecondaryTitle;
         protected RatingBar mRatingBar;
@@ -181,8 +170,8 @@ public class GridGplayFragment extends BaseFragment {
         protected String type1title;
         protected int firstTypeID;
         protected String type2title;
-        protected float rating;
-
+        public TextView type2;
+        public TextView subtitle;
 
         public GplayGridCard(Context context) {
             super(context, R.layout.home_card_inner_content);
@@ -223,20 +212,17 @@ public class GridGplayFragment extends BaseFragment {
         @Override
         public void setupInnerViewElements(ViewGroup parent, View view) {
 
-           /* TextView title = (TextView) view.findViewById(R.id.carddemo_gplay_main_inner_title);
-            title.setText("FREE");*/
-
             TextView title = (TextView) view.findViewById(R.id.handy_card_header_inner_simple_title);
             title.setText(headerTitle);
 
-            TextView subtitle = (TextView) view.findViewById(R.id.carddemo_gplay_main_inner_subtitle);
+            subtitle = (TextView) view.findViewById(R.id.carddemo_gplay_main_inner_subtitle);
             subtitle.setText(secondaryTitle);
 
             TextView type1 = (TextView) view.findViewById(R.id.home_card_type);
             type1.setText(type1title);
 
-            TextView type2 = (TextView) view.findViewById(R.id.home_card_type_2);
-            type1.setText(type2title);
+            type2 = (TextView) view.findViewById(R.id.home_card_type_2);
+            type2.setText(type2title);
 
             GradientDrawable shape = (GradientDrawable) type1.getBackground();
 
@@ -301,12 +287,6 @@ public class GridGplayFragment extends BaseFragment {
                     break;
             }
 
- /*           RatingBar mRatingBar = (RatingBar) parent.findViewById(R.id.carddemo_gplay_main_inner_ratingBar);
-
-            mRatingBar.setNumStars(5);
-            mRatingBar.setMax(5);
-            mRatingBar.setStepSize(0.5f);
-            mRatingBar.setRating(rating);*/
         }
 
         class GplayGridThumb extends CardThumbnail {

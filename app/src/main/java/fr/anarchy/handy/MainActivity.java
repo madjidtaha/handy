@@ -6,9 +6,14 @@ import android.app.Fragment;
 import android.app.FragmentManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.v4.widget.DrawerLayout;
 import android.view.Menu;
 import android.view.MenuItem;
+import java.util.logging.LogRecord;
+
+import fr.anarchy.handy.fr.anarchy.handy.json.AssembleJSONThreadPool;
+import fr.anarchy.handy.fr.anarchy.handy.json.GlobalJSON;
 
 public class MainActivity extends Activity
         implements NavigationDrawerFragment.NavigationDrawerCallbacks, StatsCalcFragment.OnFragmentInteractionListener {
@@ -19,6 +24,10 @@ public class MainActivity extends Activity
 
     Fragment fragment;
     FragmentManager fragmentManager;
+
+    AssembleJSONThreadPool assemble;
+
+   public Handler myHandler;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -32,6 +41,14 @@ public class MainActivity extends Activity
         mNavigationDrawerFragment.setUp(
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
+
+        new GlobalJSON();
+
+        myHandler = new Handler();
+
+        assemble = new AssembleJSONThreadPool(this);
+
+        assemble.start();
 
     }
 
@@ -97,6 +114,10 @@ public class MainActivity extends Activity
     @Override
     public void onFragmentInteraction(Uri uri) {
 
+    }
+
+    public GridGplayFragment getGridPlayFragment(){
+        return (GridGplayFragment) fragment;
     }
 
 }
