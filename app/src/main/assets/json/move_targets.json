@@ -1,0 +1,50 @@
+[
+     {
+          "identifier": "specific-move",
+          "id": "1"
+     },
+     {
+          "identifier": "selected-pokemon",
+          "id": "2"
+     },
+     {
+          "identifier": "ally",
+          "id": "3"
+     },
+     {
+          "identifier": "users-field",
+          "id": "4"
+     },
+     {
+          "identifier": "user-or-ally",
+          "id": "5"
+     },
+     {
+          "identifier": "opponents-field",
+          "id": "6"
+     },
+     {
+          "identifier": "user",
+          "id": "7"
+     },
+     {
+          "identifier": "random-opponent",
+          "id": "8"
+     },
+     {
+          "identifier": "all-other-pokemon",
+          "id": "9"
+     },
+     {
+          "identifier": "selected-pokemon",
+          "id": "10"
+     },
+     {
+          "identifier": "all-opponents",
+          "id": "11"
+     },
+     {
+          "identifier": "entire-field",
+          "id": "12"
+     }
+]

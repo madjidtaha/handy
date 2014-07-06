@@ -19,23 +19,20 @@
 package fr.anarchy.handy;
 
 import android.content.Context;
-import android.database.Cursor;
 import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
 import android.os.Handler;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RatingBar;
-import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
 
-import fr.anarchy.handy.fr.anarchy.handy.json.GlobalJSON;
+import fr.anarchy.handy.fr.anarchy.handy.json.Pokedex;
 import it.gmariotti.cardslib.library.internal.Card;
 import it.gmariotti.cardslib.library.internal.CardGridArrayAdapter;
 import it.gmariotti.cardslib.library.internal.CardHeader;
@@ -50,19 +47,11 @@ import it.gmariotti.cardslib.library.view.CardGridView;
  */
 public class GridGplayFragment extends BaseFragment {
 
-    protected ScrollView mScrollView;
-    public PokemonDatabase pokemonDB;
-    private Cursor pokemonNames;
-    private Cursor pokemonTypesNames;
-    private Cursor pokemonTypesNames2;
     int resId;
     int[] pokemonVectorImage;
-    int localLanguageID = 9;
     ArrayList<Card> cards;
     CardGridView listView;
     CardGridArrayAdapter mCardArrayAdapter;
-    MainActivity main;
-
     Handler myHandler;
 
 
@@ -79,7 +68,7 @@ public class GridGplayFragment extends BaseFragment {
 
         myHandler = new Handler();
 
-        pokemonVectorImage = new int[151];
+        pokemonVectorImage = new int[Pokedex.pokemonNumber];
 
         String packageName = getActivity().getPackageName();
 
@@ -89,72 +78,55 @@ public class GridGplayFragment extends BaseFragment {
             pokemonVectorImage[imageIndex] = resId;
         }
 
+        // initialize cards with their infos if the json has already been loaded once
+        cards = new ArrayList<Card>();
 
-          // initialize cards with no content except images
-            cards = new ArrayList<Card>();
-            for (int i = 0; i < 151; i++) {
-                cards.add(initCard(i, "................."));
-            }
+        initCards();
+    }
 
+    public void updateCards(){
+        setCards(false);
+    }
 
-        updateNames();
-
-        updateGrid();
+    public void initCards(){
+        setCards(true);
     }
 
     // method used to create a card
-    public GplayGridCard initCard(int i, String name) {
+    public void setCards(boolean init) {
+        for (int i = 0; i < Pokedex.pokemonNumber; i++) {
 
-        Log.v("name", name);
-        // initialize the card
-        GplayGridCard card = new GplayGridCard(getActivity());
-        // with mutliple parameters
-        card.headerTitle = "#" + String.format("%03d", i + 1);
-        card.secondaryTitle = name;
-        card.type1title = "lol";
-        card.firstTypeID = 1;
-        card.type2title = "mdr";
-        card.resourceIdThumbnail = pokemonVectorImage[i];
-
-        card.init();
-
-        return card;
+            // initialize the card
+            GplayGridCard card = new GplayGridCard(getActivity());
+            // with mutliple parameters
+            card.headerTitle = "#" + String.format("%03d", i + 1);
+            card.secondaryTitle = Pokedex.pokemonNames[i];
+            card.type1title = Pokedex.pokemonTypes1[i];
+            card.firstTypeID = 1;
+            card.type2title = Pokedex.pokemonTypes2[i];
+            card.resourceIdThumbnail = pokemonVectorImage[i];
+            card.init();
+            // check if need to add or update the card
+            if(init) {
+                cards.add(card);
+            }else{
+               cards.set(i, card);
+            }
+        }
+            // set the card list as the listview adapter
+            updateGrid();
     }
 
-    // call this method always after cards have been initialized
+    // call this method always after cards data update
     public void updateGrid() {
         // the adapter will get the latest cards state
         mCardArrayAdapter = new CardGridArrayAdapter(getActivity(), cards);
 
         listView = (CardGridView) getActivity().findViewById(R.id.carddemo_grid_base1);
         if (listView != null) {
-            // p
             listView.setAdapter(mCardArrayAdapter);
         }
     }
-
-    public ArrayList<Card> getCards() {
-        return cards;
-    }
-
-    // this method calls the other necessary methods in order to update the grid correctly
-    public void changeCardsName(int index) {
-        GplayGridCard card = initCard(index, GlobalJSON.pokemonNames[index]);
-        cards.set(index, card);
-        updateGrid();
-    }
-
-    public void updateNames(){
-        this.myHandler.post(new Runnable() {
-
-            public void run() {
-                for (int i = 0; i < 151; i++) {
-                    changeCardsName(i);
-                }
-            }
-        });
-    }
-
 
     /*******************************************************************/
 

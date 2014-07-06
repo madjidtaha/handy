@@ -1,0 +1,202 @@
+[
+     {
+          "increased_stat_id": "2",
+          "decreased_stat_id": "2",
+          "identifier": "hardy",
+          "likes_flavor_id": "1",
+          "hates_flavor_id": "1",
+          "id": "1"
+     },
+     {
+          "increased_stat_id": "3",
+          "decreased_stat_id": "2",
+          "identifier": "bold",
+          "likes_flavor_id": "5",
+          "hates_flavor_id": "1",
+          "id": "2"
+     },
+     {
+          "increased_stat_id": "4",
+          "decreased_stat_id": "2",
+          "identifier": "modest",
+          "likes_flavor_id": "2",
+          "hates_flavor_id": "1",
+          "id": "3"
+     },
+     {
+          "increased_stat_id": "5",
+          "decreased_stat_id": "2",
+          "identifier": "calm",
+          "likes_flavor_id": "4",
+          "hates_flavor_id": "1",
+          "id": "4"
+     },
+     {
+          "increased_stat_id": "6",
+          "decreased_stat_id": "2",
+          "identifier": "timid",
+          "likes_flavor_id": "3",
+          "hates_flavor_id": "1",
+          "id": "5"
+     },
+     {
+          "increased_stat_id": "2",
+          "decreased_stat_id": "3",
+          "identifier": "lonely",
+          "likes_flavor_id": "1",
+          "hates_flavor_id": "5",
+          "id": "6"
+     },
+     {
+          "increased_stat_id": "3",
+          "decreased_stat_id": "3",
+          "identifier": "docile",
+          "likes_flavor_id": "5",
+          "hates_flavor_id": "5",
+          "id": "7"
+     },
+     {
+          "increased_stat_id": "4",
+          "decreased_stat_id": "3",
+          "identifier": "mild",
+          "likes_flavor_id": "2",
+          "hates_flavor_id": "5",
+          "id": "8"
+     },
+     {
+          "increased_stat_id": "5",
+          "decreased_stat_id": "3",
+          "identifier": "gentle",
+          "likes_flavor_id": "4",
+          "hates_flavor_id": "5",
+          "id": "9"
+     },
+     {
+          "increased_stat_id": "6",
+          "decreased_stat_id": "3",
+          "identifier": "hasty",
+          "likes_flavor_id": "3",
+          "hates_flavor_id": "5",
+          "id": "10"
+     },
+     {
+          "increased_stat_id": "2",
+          "decreased_stat_id": "4",
+          "identifier": "adamant",
+          "likes_flavor_id": "1",
+          "hates_flavor_id": "2",
+          "id": "11"
+     },
+     {
+          "increased_stat_id": "3",
+          "decreased_stat_id": "4",
+          "identifier": "impish",
+          "likes_flavor_id": "5",
+          "hates_flavor_id": "2",
+          "id": "12"
+     },
+     {
+          "increased_stat_id": "4",
+          "decreased_stat_id": "4",
+          "identifier": "bashful",
+          "likes_flavor_id": "2",
+          "hates_flavor_id": "2",
+          "id": "13"
+     },
+     {
+          "increased_stat_id": "5",
+          "decreased_stat_id": "4",
+          "identifier": "careful",
+          "likes_flavor_id": "4",
+          "hates_flavor_id": "2",
+          "id": "14"
+     },
+     {
+          "increased_stat_id": "4",
+          "decreased_stat_id": "5",
+          "identifier": "rash",
+          "likes_flavor_id": "2",
+          "hates_flavor_id": "4",
+          "id": "15"
+     },
+     {
+          "increased_stat_id": "6",
+          "decreased_stat_id": "4",
+          "identifier": "jolly",
+          "likes_flavor_id": "3",
+          "hates_flavor_id": "2",
+          "id": "16"
+     },
+     {
+          "increased_stat_id": "2",
+          "decreased_stat_id": "5",
+          "identifier": "naughty",
+          "likes_flavor_id": "1",
+          "hates_flavor_id": "4",
+          "id": "17"
+     },
+     {
+          "increased_stat_id": "3",
+          "decreased_stat_id": "5",
+          "identifier": "lax",
+          "likes_flavor_id": "5",
+          "hates_flavor_id": "4",
+          "id": "18"
+     },
+     {
+          "increased_stat_id": "5",
+          "decreased_stat_id": "5",
+          "identifier": "quirky",
+          "likes_flavor_id": "4",
+          "hates_flavor_id": "4",
+          "id": "19"
+     },
+     {
+          "increased_stat_id": "6",
+          "decreased_stat_id": "5",
+          "identifier": "naive",
+          "likes_flavor_id": "3",
+          "hates_flavor_id": "4",
+          "id": "20"
+     },
+     {
+          "increased_stat_id": "2",
+          "decreased_stat_id": "6",
+          "identifier": "brave",
+          "likes_flavor_id": "1",
+          "hates_flavor_id": "3",
+          "id": "21"
+     },
+     {
+          "increased_stat_id": "3",
+          "decreased_stat_id": "6",
+          "identifier": "relaxed",
+          "likes_flavor_id": "5",
+          "hates_flavor_id": "3",
+          "id": "22"
+     },
+     {
+          "increased_stat_id": "4",
+          "decreased_stat_id": "6",
+          "identifier": "quiet",
+          "likes_flavor_id": "2",
+          "hates_flavor_id": "3",
+          "id": "23"
+     },
+     {
+          "increased_stat_id": "5",
+          "decreased_stat_id": "6",
+          "identifier": "sassy",
+          "likes_flavor_id": "4",
+          "hates_flavor_id": "3",
+          "id": "24"
+     },
+     {
+          "increased_stat_id": "6",
+          "decreased_stat_id": "6",
+          "identifier": "serious",
+          "likes_flavor_id": "3",
+          "hates_flavor_id": "3",
+          "id": "25"
+     }
+]

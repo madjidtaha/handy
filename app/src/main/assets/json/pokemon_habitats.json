@@ -1,0 +1,38 @@
+[
+     {
+          "identifier": "cave",
+          "id": "1"
+     },
+     {
+          "identifier": "forest",
+          "id": "2"
+     },
+     {
+          "identifier": "grassland",
+          "id": "3"
+     },
+     {
+          "identifier": "mountain",
+          "id": "4"
+     },
+     {
+          "identifier": "rare",
+          "id": "5"
+     },
+     {
+          "identifier": "rough-terrain",
+          "id": "6"
+     },
+     {
+          "identifier": "sea",
+          "id": "7"
+     },
+     {
+          "identifier": "urban",
+          "id": "8"
+     },
+     {
+          "identifier": "waters-edge",
+          "id": "9"
+     }
+]

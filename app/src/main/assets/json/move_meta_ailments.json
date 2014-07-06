@@ -1,0 +1,82 @@
+[
+     {
+          "identifier": "unknown",
+          "id": "-1"
+     },
+     {
+          "identifier": "none",
+          "id": "0"
+     },
+     {
+          "identifier": "paralysis",
+          "id": "1"
+     },
+     {
+          "identifier": "sleep",
+          "id": "2"
+     },
+     {
+          "identifier": "freeze",
+          "id": "3"
+     },
+     {
+          "identifier": "burn",
+          "id": "4"
+     },
+     {
+          "identifier": "poison",
+          "id": "5"
+     },
+     {
+          "identifier": "confusion",
+          "id": "6"
+     },
+     {
+          "identifier": "infatuation",
+          "id": "7"
+     },
+     {
+          "identifier": "trap",
+          "id": "8"
+     },
+     {
+          "identifier": "nightmare",
+          "id": "9"
+     },
+     {
+          "identifier": "torment",
+          "id": "12"
+     },
+     {
+          "identifier": "disable",
+          "id": "13"
+     },
+     {
+          "identifier": "yawn",
+          "id": "14"
+     },
+     {
+          "identifier": "heal-block",
+          "id": "15"
+     },
+     {
+          "identifier": "no-type-immunity",
+          "id": "17"
+     },
+     {
+          "identifier": "leech-seed",
+          "id": "18"
+     },
+     {
+          "identifier": "embargo",
+          "id": "19"
+     },
+     {
+          "identifier": "perish-song",
+          "id": "20"
+     },
+     {
+          "identifier": "ingrain",
+          "id": "21"
+     }
+]

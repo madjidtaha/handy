@@ -1,0 +1,117 @@
+[
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "-1",
+          "name": "????"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "0",
+          "name": "none"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "1",
+          "name": "Paralysis"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "2",
+          "name": "Sleep"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "3",
+          "name": "Freeze"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "4",
+          "name": "Burn"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "5",
+          "name": "Poison"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "6",
+          "name": "Confusion"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "7",
+          "name": "Infatuation"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "8",
+          "name": "Trap"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "9",
+          "name": "Nightmare"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "12",
+          "name": "Torment"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "13",
+          "name": "Disable"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "14",
+          "name": "Yawn"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "15",
+          "name": "Heal Block"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "17",
+          "name": "No type immunity"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "18",
+          "name": "Leech Seed"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "19",
+          "name": "Embargo"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "20",
+          "name": "Perish Song"
+     },
+     {
+          "local_language_id": "9",
+          "move_meta_ailment_id": "21",
+          "name": "Ingrain"
+     },
+     {
+          "local_language_id": "10",
+          "move_meta_ailment_id": "1",
+          "name": "Paralýza"
+     },
+     {
+          "local_language_id": "10",
+          "move_meta_ailment_id": "6",
+          "name": "Zmatení"
+     },
+     {
+          "local_language_id": "10",
+          "move_meta_ailment_id": "2",
+          "name": "Spánek"
+     }
+]

@@ -1,0 +1,22 @@
+[
+     {
+          "identifier": "speed",
+          "id": "1"
+     },
+     {
+          "identifier": "power",
+          "id": "2"
+     },
+     {
+          "identifier": "skill",
+          "id": "3"
+     },
+     {
+          "identifier": "stamina",
+          "id": "4"
+     },
+     {
+          "identifier": "jump",
+          "id": "5"
+     }
+]

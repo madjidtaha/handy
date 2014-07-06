@@ -1,0 +1,80 @@
+[
+     {
+          "is_main_series": "1",
+          "identifier": "national",
+          "region_id": "",
+          "id": "1"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "kanto",
+          "region_id": "1",
+          "id": "2"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "original-johto",
+          "region_id": "2",
+          "id": "3"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "hoenn",
+          "region_id": "3",
+          "id": "4"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "original-sinnoh",
+          "region_id": "4",
+          "id": "5"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "extended-sinnoh",
+          "region_id": "4",
+          "id": "6"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "updated-johto",
+          "region_id": "2",
+          "id": "7"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "original-unova",
+          "region_id": "5",
+          "id": "8"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "updated-unova",
+          "region_id": "5",
+          "id": "9"
+     },
+     {
+          "is_main_series": "0",
+          "identifier": "conquest-gallery",
+          "region_id": "",
+          "id": "11"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "kalos-central",
+          "region_id": "6",
+          "id": "12"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "kalos-coastal",
+          "region_id": "6",
+          "id": "13"
+     },
+     {
+          "is_main_series": "1",
+          "identifier": "kalos-mountain",
+          "region_id": "6",
+          "id": "14"
+     }
+]

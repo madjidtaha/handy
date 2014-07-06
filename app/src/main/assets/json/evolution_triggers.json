@@ -1,0 +1,18 @@
+[
+     {
+          "identifier": "level-up",
+          "id": "1"
+     },
+     {
+          "identifier": "trade",
+          "id": "2"
+     },
+     {
+          "identifier": "use-item",
+          "id": "3"
+     },
+     {
+          "identifier": "shed",
+          "id": "4"
+     }
+]

@@ -1,0 +1,109 @@
+[
+     {"Error": "Expected 3 fields but got 4"},
+     {
+          "local_language_id": "9",
+          "effect": "Hits Pokémon under the effects of []{move:dig} and []{move:fly}.",
+          "move_effect_changelog_id": "2"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does nothing in trainer battles.",
+          "move_effect_changelog_id": "3"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Works while asleep through []{move:sleep-talk} if not at full health.",
+          "move_effect_changelog_id": "4"
+     },
+     {"Error": "Expected 3 fields but got 4"},
+     {"Error": "Expected 3 fields but got 4"},
+     {"Error": "Expected 3 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "effect": "Can call any move except for []{move:struggle} and itself.",
+          "move_effect_changelog_id": "8"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does not interact with []{move:stomp}.",
+          "move_effect_changelog_id": "9"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Raises [evasion]{mechanic:evasion} by one stage.",
+          "move_effect_changelog_id": "10"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does not raise [Defense]{mechanic:defense}.",
+          "move_effect_changelog_id": "11"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does not hit Pokémon under the effects of []{move:dig}.",
+          "move_effect_changelog_id": "12"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does not hit Pokémon under the effects of []{move:fly}.",
+          "move_effect_changelog_id": "13"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does not interact with []{move:minimize}.",
+          "move_effect_changelog_id": "14"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does not hit Pokémon under the effects of []{move:fly}.",
+          "move_effect_changelog_id": "15"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Determines damage using each participant's base [Attack]{mechanic:attack} and the opponent's base [Defense]{mechanic:defense} in place of calculated stats.",
+          "move_effect_changelog_id": "16"
+     },
+     {"Error": "Expected 3 fields but got 8"},
+     {
+          "local_language_id": "9",
+          "effect": "Does not raise [Defense]{mechanic:defense} or [Special Defense]{mechanic:special-defense}.",
+          "move_effect_changelog_id": "18"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Does not raise the user's [Special Defense]{mechanic:special-defense}.",
+          "move_effect_changelog_id": "19"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Heals replacement Pokémon by half of their max HP.",
+          "move_effect_changelog_id": "20"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Inflicts []{type:normal}-type damage.",
+          "move_effect_changelog_id": "21"
+     },
+     {"Error": "Expected 3 fields but got 8"},
+     {
+          "local_language_id": "9",
+          "effect": "Does not interact with []{move:hail}.",
+          "move_effect_changelog_id": "23"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Ignores []{ability:wonder-guard}.",
+          "move_effect_changelog_id": "24"
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Lasts either two or three turns.",
+          "move_effect_changelog_id": "25"
+     },
+     {"Error": "Expected 3 fields but got 4"},
+     {
+          "local_language_id": "9",
+          "effect": "The user receieves 1/2 of the damage dealt in recoil.",
+          "move_effect_changelog_id": "27"
+     }
+]

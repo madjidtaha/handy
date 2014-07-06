@@ -1,0 +1,1602 @@
+[
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "1"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "1"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "1"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "1"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "1"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "2"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "2"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "2"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "2"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "2"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "3"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "3"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "3"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "3"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "3"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "4"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "4"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "4"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "4"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "4"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "5"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "5"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "5"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "5"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "5"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "6"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "6"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "6"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "6"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "6"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "7"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "7"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "7"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "7"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "7"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "8"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "8"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "8"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "8"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "8"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "9"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "9"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "9"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "9"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "9"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "10"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "10"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "10"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "10"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "10"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "1",
+          "berry_id": "11"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "11"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "11"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "11"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "11"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "12"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "2",
+          "berry_id": "12"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "12"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "12"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "12"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "13"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "13"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "3",
+          "berry_id": "13"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "13"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "13"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "14"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "14"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "14"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "4",
+          "berry_id": "14"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "14"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "15"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "15"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "15"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "15"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "5",
+          "berry_id": "15"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "16"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "16"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "16"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "16"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "16"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "17"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "17"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "17"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "17"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "17"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "18"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "18"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "18"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "18"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "18"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "19"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "19"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "19"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "19"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "19"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "20"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "20"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "20"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "20"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "20"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "21"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "21"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "21"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "21"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "21"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "22"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "22"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "22"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "22"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "22"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "23"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "23"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "23"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "23"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "23"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "24"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "24"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "24"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "24"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "24"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "25"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "25"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "25"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "25"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "25"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "1",
+          "berry_id": "26"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "26"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "26"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "26"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "26"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "27"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "2",
+          "berry_id": "27"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "27"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "27"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "27"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "28"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "28"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "3",
+          "berry_id": "28"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "28"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "28"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "29"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "29"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "29"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "4",
+          "berry_id": "29"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "29"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "30"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "30"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "30"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "30"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "5",
+          "berry_id": "30"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "1",
+          "berry_id": "31"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "31"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "31"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "31"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "31"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "32"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "2",
+          "berry_id": "32"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "32"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "32"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "32"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "33"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "33"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "3",
+          "berry_id": "33"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "33"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "33"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "34"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "34"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "34"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "4",
+          "berry_id": "34"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "34"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "35"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "35"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "35"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "35"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "5",
+          "berry_id": "35"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "1",
+          "berry_id": "36"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "36"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "36"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "36"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "36"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "37"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "2",
+          "berry_id": "37"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "37"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "37"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "37"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "38"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "38"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "3",
+          "berry_id": "38"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "38"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "38"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "39"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "39"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "39"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "4",
+          "berry_id": "39"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "39"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "40"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "40"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "40"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "40"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "5",
+          "berry_id": "40"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "1",
+          "berry_id": "41"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "41"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "41"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "41"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "41"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "42"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "2",
+          "berry_id": "42"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "42"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "42"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "42"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "43"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "43"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "3",
+          "berry_id": "43"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "43"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "43"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "44"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "44"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "44"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "4",
+          "berry_id": "44"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "44"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "45"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "45"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "45"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "45"
+     },
+     {
+          "flavor": "15",
+          "contest_type_id": "5",
+          "berry_id": "45"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "1",
+          "berry_id": "46"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "46"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "46"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "46"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "46"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "47"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "2",
+          "berry_id": "47"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "47"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "47"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "47"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "48"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "48"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "3",
+          "berry_id": "48"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "48"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "48"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "49"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "49"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "49"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "4",
+          "berry_id": "49"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "49"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "50"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "50"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "50"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "50"
+     },
+     {
+          "flavor": "20",
+          "contest_type_id": "5",
+          "berry_id": "50"
+     },
+     {
+          "flavor": "25",
+          "contest_type_id": "1",
+          "berry_id": "51"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "51"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "51"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "51"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "51"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "52"
+     },
+     {
+          "flavor": "25",
+          "contest_type_id": "2",
+          "berry_id": "52"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "52"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "52"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "52"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "1",
+          "berry_id": "53"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "53"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "3",
+          "berry_id": "53"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "53"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "53"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "54"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "2",
+          "berry_id": "54"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "54"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "4",
+          "berry_id": "54"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "54"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "55"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "55"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "3",
+          "berry_id": "55"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "55"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "5",
+          "berry_id": "55"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "1",
+          "berry_id": "56"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "56"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "56"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "4",
+          "berry_id": "56"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "56"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "57"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "2",
+          "berry_id": "57"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "57"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "57"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "5",
+          "berry_id": "57"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "1",
+          "berry_id": "58"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "58"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "3",
+          "berry_id": "58"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "58"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "5",
+          "berry_id": "58"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "1",
+          "berry_id": "59"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "59"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "3",
+          "berry_id": "59"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "59"
+     },
+     {
+          "flavor": "30",
+          "contest_type_id": "5",
+          "berry_id": "59"
+     },
+     {
+          "flavor": "40",
+          "contest_type_id": "1",
+          "berry_id": "60"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "2",
+          "berry_id": "60"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "60"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "60"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "60"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "61"
+     },
+     {
+          "flavor": "40",
+          "contest_type_id": "2",
+          "berry_id": "61"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "3",
+          "berry_id": "61"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "61"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "61"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "62"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "62"
+     },
+     {
+          "flavor": "40",
+          "contest_type_id": "3",
+          "berry_id": "62"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "4",
+          "berry_id": "62"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "5",
+          "berry_id": "62"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "1",
+          "berry_id": "63"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "63"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "63"
+     },
+     {
+          "flavor": "40",
+          "contest_type_id": "4",
+          "berry_id": "63"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "5",
+          "berry_id": "63"
+     },
+     {
+          "flavor": "10",
+          "contest_type_id": "1",
+          "berry_id": "64"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "2",
+          "berry_id": "64"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "3",
+          "berry_id": "64"
+     },
+     {
+          "flavor": "0",
+          "contest_type_id": "4",
+          "berry_id": "64"
+     },
+     {
+          "flavor": "40",
+          "contest_type_id": "5",
+          "berry_id": "64"
+     }
+]

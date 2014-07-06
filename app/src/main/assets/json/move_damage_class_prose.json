@@ -1,0 +1,41 @@
+[
+     {
+          "local_language_id": "1",
+          "name": "へんか",
+          "description": "ダメージない",
+          "move_damage_class_id": "1"
+     },
+     {
+          "local_language_id": "9",
+          "name": "status",
+          "description": "No damage",
+          "move_damage_class_id": "1"
+     },
+     {
+          "local_language_id": "1",
+          "name": "ぶつり",
+          "description": "ぶつりのダメージ。こうげきとぼうぎょを行使する",
+          "move_damage_class_id": "2"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "1",
+          "name": "とくしゅ",
+          "description": "とくしゅのダメージ。とくこうととくぼうを行使する",
+          "move_damage_class_id": "3"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "10",
+          "name": "nezraňující",
+          "description": "Nezraňuje",
+          "move_damage_class_id": "1"
+     },
+     {
+          "local_language_id": "10",
+          "name": "speciální",
+          "description": "",
+          "move_damage_class_id": "3"
+     },
+     {"Error": "Expected 4 fields but got 5"}
+]

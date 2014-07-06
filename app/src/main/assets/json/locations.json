@@ -1,0 +1,3162 @@
+[
+     {
+          "identifier": "canalave-city",
+          "region_id": "4",
+          "id": "1"
+     },
+     {
+          "identifier": "eterna-city",
+          "region_id": "4",
+          "id": "2"
+     },
+     {
+          "identifier": "pastoria-city",
+          "region_id": "4",
+          "id": "3"
+     },
+     {
+          "identifier": "sunyshore-city",
+          "region_id": "4",
+          "id": "4"
+     },
+     {
+          "identifier": "sinnoh-pokemon-league",
+          "region_id": "4",
+          "id": "5"
+     },
+     {
+          "identifier": "oreburgh-mine",
+          "region_id": "4",
+          "id": "6"
+     },
+     {
+          "identifier": "valley-windworks",
+          "region_id": "4",
+          "id": "7"
+     },
+     {
+          "identifier": "eterna-forest",
+          "region_id": "4",
+          "id": "8"
+     },
+     {
+          "identifier": "fuego-ironworks",
+          "region_id": "4",
+          "id": "9"
+     },
+     {
+          "identifier": "mt-coronet",
+          "region_id": "4",
+          "id": "10"
+     },
+     {
+          "identifier": "great-marsh",
+          "region_id": "4",
+          "id": "11"
+     },
+     {
+          "identifier": "solaceon-ruins",
+          "region_id": "4",
+          "id": "12"
+     },
+     {
+          "identifier": "sinnoh-victory-road",
+          "region_id": "4",
+          "id": "13"
+     },
+     {
+          "identifier": "ravaged-path",
+          "region_id": "4",
+          "id": "14"
+     },
+     {
+          "identifier": "oreburgh-gate",
+          "region_id": "4",
+          "id": "15"
+     },
+     {
+          "identifier": "stark-mountain",
+          "region_id": "4",
+          "id": "16"
+     },
+     {
+          "identifier": "spring-path",
+          "region_id": "4",
+          "id": "17"
+     },
+     {
+          "identifier": "turnback-cave",
+          "region_id": "4",
+          "id": "18"
+     },
+     {
+          "identifier": "snowpoint-temple",
+          "region_id": "4",
+          "id": "19"
+     },
+     {
+          "identifier": "wayward-cave",
+          "region_id": "4",
+          "id": "20"
+     },
+     {
+          "identifier": "ruin-maniac-cave",
+          "region_id": "4",
+          "id": "22"
+     },
+     {
+          "identifier": "trophy-garden",
+          "region_id": "4",
+          "id": "23"
+     },
+     {
+          "identifier": "iron-island",
+          "region_id": "4",
+          "id": "24"
+     },
+     {
+          "identifier": "old-chateau",
+          "region_id": "4",
+          "id": "25"
+     },
+     {
+          "identifier": "lake-verity",
+          "region_id": "4",
+          "id": "26"
+     },
+     {
+          "identifier": "lake-valor",
+          "region_id": "4",
+          "id": "27"
+     },
+     {
+          "identifier": "lake-acuity",
+          "region_id": "4",
+          "id": "28"
+     },
+     {
+          "identifier": "valor-lakefront",
+          "region_id": "4",
+          "id": "29"
+     },
+     {
+          "identifier": "acuity-lakefront",
+          "region_id": "4",
+          "id": "30"
+     },
+     {
+          "identifier": "sinnoh-route-201",
+          "region_id": "4",
+          "id": "31"
+     },
+     {
+          "identifier": "sinnoh-route-202",
+          "region_id": "4",
+          "id": "32"
+     },
+     {
+          "identifier": "sinnoh-route-203",
+          "region_id": "4",
+          "id": "33"
+     },
+     {
+          "identifier": "sinnoh-route-204",
+          "region_id": "4",
+          "id": "34"
+     },
+     {
+          "identifier": "sinnoh-route-205",
+          "region_id": "4",
+          "id": "35"
+     },
+     {
+          "identifier": "sinnoh-route-206",
+          "region_id": "4",
+          "id": "36"
+     },
+     {
+          "identifier": "sinnoh-route-207",
+          "region_id": "4",
+          "id": "37"
+     },
+     {
+          "identifier": "sinnoh-route-208",
+          "region_id": "4",
+          "id": "38"
+     },
+     {
+          "identifier": "sinnoh-route-209",
+          "region_id": "4",
+          "id": "39"
+     },
+     {
+          "identifier": "lost-tower",
+          "region_id": "4",
+          "id": "40"
+     },
+     {
+          "identifier": "sinnoh-route-210",
+          "region_id": "4",
+          "id": "41"
+     },
+     {
+          "identifier": "sinnoh-route-211",
+          "region_id": "4",
+          "id": "42"
+     },
+     {
+          "identifier": "sinnoh-route-212",
+          "region_id": "4",
+          "id": "43"
+     },
+     {
+          "identifier": "sinnoh-route-213",
+          "region_id": "4",
+          "id": "44"
+     },
+     {
+          "identifier": "sinnoh-route-214",
+          "region_id": "4",
+          "id": "45"
+     },
+     {
+          "identifier": "sinnoh-route-215",
+          "region_id": "4",
+          "id": "46"
+     },
+     {
+          "identifier": "sinnoh-route-216",
+          "region_id": "4",
+          "id": "47"
+     },
+     {
+          "identifier": "sinnoh-route-217",
+          "region_id": "4",
+          "id": "48"
+     },
+     {
+          "identifier": "sinnoh-route-218",
+          "region_id": "4",
+          "id": "49"
+     },
+     {
+          "identifier": "sinnoh-route-219",
+          "region_id": "4",
+          "id": "50"
+     },
+     {
+          "identifier": "sinnoh-route-221",
+          "region_id": "4",
+          "id": "51"
+     },
+     {
+          "identifier": "sinnoh-route-222",
+          "region_id": "4",
+          "id": "52"
+     },
+     {
+          "identifier": "sinnoh-route-224",
+          "region_id": "4",
+          "id": "53"
+     },
+     {
+          "identifier": "sinnoh-route-225",
+          "region_id": "4",
+          "id": "54"
+     },
+     {
+          "identifier": "sinnoh-route-227",
+          "region_id": "4",
+          "id": "55"
+     },
+     {
+          "identifier": "sinnoh-route-228",
+          "region_id": "4",
+          "id": "56"
+     },
+     {
+          "identifier": "sinnoh-route-229",
+          "region_id": "4",
+          "id": "57"
+     },
+     {
+          "identifier": "twinleaf-town",
+          "region_id": "4",
+          "id": "58"
+     },
+     {
+          "identifier": "celestic-town",
+          "region_id": "4",
+          "id": "59"
+     },
+     {
+          "identifier": "resort-area",
+          "region_id": "4",
+          "id": "60"
+     },
+     {
+          "identifier": "sinnoh-sea-route-220",
+          "region_id": "4",
+          "id": "61"
+     },
+     {
+          "identifier": "sinnoh-sea-route-223",
+          "region_id": "4",
+          "id": "62"
+     },
+     {
+          "identifier": "sinnoh-sea-route-226",
+          "region_id": "4",
+          "id": "63"
+     },
+     {
+          "identifier": "sinnoh-sea-route-230",
+          "region_id": "4",
+          "id": "64"
+     },
+     {
+          "identifier": "blackthorn-city",
+          "region_id": "2",
+          "id": "65"
+     },
+     {
+          "identifier": "burned-tower",
+          "region_id": "2",
+          "id": "66"
+     },
+     {
+          "identifier": "celadon-city",
+          "region_id": "1",
+          "id": "67"
+     },
+     {
+          "identifier": "cerulean-city",
+          "region_id": "1",
+          "id": "68"
+     },
+     {
+          "identifier": "cherrygrove-city",
+          "region_id": "2",
+          "id": "69"
+     },
+     {
+          "identifier": "cianwood-city",
+          "region_id": "2",
+          "id": "70"
+     },
+     {
+          "identifier": "cinnabar-island",
+          "region_id": "1",
+          "id": "71"
+     },
+     {
+          "identifier": "dark-cave",
+          "region_id": "2",
+          "id": "72"
+     },
+     {
+          "identifier": "digletts-cave",
+          "region_id": "1",
+          "id": "73"
+     },
+     {
+          "identifier": "dragons-den",
+          "region_id": "2",
+          "id": "74"
+     },
+     {
+          "identifier": "ecruteak-city",
+          "region_id": "2",
+          "id": "75"
+     },
+     {
+          "identifier": "fuchsia-city",
+          "region_id": "1",
+          "id": "76"
+     },
+     {
+          "identifier": "ice-path",
+          "region_id": "2",
+          "id": "77"
+     },
+     {
+          "identifier": "ilex-forest",
+          "region_id": "2",
+          "id": "78"
+     },
+     {
+          "identifier": "lake-of-rage",
+          "region_id": "2",
+          "id": "79"
+     },
+     {
+          "identifier": "mt-moon",
+          "region_id": "1",
+          "id": "80"
+     },
+     {
+          "identifier": "mt-mortar",
+          "region_id": "2",
+          "id": "81"
+     },
+     {
+          "identifier": "mt-silver",
+          "region_id": "2",
+          "id": "82"
+     },
+     {
+          "identifier": "national-park",
+          "region_id": "2",
+          "id": "83"
+     },
+     {
+          "identifier": "new-bark-town",
+          "region_id": "2",
+          "id": "84"
+     },
+     {
+          "identifier": "olivine-city",
+          "region_id": "2",
+          "id": "85"
+     },
+     {
+          "identifier": "pallet-town",
+          "region_id": "1",
+          "id": "86"
+     },
+     {
+          "identifier": "rock-tunnel",
+          "region_id": "1",
+          "id": "87"
+     },
+     {
+          "identifier": "kanto-route-1",
+          "region_id": "1",
+          "id": "88"
+     },
+     {
+          "identifier": "kanto-route-10",
+          "region_id": "1",
+          "id": "89"
+     },
+     {
+          "identifier": "kanto-route-11",
+          "region_id": "1",
+          "id": "90"
+     },
+     {
+          "identifier": "kanto-route-12",
+          "region_id": "1",
+          "id": "91"
+     },
+     {
+          "identifier": "kanto-route-13",
+          "region_id": "1",
+          "id": "92"
+     },
+     {
+          "identifier": "kanto-route-14",
+          "region_id": "1",
+          "id": "93"
+     },
+     {
+          "identifier": "kanto-route-15",
+          "region_id": "1",
+          "id": "94"
+     },
+     {
+          "identifier": "kanto-route-16",
+          "region_id": "1",
+          "id": "95"
+     },
+     {
+          "identifier": "kanto-route-17",
+          "region_id": "1",
+          "id": "96"
+     },
+     {
+          "identifier": "kanto-route-18",
+          "region_id": "1",
+          "id": "97"
+     },
+     {
+          "identifier": "kanto-sea-route-19",
+          "region_id": "1",
+          "id": "98"
+     },
+     {
+          "identifier": "kanto-route-2",
+          "region_id": "1",
+          "id": "99"
+     },
+     {
+          "identifier": "kanto-sea-route-20",
+          "region_id": "1",
+          "id": "100"
+     },
+     {
+          "identifier": "kanto-sea-route-21",
+          "region_id": "1",
+          "id": "101"
+     },
+     {
+          "identifier": "kanto-route-22",
+          "region_id": "1",
+          "id": "102"
+     },
+     {
+          "identifier": "kanto-route-24",
+          "region_id": "1",
+          "id": "103"
+     },
+     {
+          "identifier": "kanto-route-25",
+          "region_id": "1",
+          "id": "104"
+     },
+     {
+          "identifier": "kanto-route-26",
+          "region_id": "1",
+          "id": "105"
+     },
+     {
+          "identifier": "kanto-route-27",
+          "region_id": "1",
+          "id": "106"
+     },
+     {
+          "identifier": "kanto-route-28",
+          "region_id": "1",
+          "id": "107"
+     },
+     {
+          "identifier": "johto-route-29",
+          "region_id": "2",
+          "id": "108"
+     },
+     {
+          "identifier": "kanto-route-3",
+          "region_id": "1",
+          "id": "109"
+     },
+     {
+          "identifier": "johto-route-30",
+          "region_id": "2",
+          "id": "110"
+     },
+     {
+          "identifier": "johto-route-31",
+          "region_id": "2",
+          "id": "111"
+     },
+     {
+          "identifier": "johto-route-32",
+          "region_id": "2",
+          "id": "112"
+     },
+     {
+          "identifier": "johto-route-33",
+          "region_id": "2",
+          "id": "113"
+     },
+     {
+          "identifier": "johto-route-34",
+          "region_id": "2",
+          "id": "114"
+     },
+     {
+          "identifier": "johto-route-35",
+          "region_id": "2",
+          "id": "115"
+     },
+     {
+          "identifier": "johto-route-36",
+          "region_id": "2",
+          "id": "116"
+     },
+     {
+          "identifier": "johto-route-37",
+          "region_id": "2",
+          "id": "117"
+     },
+     {
+          "identifier": "johto-route-38",
+          "region_id": "2",
+          "id": "118"
+     },
+     {
+          "identifier": "johto-route-39",
+          "region_id": "2",
+          "id": "119"
+     },
+     {
+          "identifier": "kanto-route-4",
+          "region_id": "1",
+          "id": "120"
+     },
+     {
+          "identifier": "johto-sea-route-40",
+          "region_id": "2",
+          "id": "121"
+     },
+     {
+          "identifier": "johto-sea-route-41",
+          "region_id": "2",
+          "id": "122"
+     },
+     {
+          "identifier": "johto-route-42",
+          "region_id": "2",
+          "id": "123"
+     },
+     {
+          "identifier": "johto-route-43",
+          "region_id": "2",
+          "id": "124"
+     },
+     {
+          "identifier": "johto-route-44",
+          "region_id": "2",
+          "id": "125"
+     },
+     {
+          "identifier": "johto-route-45",
+          "region_id": "2",
+          "id": "126"
+     },
+     {
+          "identifier": "johto-route-46",
+          "region_id": "2",
+          "id": "127"
+     },
+     {
+          "identifier": "johto-route-47",
+          "region_id": "2",
+          "id": "128"
+     },
+     {
+          "identifier": "johto-route-48",
+          "region_id": "2",
+          "id": "129"
+     },
+     {
+          "identifier": "kanto-route-5",
+          "region_id": "1",
+          "id": "130"
+     },
+     {
+          "identifier": "kanto-route-6",
+          "region_id": "1",
+          "id": "131"
+     },
+     {
+          "identifier": "kanto-route-7",
+          "region_id": "1",
+          "id": "132"
+     },
+     {
+          "identifier": "kanto-route-8",
+          "region_id": "1",
+          "id": "133"
+     },
+     {
+          "identifier": "kanto-route-9",
+          "region_id": "1",
+          "id": "134"
+     },
+     {
+          "identifier": "ruins-of-alph",
+          "region_id": "2",
+          "id": "135"
+     },
+     {
+          "identifier": "seafoam-islands",
+          "region_id": "1",
+          "id": "136"
+     },
+     {
+          "identifier": "slowpoke-well",
+          "region_id": "2",
+          "id": "137"
+     },
+     {
+          "identifier": "sprout-tower",
+          "region_id": "2",
+          "id": "138"
+     },
+     {
+          "identifier": "bell-tower",
+          "region_id": "2",
+          "id": "139"
+     },
+     {
+          "identifier": "tohjo-falls",
+          "region_id": "2",
+          "id": "140"
+     },
+     {
+          "identifier": "union-cave",
+          "region_id": "2",
+          "id": "141"
+     },
+     {
+          "identifier": "cerulean-cave",
+          "region_id": "1",
+          "id": "147"
+     },
+     {
+          "identifier": "unknown-all-poliwag",
+          "region_id": "2",
+          "id": "148"
+     },
+     {
+          "identifier": "unknown-all-rattata",
+          "region_id": "2",
+          "id": "149"
+     },
+     {
+          "identifier": "unknown-all-bugs",
+          "region_id": "2",
+          "id": "150"
+     },
+     {
+          "identifier": "vermilion-city",
+          "region_id": "1",
+          "id": "151"
+     },
+     {
+          "identifier": "kanto-victory-road-1",
+          "region_id": "1",
+          "id": "152"
+     },
+     {
+          "identifier": "violet-city",
+          "region_id": "2",
+          "id": "153"
+     },
+     {
+          "identifier": "viridian-city",
+          "region_id": "1",
+          "id": "154"
+     },
+     {
+          "identifier": "viridian-forest",
+          "region_id": "1",
+          "id": "155"
+     },
+     {
+          "identifier": "whirl-islands",
+          "region_id": "2",
+          "id": "156"
+     },
+     {
+          "identifier": "kanto-route-23",
+          "region_id": "1",
+          "id": "157"
+     },
+     {
+          "identifier": "power-plant",
+          "region_id": "1",
+          "id": "158"
+     },
+     {
+          "identifier": "kanto-victory-road-2",
+          "region_id": "1",
+          "id": "159"
+     },
+     {
+          "identifier": "pokemon-tower",
+          "region_id": "1",
+          "id": "160"
+     },
+     {
+          "identifier": "pokemon-mansion",
+          "region_id": "1",
+          "id": "161"
+     },
+     {
+          "identifier": "kanto-safari-zone",
+          "region_id": "1",
+          "id": "162"
+     },
+     {
+          "identifier": "sandgem-town",
+          "region_id": "4",
+          "id": "163"
+     },
+     {
+          "identifier": "floaroma-town",
+          "region_id": "4",
+          "id": "164"
+     },
+     {
+          "identifier": "solaceon-town",
+          "region_id": "4",
+          "id": "165"
+     },
+     {
+          "identifier": "jubilife-city",
+          "region_id": "4",
+          "id": "167"
+     },
+     {
+          "identifier": "oreburgh-city",
+          "region_id": "4",
+          "id": "168"
+     },
+     {
+          "identifier": "hearthome-city",
+          "region_id": "4",
+          "id": "169"
+     },
+     {
+          "identifier": "veilstone-city",
+          "region_id": "4",
+          "id": "170"
+     },
+     {
+          "identifier": "snowpoint-city",
+          "region_id": "4",
+          "id": "171"
+     },
+     {
+          "identifier": "spear-pillar",
+          "region_id": "4",
+          "id": "172"
+     },
+     {
+          "identifier": "pal-park",
+          "region_id": "4",
+          "id": "173"
+     },
+     {
+          "identifier": "amity-square",
+          "region_id": "4",
+          "id": "174"
+     },
+     {
+          "identifier": "floaroma-meadow",
+          "region_id": "4",
+          "id": "175"
+     },
+     {
+          "identifier": "fullmoon-island",
+          "region_id": "4",
+          "id": "177"
+     },
+     {
+          "identifier": "sendoff-spring",
+          "region_id": "4",
+          "id": "178"
+     },
+     {
+          "identifier": "flower-paradise",
+          "region_id": "4",
+          "id": "179"
+     },
+     {
+          "identifier": "maniac-tunnel",
+          "region_id": "4",
+          "id": "180"
+     },
+     {
+          "identifier": "galactic-hq",
+          "region_id": "4",
+          "id": "181"
+     },
+     {
+          "identifier": "verity-lakefront",
+          "region_id": "4",
+          "id": "182"
+     },
+     {
+          "identifier": "newmoon-island",
+          "region_id": "4",
+          "id": "183"
+     },
+     {
+          "identifier": "sinnoh-battle-tower",
+          "region_id": "4",
+          "id": "184"
+     },
+     {
+          "identifier": "fight-area",
+          "region_id": "4",
+          "id": "185"
+     },
+     {
+          "identifier": "survival-area",
+          "region_id": "4",
+          "id": "186"
+     },
+     {
+          "identifier": "seabreak-path",
+          "region_id": "4",
+          "id": "187"
+     },
+     {
+          "identifier": "sinnoh-hall-of-origin-1",
+          "region_id": "4",
+          "id": "188"
+     },
+     {
+          "identifier": "sinnoh-hall-of-origin-2",
+          "region_id": "4",
+          "id": "189"
+     },
+     {
+          "identifier": "verity-cavern",
+          "region_id": "4",
+          "id": "190"
+     },
+     {
+          "identifier": "valor-cavern",
+          "region_id": "4",
+          "id": "191"
+     },
+     {
+          "identifier": "acuity-cavern",
+          "region_id": "4",
+          "id": "192"
+     },
+     {
+          "identifier": "jubilife-tv",
+          "region_id": "4",
+          "id": "193"
+     },
+     {
+          "identifier": "poketch-co",
+          "region_id": "4",
+          "id": "194"
+     },
+     {
+          "identifier": "gts",
+          "region_id": "4",
+          "id": "195"
+     },
+     {
+          "identifier": "trainers-school",
+          "region_id": "4",
+          "id": "196"
+     },
+     {
+          "identifier": "mining-museum",
+          "region_id": "4",
+          "id": "197"
+     },
+     {
+          "identifier": "sinnoh-flower-shop",
+          "region_id": "4",
+          "id": "198"
+     },
+     {
+          "identifier": "sinnoh-cycle-shop",
+          "region_id": "4",
+          "id": "199"
+     },
+     {
+          "identifier": "contest-hall",
+          "region_id": "4",
+          "id": "200"
+     },
+     {
+          "identifier": "poffin-house",
+          "region_id": "4",
+          "id": "201"
+     },
+     {
+          "identifier": "sinnoh-foreign-building",
+          "region_id": "4",
+          "id": "202"
+     },
+     {
+          "identifier": "pokemon-day-care",
+          "region_id": "4",
+          "id": "203"
+     },
+     {
+          "identifier": "veilstone-store",
+          "region_id": "4",
+          "id": "204"
+     },
+     {
+          "identifier": "sinnoh-game-corner",
+          "region_id": "4",
+          "id": "205"
+     },
+     {
+          "identifier": "canalave-library",
+          "region_id": "4",
+          "id": "206"
+     },
+     {
+          "identifier": "vista-lighthouse",
+          "region_id": "4",
+          "id": "207"
+     },
+     {
+          "identifier": "sunyshore-market",
+          "region_id": "4",
+          "id": "208"
+     },
+     {
+          "identifier": "footstep-house",
+          "region_id": "4",
+          "id": "209"
+     },
+     {
+          "identifier": "sinnoh-cafe",
+          "region_id": "4",
+          "id": "210"
+     },
+     {
+          "identifier": "grand-lake",
+          "region_id": "4",
+          "id": "211"
+     },
+     {
+          "identifier": "sinnoh-restaurant",
+          "region_id": "4",
+          "id": "212"
+     },
+     {
+          "identifier": "battle-park",
+          "region_id": "4",
+          "id": "213"
+     },
+     {
+          "identifier": "battle-frontier",
+          "region_id": "4",
+          "id": "214"
+     },
+     {
+          "identifier": "battle-factory",
+          "region_id": "4",
+          "id": "215"
+     },
+     {
+          "identifier": "battle-castle",
+          "region_id": "4",
+          "id": "216"
+     },
+     {
+          "identifier": "battle-arcade",
+          "region_id": "4",
+          "id": "217"
+     },
+     {
+          "identifier": "battle-hall",
+          "region_id": "4",
+          "id": "218"
+     },
+     {
+          "identifier": "distortion-world",
+          "region_id": "4",
+          "id": "219"
+     },
+     {
+          "identifier": "sinnoh-global-terminal",
+          "region_id": "4",
+          "id": "220"
+     },
+     {
+          "identifier": "sinnoh-villa",
+          "region_id": "4",
+          "id": "221"
+     },
+     {
+          "identifier": "battleground",
+          "region_id": "4",
+          "id": "222"
+     },
+     {
+          "identifier": "rotoms-room",
+          "region_id": "4",
+          "id": "223"
+     },
+     {
+          "identifier": "tg-eterna-bldg",
+          "region_id": "4",
+          "id": "224"
+     },
+     {
+          "identifier": "iron-ruins",
+          "region_id": "4",
+          "id": "225"
+     },
+     {
+          "identifier": "iceberg-ruins",
+          "region_id": "4",
+          "id": "226"
+     },
+     {
+          "identifier": "rock-peak-ruins",
+          "region_id": "4",
+          "id": "227"
+     },
+     {
+          "identifier": "azalea-town",
+          "region_id": "2",
+          "id": "228"
+     },
+     {
+          "identifier": "goldenrod-city",
+          "region_id": "2",
+          "id": "229"
+     },
+     {
+          "identifier": "mahogany-town",
+          "region_id": "2",
+          "id": "230"
+     },
+     {
+          "identifier": "pewter-city",
+          "region_id": "2",
+          "id": "231"
+     },
+     {
+          "identifier": "lavender-town",
+          "region_id": "2",
+          "id": "232"
+     },
+     {
+          "identifier": "indigo-plateau",
+          "region_id": "2",
+          "id": "233"
+     },
+     {
+          "identifier": "saffron-city",
+          "region_id": "2",
+          "id": "234"
+     },
+     {
+          "identifier": "johto-lighthouse",
+          "region_id": "2",
+          "id": "236"
+     },
+     {
+          "identifier": "team-rocket-hq",
+          "region_id": "2",
+          "id": "237"
+     },
+     {
+          "identifier": "goldenrod-tunnel",
+          "region_id": "2",
+          "id": "238"
+     },
+     {
+          "identifier": "mt-silver-cave",
+          "region_id": "2",
+          "id": "239"
+     },
+     {
+          "identifier": "pokeathlon-dome",
+          "region_id": "2",
+          "id": "241"
+     },
+     {
+          "identifier": "ss-aqua",
+          "region_id": "2",
+          "id": "242"
+     },
+     {
+          "identifier": "safari-zone-gate",
+          "region_id": "2",
+          "id": "243"
+     },
+     {
+          "identifier": "cliff-cave",
+          "region_id": "2",
+          "id": "244"
+     },
+     {
+          "identifier": "frontier-access",
+          "region_id": "2",
+          "id": "245"
+     },
+     {
+          "identifier": "bellchime-trail",
+          "region_id": "2",
+          "id": "246"
+     },
+     {
+          "identifier": "sinjoh-ruins",
+          "region_id": "2",
+          "id": "247"
+     },
+     {
+          "identifier": "embedded-tower",
+          "region_id": "2",
+          "id": "248"
+     },
+     {
+          "identifier": "pokewalker",
+          "region_id": "2",
+          "id": "249"
+     },
+     {
+          "identifier": "cliff-edge-gate",
+          "region_id": "2",
+          "id": "250"
+     },
+     {
+          "identifier": "radio-tower",
+          "region_id": "2",
+          "id": "252"
+     },
+     {
+          "identifier": "day-care-couple",
+          "region_id": "",
+          "id": "253"
+     },
+     {
+          "identifier": "link-trade-arrive",
+          "region_id": "",
+          "id": "254"
+     },
+     {
+          "identifier": "link-trade-met",
+          "region_id": "",
+          "id": "255"
+     },
+     {
+          "identifier": "kanto",
+          "region_id": "",
+          "id": "256"
+     },
+     {
+          "identifier": "johto",
+          "region_id": "",
+          "id": "257"
+     },
+     {
+          "identifier": "hoenn",
+          "region_id": "",
+          "id": "258"
+     },
+     {
+          "identifier": "sinnoh",
+          "region_id": "",
+          "id": "259"
+     },
+     {
+          "identifier": "distant-land",
+          "region_id": "",
+          "id": "260"
+     },
+     {
+          "identifier": "traveling-man",
+          "region_id": "",
+          "id": "261"
+     },
+     {
+          "identifier": "riley",
+          "region_id": "",
+          "id": "262"
+     },
+     {
+          "identifier": "cynthia",
+          "region_id": "",
+          "id": "263"
+     },
+     {
+          "identifier": "mystery-zone",
+          "region_id": "",
+          "id": "264"
+     },
+     {
+          "identifier": "lovely-place",
+          "region_id": "",
+          "id": "265"
+     },
+     {
+          "identifier": "pokemon-ranger",
+          "region_id": "",
+          "id": "266"
+     },
+     {
+          "identifier": "faraway-place",
+          "region_id": "",
+          "id": "267"
+     },
+     {
+          "identifier": "pokemon-movie",
+          "region_id": "",
+          "id": "268"
+     },
+     {
+          "identifier": "pokemon-movie-06",
+          "region_id": "",
+          "id": "269"
+     },
+     {
+          "identifier": "pokemon-movie-07",
+          "region_id": "",
+          "id": "270"
+     },
+     {
+          "identifier": "pokemon-movie-08",
+          "region_id": "",
+          "id": "271"
+     },
+     {
+          "identifier": "pokemon-movie-09",
+          "region_id": "",
+          "id": "272"
+     },
+     {
+          "identifier": "pokemon-movie-10",
+          "region_id": "",
+          "id": "273"
+     },
+     {
+          "identifier": "pokemon-movie-11",
+          "region_id": "",
+          "id": "274"
+     },
+     {
+          "identifier": "pokemon-movie-12",
+          "region_id": "",
+          "id": "275"
+     },
+     {
+          "identifier": "pokemon-movie-13",
+          "region_id": "",
+          "id": "276"
+     },
+     {
+          "identifier": "pokemon-movie-14",
+          "region_id": "",
+          "id": "277"
+     },
+     {
+          "identifier": "pokemon-movie-15",
+          "region_id": "",
+          "id": "278"
+     },
+     {
+          "identifier": "pokemon-movie-16",
+          "region_id": "",
+          "id": "279"
+     },
+     {
+          "identifier": "pokemon-cartoon",
+          "region_id": "",
+          "id": "280"
+     },
+     {
+          "identifier": "space-world",
+          "region_id": "",
+          "id": "281"
+     },
+     {
+          "identifier": "space-world-06",
+          "region_id": "",
+          "id": "282"
+     },
+     {
+          "identifier": "space-world-07",
+          "region_id": "",
+          "id": "283"
+     },
+     {
+          "identifier": "space-world-08",
+          "region_id": "",
+          "id": "284"
+     },
+     {
+          "identifier": "space-world-09",
+          "region_id": "",
+          "id": "285"
+     },
+     {
+          "identifier": "space-world-10",
+          "region_id": "",
+          "id": "286"
+     },
+     {
+          "identifier": "space-world-11",
+          "region_id": "",
+          "id": "287"
+     },
+     {
+          "identifier": "space-world-12",
+          "region_id": "",
+          "id": "288"
+     },
+     {
+          "identifier": "space-world-13",
+          "region_id": "",
+          "id": "289"
+     },
+     {
+          "identifier": "space-world-14",
+          "region_id": "",
+          "id": "290"
+     },
+     {
+          "identifier": "space-world-15",
+          "region_id": "",
+          "id": "291"
+     },
+     {
+          "identifier": "space-world-16",
+          "region_id": "",
+          "id": "292"
+     },
+     {
+          "identifier": "pokemon-festa",
+          "region_id": "",
+          "id": "293"
+     },
+     {
+          "identifier": "pokemon-festa-06",
+          "region_id": "",
+          "id": "294"
+     },
+     {
+          "identifier": "pokemon-festa-07",
+          "region_id": "",
+          "id": "295"
+     },
+     {
+          "identifier": "pokemon-festa-08",
+          "region_id": "",
+          "id": "296"
+     },
+     {
+          "identifier": "pokemon-festa-09",
+          "region_id": "",
+          "id": "297"
+     },
+     {
+          "identifier": "pokemon-festa-10",
+          "region_id": "",
+          "id": "298"
+     },
+     {
+          "identifier": "pokemon-festa-11",
+          "region_id": "",
+          "id": "299"
+     },
+     {
+          "identifier": "pokemon-festa-12",
+          "region_id": "",
+          "id": "300"
+     },
+     {
+          "identifier": "pokemon-festa-13",
+          "region_id": "",
+          "id": "301"
+     },
+     {
+          "identifier": "pokemon-festa-14",
+          "region_id": "",
+          "id": "302"
+     },
+     {
+          "identifier": "pokemon-festa-15",
+          "region_id": "",
+          "id": "303"
+     },
+     {
+          "identifier": "pokemon-festa-16",
+          "region_id": "",
+          "id": "304"
+     },
+     {
+          "identifier": "pokepark",
+          "region_id": "",
+          "id": "305"
+     },
+     {
+          "identifier": "pokepark-06",
+          "region_id": "",
+          "id": "306"
+     },
+     {
+          "identifier": "pokepark-07",
+          "region_id": "",
+          "id": "307"
+     },
+     {
+          "identifier": "pokepark-08",
+          "region_id": "",
+          "id": "308"
+     },
+     {
+          "identifier": "pokepark-09",
+          "region_id": "",
+          "id": "309"
+     },
+     {
+          "identifier": "pokepark-10",
+          "region_id": "",
+          "id": "310"
+     },
+     {
+          "identifier": "pokepark-11",
+          "region_id": "",
+          "id": "311"
+     },
+     {
+          "identifier": "pokepark-12",
+          "region_id": "",
+          "id": "312"
+     },
+     {
+          "identifier": "pokepark-13",
+          "region_id": "",
+          "id": "313"
+     },
+     {
+          "identifier": "pokepark-14",
+          "region_id": "",
+          "id": "314"
+     },
+     {
+          "identifier": "pokepark-15",
+          "region_id": "",
+          "id": "315"
+     },
+     {
+          "identifier": "pokepark-16",
+          "region_id": "",
+          "id": "316"
+     },
+     {
+          "identifier": "pokemon-center",
+          "region_id": "",
+          "id": "317"
+     },
+     {
+          "identifier": "pc-tokyo",
+          "region_id": "",
+          "id": "318"
+     },
+     {
+          "identifier": "pc-osaka",
+          "region_id": "",
+          "id": "319"
+     },
+     {
+          "identifier": "pc-fukuoka",
+          "region_id": "",
+          "id": "320"
+     },
+     {
+          "identifier": "pc-nagoya",
+          "region_id": "",
+          "id": "321"
+     },
+     {
+          "identifier": "pc-sapporo",
+          "region_id": "",
+          "id": "322"
+     },
+     {
+          "identifier": "pc-yokohama",
+          "region_id": "",
+          "id": "323"
+     },
+     {
+          "identifier": "nintendo-world",
+          "region_id": "",
+          "id": "324"
+     },
+     {
+          "identifier": "pokemon-event",
+          "region_id": "",
+          "id": "325"
+     },
+     {
+          "identifier": "pokemon-event-06",
+          "region_id": "",
+          "id": "326"
+     },
+     {
+          "identifier": "pokemon-event-07",
+          "region_id": "",
+          "id": "327"
+     },
+     {
+          "identifier": "pokemon-event-08",
+          "region_id": "",
+          "id": "328"
+     },
+     {
+          "identifier": "pokemon-event-09",
+          "region_id": "",
+          "id": "329"
+     },
+     {
+          "identifier": "pokemon-event-10",
+          "region_id": "",
+          "id": "330"
+     },
+     {
+          "identifier": "pokemon-event-11",
+          "region_id": "",
+          "id": "331"
+     },
+     {
+          "identifier": "pokemon-event-12",
+          "region_id": "",
+          "id": "332"
+     },
+     {
+          "identifier": "pokemon-event-13",
+          "region_id": "",
+          "id": "333"
+     },
+     {
+          "identifier": "pokemon-event-14",
+          "region_id": "",
+          "id": "334"
+     },
+     {
+          "identifier": "pokemon-event-15",
+          "region_id": "",
+          "id": "335"
+     },
+     {
+          "identifier": "pokemon-event-16",
+          "region_id": "",
+          "id": "336"
+     },
+     {
+          "identifier": "wi-fi-event",
+          "region_id": "",
+          "id": "337"
+     },
+     {
+          "identifier": "wi-fi-gift",
+          "region_id": "",
+          "id": "338"
+     },
+     {
+          "identifier": "pokemon-fan-club",
+          "region_id": "",
+          "id": "339"
+     },
+     {
+          "identifier": "event-site",
+          "region_id": "",
+          "id": "340"
+     },
+     {
+          "identifier": "concert-event",
+          "region_id": "",
+          "id": "341"
+     },
+     {
+          "identifier": "mr-pokemon",
+          "region_id": "",
+          "id": "342"
+     },
+     {
+          "identifier": "primo",
+          "region_id": "",
+          "id": "343"
+     },
+     {
+          "identifier": "unova-mystery-zone",
+          "region_id": "5",
+          "id": "344"
+     },
+     {
+          "identifier": "unova-faraway-place",
+          "region_id": "5",
+          "id": "345"
+     },
+     {
+          "identifier": "nuvema-town",
+          "region_id": "5",
+          "id": "346"
+     },
+     {
+          "identifier": "accumula-town",
+          "region_id": "5",
+          "id": "347"
+     },
+     {
+          "identifier": "striaton-city",
+          "region_id": "5",
+          "id": "348"
+     },
+     {
+          "identifier": "nacrene-city",
+          "region_id": "5",
+          "id": "349"
+     },
+     {
+          "identifier": "castelia-city",
+          "region_id": "5",
+          "id": "350"
+     },
+     {
+          "identifier": "nimbasa-city",
+          "region_id": "5",
+          "id": "351"
+     },
+     {
+          "identifier": "driftveil-city",
+          "region_id": "5",
+          "id": "352"
+     },
+     {
+          "identifier": "mistralton-city",
+          "region_id": "5",
+          "id": "353"
+     },
+     {
+          "identifier": "icirrus-city",
+          "region_id": "5",
+          "id": "354"
+     },
+     {
+          "identifier": "opelucid-city",
+          "region_id": "5",
+          "id": "355"
+     },
+     {
+          "identifier": "unova-route-1",
+          "region_id": "5",
+          "id": "356"
+     },
+     {
+          "identifier": "unova-route-2",
+          "region_id": "5",
+          "id": "357"
+     },
+     {
+          "identifier": "unova-route-3",
+          "region_id": "5",
+          "id": "358"
+     },
+     {
+          "identifier": "unova-route-4",
+          "region_id": "5",
+          "id": "359"
+     },
+     {
+          "identifier": "unova-route-5",
+          "region_id": "5",
+          "id": "360"
+     },
+     {
+          "identifier": "unova-route-6",
+          "region_id": "5",
+          "id": "361"
+     },
+     {
+          "identifier": "unova-route-7",
+          "region_id": "5",
+          "id": "362"
+     },
+     {
+          "identifier": "unova-route-8",
+          "region_id": "5",
+          "id": "363"
+     },
+     {
+          "identifier": "unova-route-9",
+          "region_id": "5",
+          "id": "364"
+     },
+     {
+          "identifier": "unova-route-10",
+          "region_id": "5",
+          "id": "365"
+     },
+     {
+          "identifier": "unova-route-11",
+          "region_id": "5",
+          "id": "366"
+     },
+     {
+          "identifier": "unova-route-12",
+          "region_id": "5",
+          "id": "367"
+     },
+     {
+          "identifier": "unova-route-13",
+          "region_id": "5",
+          "id": "368"
+     },
+     {
+          "identifier": "unova-route-14",
+          "region_id": "5",
+          "id": "369"
+     },
+     {
+          "identifier": "unova-route-15",
+          "region_id": "5",
+          "id": "370"
+     },
+     {
+          "identifier": "unova-route-16",
+          "region_id": "5",
+          "id": "371"
+     },
+     {
+          "identifier": "unova-route-17",
+          "region_id": "5",
+          "id": "372"
+     },
+     {
+          "identifier": "unova-route-18",
+          "region_id": "5",
+          "id": "373"
+     },
+     {
+          "identifier": "dreamyard",
+          "region_id": "5",
+          "id": "374"
+     },
+     {
+          "identifier": "pinwheel-forest",
+          "region_id": "5",
+          "id": "375"
+     },
+     {
+          "identifier": "desert-resort",
+          "region_id": "5",
+          "id": "376"
+     },
+     {
+          "identifier": "relic-castle",
+          "region_id": "5",
+          "id": "377"
+     },
+     {
+          "identifier": "cold-storage",
+          "region_id": "5",
+          "id": "378"
+     },
+     {
+          "identifier": "chargestone-cave",
+          "region_id": "5",
+          "id": "379"
+     },
+     {
+          "identifier": "twist-mountain",
+          "region_id": "5",
+          "id": "380"
+     },
+     {
+          "identifier": "dragonspiral-tower",
+          "region_id": "5",
+          "id": "381"
+     },
+     {
+          "identifier": "unova-victory-road",
+          "region_id": "5",
+          "id": "382"
+     },
+     {
+          "identifier": "lacunosa-town",
+          "region_id": "5",
+          "id": "383"
+     },
+     {
+          "identifier": "undella-town",
+          "region_id": "5",
+          "id": "384"
+     },
+     {
+          "identifier": "anville-town",
+          "region_id": "5",
+          "id": "385"
+     },
+     {
+          "identifier": "unova-pokemon-league",
+          "region_id": "5",
+          "id": "386"
+     },
+     {
+          "identifier": "ns-castle",
+          "region_id": "5",
+          "id": "387"
+     },
+     {
+          "identifier": "royal-unova",
+          "region_id": "5",
+          "id": "388"
+     },
+     {
+          "identifier": "gear-station",
+          "region_id": "5",
+          "id": "389"
+     },
+     {
+          "identifier": "battle-subway",
+          "region_id": "5",
+          "id": "390"
+     },
+     {
+          "identifier": "musical-theater",
+          "region_id": "5",
+          "id": "391"
+     },
+     {
+          "identifier": "black-city",
+          "region_id": "5",
+          "id": "392"
+     },
+     {
+          "identifier": "white-forest",
+          "region_id": "5",
+          "id": "393"
+     },
+     {
+          "identifier": "unity-tower",
+          "region_id": "5",
+          "id": "394"
+     },
+     {
+          "identifier": "wellspring-cave",
+          "region_id": "5",
+          "id": "395"
+     },
+     {
+          "identifier": "mistralton-cave",
+          "region_id": "5",
+          "id": "396"
+     },
+     {
+          "identifier": "rumination-field",
+          "region_id": "5",
+          "id": "397"
+     },
+     {
+          "identifier": "celestial-tower",
+          "region_id": "5",
+          "id": "398"
+     },
+     {
+          "identifier": "moor-of-icirrus",
+          "region_id": "5",
+          "id": "399"
+     },
+     {
+          "identifier": "unova-shopping-mall",
+          "region_id": "5",
+          "id": "400"
+     },
+     {
+          "identifier": "challengers-cave",
+          "region_id": "5",
+          "id": "401"
+     },
+     {
+          "identifier": "poke-transfer-lab",
+          "region_id": "5",
+          "id": "402"
+     },
+     {
+          "identifier": "giant-chasm",
+          "region_id": "5",
+          "id": "403"
+     },
+     {
+          "identifier": "liberty-garden",
+          "region_id": "5",
+          "id": "404"
+     },
+     {
+          "identifier": "p2-laboratory",
+          "region_id": "5",
+          "id": "405"
+     },
+     {
+          "identifier": "skyarrow-bridge",
+          "region_id": "5",
+          "id": "406"
+     },
+     {
+          "identifier": "driftveil-drawbridge",
+          "region_id": "5",
+          "id": "407"
+     },
+     {
+          "identifier": "tubeline-bridge",
+          "region_id": "5",
+          "id": "408"
+     },
+     {
+          "identifier": "village-bridge",
+          "region_id": "5",
+          "id": "409"
+     },
+     {
+          "identifier": "marvelous-bridge",
+          "region_id": "5",
+          "id": "410"
+     },
+     {
+          "identifier": "entralink",
+          "region_id": "5",
+          "id": "411"
+     },
+     {
+          "identifier": "abundant-shrine",
+          "region_id": "5",
+          "id": "412"
+     },
+     {
+          "identifier": "undella-bay",
+          "region_id": "5",
+          "id": "413"
+     },
+     {
+          "identifier": "lostlorn-forest",
+          "region_id": "5",
+          "id": "414"
+     },
+     {
+          "identifier": "trial-chamber",
+          "region_id": "5",
+          "id": "415"
+     },
+     {
+          "identifier": "guidance-chamber",
+          "region_id": "5",
+          "id": "416"
+     },
+     {
+          "identifier": "entree-forest",
+          "region_id": "5",
+          "id": "417"
+     },
+     {
+          "identifier": "accumula-gate",
+          "region_id": "5",
+          "id": "418"
+     },
+     {
+          "identifier": "undella-gate",
+          "region_id": "5",
+          "id": "419"
+     },
+     {
+          "identifier": "nacrene-gate",
+          "region_id": "5",
+          "id": "420"
+     },
+     {
+          "identifier": "castelia-gate",
+          "region_id": "5",
+          "id": "421"
+     },
+     {
+          "identifier": "nimbasa-gate",
+          "region_id": "5",
+          "id": "422"
+     },
+     {
+          "identifier": "opelucid-gate",
+          "region_id": "5",
+          "id": "423"
+     },
+     {
+          "identifier": "black-gate",
+          "region_id": "5",
+          "id": "424"
+     },
+     {
+          "identifier": "white-gate",
+          "region_id": "5",
+          "id": "425"
+     },
+     {
+          "identifier": "bridge-gate",
+          "region_id": "5",
+          "id": "426"
+     },
+     {
+          "identifier": "route-gate",
+          "region_id": "5",
+          "id": "427"
+     },
+     {
+          "identifier": "abyssal-ruins",
+          "region_id": "5",
+          "id": "428"
+     },
+     {
+          "identifier": "petalburg-city",
+          "region_id": "3",
+          "id": "429"
+     },
+     {
+          "identifier": "slateport-city",
+          "region_id": "3",
+          "id": "430"
+     },
+     {
+          "identifier": "lilycove-city",
+          "region_id": "3",
+          "id": "431"
+     },
+     {
+          "identifier": "mossdeep-city",
+          "region_id": "3",
+          "id": "432"
+     },
+     {
+          "identifier": "sootopolis-city",
+          "region_id": "3",
+          "id": "433"
+     },
+     {
+          "identifier": "ever-grande-city",
+          "region_id": "3",
+          "id": "434"
+     },
+     {
+          "identifier": "meteor-falls",
+          "region_id": "3",
+          "id": "435"
+     },
+     {
+          "identifier": "rusturf-tunnel",
+          "region_id": "3",
+          "id": "436"
+     },
+     {
+          "identifier": "granite-cave",
+          "region_id": "3",
+          "id": "437"
+     },
+     {
+          "identifier": "petalburg-woods",
+          "region_id": "3",
+          "id": "438"
+     },
+     {
+          "identifier": "jagged-pass",
+          "region_id": "3",
+          "id": "439"
+     },
+     {
+          "identifier": "fiery-path",
+          "region_id": "3",
+          "id": "440"
+     },
+     {
+          "identifier": "mt-pyre",
+          "region_id": "3",
+          "id": "441"
+     },
+     {
+          "identifier": "seafloor-cavern",
+          "region_id": "3",
+          "id": "442"
+     },
+     {
+          "identifier": "cave-of-origin",
+          "region_id": "3",
+          "id": "443"
+     },
+     {
+          "identifier": "hoenn-victory-road",
+          "region_id": "3",
+          "id": "444"
+     },
+     {
+          "identifier": "shoal-cave",
+          "region_id": "3",
+          "id": "445"
+     },
+     {
+          "identifier": "new-mauville",
+          "region_id": "3",
+          "id": "446"
+     },
+     {
+          "identifier": "abandoned-ship",
+          "region_id": "3",
+          "id": "447"
+     },
+     {
+          "identifier": "sky-pillar",
+          "region_id": "3",
+          "id": "448"
+     },
+     {
+          "identifier": "hoenn-route-101",
+          "region_id": "3",
+          "id": "449"
+     },
+     {
+          "identifier": "hoenn-route-102",
+          "region_id": "3",
+          "id": "450"
+     },
+     {
+          "identifier": "hoenn-route-103",
+          "region_id": "3",
+          "id": "451"
+     },
+     {
+          "identifier": "hoenn-route-104",
+          "region_id": "3",
+          "id": "452"
+     },
+     {
+          "identifier": "hoenn-route-105",
+          "region_id": "3",
+          "id": "453"
+     },
+     {
+          "identifier": "hoenn-route-106",
+          "region_id": "3",
+          "id": "454"
+     },
+     {
+          "identifier": "hoenn-route-107",
+          "region_id": "3",
+          "id": "455"
+     },
+     {
+          "identifier": "hoenn-route-108",
+          "region_id": "3",
+          "id": "456"
+     },
+     {
+          "identifier": "hoenn-route-109",
+          "region_id": "3",
+          "id": "457"
+     },
+     {
+          "identifier": "hoenn-route-110",
+          "region_id": "3",
+          "id": "458"
+     },
+     {
+          "identifier": "hoenn-route-111",
+          "region_id": "3",
+          "id": "459"
+     },
+     {
+          "identifier": "hoenn-route-112",
+          "region_id": "3",
+          "id": "460"
+     },
+     {
+          "identifier": "hoenn-route-113",
+          "region_id": "3",
+          "id": "461"
+     },
+     {
+          "identifier": "hoenn-route-114",
+          "region_id": "3",
+          "id": "462"
+     },
+     {
+          "identifier": "hoenn-route-115",
+          "region_id": "3",
+          "id": "463"
+     },
+     {
+          "identifier": "hoenn-route-116",
+          "region_id": "3",
+          "id": "464"
+     },
+     {
+          "identifier": "hoenn-route-117",
+          "region_id": "3",
+          "id": "465"
+     },
+     {
+          "identifier": "hoenn-route-118",
+          "region_id": "3",
+          "id": "466"
+     },
+     {
+          "identifier": "hoenn-route-119",
+          "region_id": "3",
+          "id": "467"
+     },
+     {
+          "identifier": "hoenn-route-120",
+          "region_id": "3",
+          "id": "468"
+     },
+     {
+          "identifier": "hoenn-route-121",
+          "region_id": "3",
+          "id": "469"
+     },
+     {
+          "identifier": "hoenn-route-122",
+          "region_id": "3",
+          "id": "470"
+     },
+     {
+          "identifier": "hoenn-route-123",
+          "region_id": "3",
+          "id": "471"
+     },
+     {
+          "identifier": "hoenn-route-124",
+          "region_id": "3",
+          "id": "472"
+     },
+     {
+          "identifier": "hoenn-route-125",
+          "region_id": "3",
+          "id": "473"
+     },
+     {
+          "identifier": "hoenn-route-126",
+          "region_id": "3",
+          "id": "474"
+     },
+     {
+          "identifier": "hoenn-route-127",
+          "region_id": "3",
+          "id": "475"
+     },
+     {
+          "identifier": "hoenn-route-128",
+          "region_id": "3",
+          "id": "476"
+     },
+     {
+          "identifier": "hoenn-route-129",
+          "region_id": "3",
+          "id": "477"
+     },
+     {
+          "identifier": "hoenn-route-130",
+          "region_id": "3",
+          "id": "478"
+     },
+     {
+          "identifier": "hoenn-route-131",
+          "region_id": "3",
+          "id": "479"
+     },
+     {
+          "identifier": "hoenn-route-132",
+          "region_id": "3",
+          "id": "480"
+     },
+     {
+          "identifier": "hoenn-route-133",
+          "region_id": "3",
+          "id": "481"
+     },
+     {
+          "identifier": "hoenn-route-134",
+          "region_id": "3",
+          "id": "482"
+     },
+     {
+          "identifier": "hoenn-safari-zone",
+          "region_id": "3",
+          "id": "483"
+     },
+     {
+          "identifier": "dewford-town",
+          "region_id": "3",
+          "id": "484"
+     },
+     {
+          "identifier": "pacifidlog-town",
+          "region_id": "3",
+          "id": "485"
+     },
+     {
+          "identifier": "magma-hideout",
+          "region_id": "3",
+          "id": "486"
+     },
+     {
+          "identifier": "mirage-tower",
+          "region_id": "3",
+          "id": "487"
+     },
+     {
+          "identifier": "desert-underpass",
+          "region_id": "3",
+          "id": "488"
+     },
+     {
+          "identifier": "artisan-cave",
+          "region_id": "3",
+          "id": "489"
+     },
+     {
+          "identifier": "hoenn-altering-cave",
+          "region_id": "3",
+          "id": "490"
+     },
+     {
+          "identifier": "monean-chamber",
+          "region_id": "1",
+          "id": "491"
+     },
+     {
+          "identifier": "liptoo-chamber",
+          "region_id": "1",
+          "id": "492"
+     },
+     {
+          "identifier": "weepth-chamber",
+          "region_id": "1",
+          "id": "493"
+     },
+     {
+          "identifier": "dilford-chamber",
+          "region_id": "1",
+          "id": "494"
+     },
+     {
+          "identifier": "scufib-chamber",
+          "region_id": "1",
+          "id": "495"
+     },
+     {
+          "identifier": "rixy-chamber",
+          "region_id": "1",
+          "id": "496"
+     },
+     {
+          "identifier": "viapos-chamber",
+          "region_id": "1",
+          "id": "497"
+     },
+     {
+          "identifier": "ss-anne",
+          "region_id": "1",
+          "id": "498"
+     },
+     {
+          "identifier": "kanto-victory-road-3",
+          "region_id": "1",
+          "id": "499"
+     },
+     {
+          "identifier": "mt-ember",
+          "region_id": "1",
+          "id": "500"
+     },
+     {
+          "identifier": "berry-forest",
+          "region_id": "1",
+          "id": "501"
+     },
+     {
+          "identifier": "icefall-cave",
+          "region_id": "1",
+          "id": "502"
+     },
+     {
+          "identifier": "pattern-bush",
+          "region_id": "1",
+          "id": "503"
+     },
+     {
+          "identifier": "lost-cave",
+          "region_id": "1",
+          "id": "504"
+     },
+     {
+          "identifier": "kindle-road",
+          "region_id": "1",
+          "id": "505"
+     },
+     {
+          "identifier": "treasure-beach",
+          "region_id": "1",
+          "id": "506"
+     },
+     {
+          "identifier": "cape-brink",
+          "region_id": "1",
+          "id": "507"
+     },
+     {
+          "identifier": "bond-bridge",
+          "region_id": "1",
+          "id": "508"
+     },
+     {
+          "identifier": "three-isle-port",
+          "region_id": "1",
+          "id": "509"
+     },
+     {
+          "identifier": "resort-gorgeous",
+          "region_id": "1",
+          "id": "510"
+     },
+     {
+          "identifier": "water-labyrinth",
+          "region_id": "1",
+          "id": "511"
+     },
+     {
+          "identifier": "five-isle-meadow",
+          "region_id": "1",
+          "id": "512"
+     },
+     {
+          "identifier": "memorial-pillar",
+          "region_id": "1",
+          "id": "513"
+     },
+     {
+          "identifier": "outcast-island",
+          "region_id": "1",
+          "id": "514"
+     },
+     {
+          "identifier": "green-path",
+          "region_id": "1",
+          "id": "515"
+     },
+     {
+          "identifier": "water-path",
+          "region_id": "1",
+          "id": "516"
+     },
+     {
+          "identifier": "ruin-valley",
+          "region_id": "1",
+          "id": "517"
+     },
+     {
+          "identifier": "trainer-tower",
+          "region_id": "1",
+          "id": "518"
+     },
+     {
+          "identifier": "canyon-entrance",
+          "region_id": "1",
+          "id": "519"
+     },
+     {
+          "identifier": "sevault-canyon",
+          "region_id": "1",
+          "id": "520"
+     },
+     {
+          "identifier": "tanoby-ruins",
+          "region_id": "1",
+          "id": "521"
+     },
+     {
+          "identifier": "kanto-route-19",
+          "region_id": "1",
+          "id": "522"
+     },
+     {
+          "identifier": "kanto-route-20",
+          "region_id": "1",
+          "id": "523"
+     },
+     {
+          "identifier": "kanto-route-21",
+          "region_id": "1",
+          "id": "524"
+     },
+     {
+          "identifier": "vermillion-city",
+          "region_id": "1",
+          "id": "525"
+     },
+     {
+          "identifier": "one-island",
+          "region_id": "1",
+          "id": "526"
+     },
+     {
+          "identifier": "four-island",
+          "region_id": "1",
+          "id": "527"
+     },
+     {
+          "identifier": "five-island",
+          "region_id": "1",
+          "id": "528"
+     },
+     {
+          "identifier": "kanto-altering-cave",
+          "region_id": "1",
+          "id": "529"
+     },
+     {
+          "identifier": "kanto-victory-road-4",
+          "region_id": "1",
+          "id": "530"
+     },
+     {
+          "identifier": "aspertia-city",
+          "region_id": "5",
+          "id": "531"
+     },
+     {
+          "identifier": "virbank-city",
+          "region_id": "5",
+          "id": "532"
+     },
+     {
+          "identifier": "humilau-city",
+          "region_id": "5",
+          "id": "533"
+     },
+     {
+          "identifier": "pokestar-studios",
+          "region_id": "5",
+          "id": "534"
+     },
+     {
+          "identifier": "join-avenue",
+          "region_id": "5",
+          "id": "535"
+     },
+     {
+          "identifier": "floccesy-town",
+          "region_id": "5",
+          "id": "536"
+     },
+     {
+          "identifier": "lentimas-town",
+          "region_id": "5",
+          "id": "537"
+     },
+     {
+          "identifier": "route-19",
+          "region_id": "5",
+          "id": "538"
+     },
+     {
+          "identifier": "route-20",
+          "region_id": "5",
+          "id": "539"
+     },
+     {
+          "identifier": "route-21",
+          "region_id": "5",
+          "id": "540"
+     },
+     {
+          "identifier": "route-22",
+          "region_id": "5",
+          "id": "541"
+     },
+     {
+          "identifier": "route-23",
+          "region_id": "5",
+          "id": "542"
+     },
+     {
+          "identifier": "castelia-sewers",
+          "region_id": "5",
+          "id": "543"
+     },
+     {
+          "identifier": "floccesy-ranch",
+          "region_id": "5",
+          "id": "544"
+     },
+     {
+          "identifier": "virbank-complex",
+          "region_id": "5",
+          "id": "545"
+     },
+     {
+          "identifier": "reversal-mountain",
+          "region_id": "5",
+          "id": "546"
+     },
+     {
+          "identifier": "strange-house",
+          "region_id": "5",
+          "id": "547"
+     },
+     {
+          "identifier": "unova-victory-road-2",
+          "region_id": "5",
+          "id": "548"
+     },
+     {
+          "identifier": "plasma-frigate",
+          "region_id": "5",
+          "id": "549"
+     },
+     {
+          "identifier": "relic-passage",
+          "region_id": "5",
+          "id": "550"
+     },
+     {
+          "identifier": "clay-tunnel",
+          "region_id": "5",
+          "id": "551"
+     },
+     {
+          "identifier": "white-treehollow",
+          "region_id": "5",
+          "id": "552"
+     },
+     {
+          "identifier": "black-tower",
+          "region_id": "5",
+          "id": "553"
+     },
+     {
+          "identifier": "seaside-cave",
+          "region_id": "5",
+          "id": "554"
+     },
+     {
+          "identifier": "cave-of-being",
+          "region_id": "5",
+          "id": "555"
+     },
+     {
+          "identifier": "hidden-grotto",
+          "region_id": "5",
+          "id": "556"
+     },
+     {
+          "identifier": "marine-tube",
+          "region_id": "5",
+          "id": "557"
+     },
+     {
+          "identifier": "virbank-gate",
+          "region_id": "5",
+          "id": "558"
+     },
+     {
+          "identifier": "aspertia-gate",
+          "region_id": "5",
+          "id": "559"
+     },
+     {
+          "identifier": "nature-sanctuary",
+          "region_id": "5",
+          "id": "560"
+     },
+     {
+          "identifier": "medal-secretariat",
+          "region_id": "5",
+          "id": "561"
+     },
+     {
+          "identifier": "underground-ruins",
+          "region_id": "5",
+          "id": "562"
+     },
+     {
+          "identifier": "rocky-mountain-room",
+          "region_id": "5",
+          "id": "563"
+     },
+     {
+          "identifier": "glacier-room",
+          "region_id": "5",
+          "id": "564"
+     },
+     {
+          "identifier": "iron-room",
+          "region_id": "5",
+          "id": "565"
+     },
+     {
+          "identifier": "pledge-grove",
+          "region_id": "5",
+          "id": "566"
+     },
+     {
+          "identifier": "littleroot-town",
+          "region_id": "3",
+          "id": "567"
+     },
+     {
+          "identifier": "oldale-town",
+          "region_id": "3",
+          "id": "568"
+     },
+     {
+          "identifier": "lavaridge-town",
+          "region_id": "3",
+          "id": "569"
+     },
+     {
+          "identifier": "fallarbor-town",
+          "region_id": "3",
+          "id": "570"
+     },
+     {
+          "identifier": "verdanturf-town",
+          "region_id": "3",
+          "id": "571"
+     },
+     {
+          "identifier": "mauville-city",
+          "region_id": "3",
+          "id": "572"
+     },
+     {
+          "identifier": "rustboro-city",
+          "region_id": "3",
+          "id": "573"
+     },
+     {
+          "identifier": "fortree-city",
+          "region_id": "3",
+          "id": "574"
+     },
+     {
+          "identifier": "underwater",
+          "region_id": "3",
+          "id": "575"
+     },
+     {
+          "identifier": "mt-chimney",
+          "region_id": "3",
+          "id": "576"
+     },
+     {
+          "identifier": "mirage-island",
+          "region_id": "3",
+          "id": "577"
+     },
+     {
+          "identifier": "southern-island",
+          "region_id": "3",
+          "id": "578"
+     },
+     {
+          "identifier": "sealed-chamber",
+          "region_id": "3",
+          "id": "579"
+     },
+     {
+          "identifier": "scorched-slab",
+          "region_id": "3",
+          "id": "580"
+     },
+     {
+          "identifier": "island-cave",
+          "region_id": "3",
+          "id": "581"
+     },
+     {
+          "identifier": "desert-ruins",
+          "region_id": "3",
+          "id": "582"
+     },
+     {
+          "identifier": "ancient-tomb",
+          "region_id": "3",
+          "id": "583"
+     },
+     {
+          "identifier": "inside-of-truck",
+          "region_id": "3",
+          "id": "584"
+     },
+     {
+          "identifier": "secret-base",
+          "region_id": "3",
+          "id": "585"
+     },
+     {
+          "identifier": "hoenn-battle-tower",
+          "region_id": "3",
+          "id": "586"
+     },
+     {
+          "identifier": "vaniville-town",
+          "region_id": "6",
+          "id": "587"
+     },
+     {
+          "identifier": "aquacorde-town",
+          "region_id": "6",
+          "id": "588"
+     },
+     {
+          "identifier": "santalune-forest",
+          "region_id": "6",
+          "id": "589"
+     },
+     {
+          "identifier": "santalune-city",
+          "region_id": "6",
+          "id": "590"
+     },
+     {
+          "identifier": "lumiose-city",
+          "region_id": "6",
+          "id": "591"
+     },
+     {
+          "identifier": "camphrier-town",
+          "region_id": "6",
+          "id": "592"
+     },
+     {
+          "identifier": "parfum-palace",
+          "region_id": "6",
+          "id": "593"
+     },
+     {
+          "identifier": "connecting-cave",
+          "region_id": "6",
+          "id": "594"
+     },
+     {
+          "identifier": "cyllage-city",
+          "region_id": "6",
+          "id": "595"
+     },
+     {
+          "identifier": "ambrette-town",
+          "region_id": "6",
+          "id": "596"
+     },
+     {
+          "identifier": "glittering-cave",
+          "region_id": "6",
+          "id": "597"
+     },
+     {
+          "identifier": "geosenge-town",
+          "region_id": "6",
+          "id": "598"
+     },
+     {
+          "identifier": "reflection-cave",
+          "region_id": "6",
+          "id": "599"
+     },
+     {
+          "identifier": "shalour-city",
+          "region_id": "6",
+          "id": "600"
+     },
+     {
+          "identifier": "coumarine-city",
+          "region_id": "6",
+          "id": "601"
+     },
+     {
+          "identifier": "sea-spirits-den",
+          "region_id": "6",
+          "id": "602"
+     },
+     {
+          "identifier": "kalos-power-plant",
+          "region_id": "6",
+          "id": "603"
+     },
+     {
+          "identifier": "laverre-city",
+          "region_id": "6",
+          "id": "604"
+     },
+     {
+          "identifier": "poke-ball-factory",
+          "region_id": "6",
+          "id": "605"
+     },
+     {
+          "identifier": "lost-hotel",
+          "region_id": "6",
+          "id": "606"
+     },
+     {
+          "identifier": "dendemille-town",
+          "region_id": "6",
+          "id": "607"
+     },
+     {
+          "identifier": "frost-cavern",
+          "region_id": "6",
+          "id": "608"
+     },
+     {
+          "identifier": "anistar-city",
+          "region_id": "6",
+          "id": "609"
+     },
+     {
+          "identifier": "couriway-town",
+          "region_id": "6",
+          "id": "610"
+     },
+     {
+          "identifier": "terminus-cave",
+          "region_id": "6",
+          "id": "611"
+     },
+     {
+          "identifier": "snowbelle-city",
+          "region_id": "6",
+          "id": "612"
+     },
+     {
+          "identifier": "pokemon-village",
+          "region_id": "6",
+          "id": "613"
+     },
+     {
+          "identifier": "kalos-victory-road",
+          "region_id": "6",
+          "id": "614"
+     },
+     {
+          "identifier": "chamber-of-emptiness",
+          "region_id": "6",
+          "id": "615"
+     },
+     {
+          "identifier": "pokemon-league",
+          "region_id": "6",
+          "id": "616"
+     },
+     {
+          "identifier": "kiloude-city",
+          "region_id": "6",
+          "id": "617"
+     },
+     {
+          "identifier": "azure-bay",
+          "region_id": "6",
+          "id": "618"
+     },
+     {
+          "identifier": "battle-chateau",
+          "region_id": "6",
+          "id": "619"
+     },
+     {
+          "identifier": "battle-maison",
+          "region_id": "6",
+          "id": "620"
+     },
+     {
+          "identifier": "tower-of-mastery",
+          "region_id": "6",
+          "id": "621"
+     },
+     {
+          "identifier": "kalos-route-1",
+          "region_id": "6",
+          "id": "622"
+     },
+     {
+          "identifier": "kalos-route-2",
+          "region_id": "6",
+          "id": "623"
+     },
+     {
+          "identifier": "kalos-route-3",
+          "region_id": "6",
+          "id": "624"
+     },
+     {
+          "identifier": "kalos-route-4",
+          "region_id": "6",
+          "id": "625"
+     },
+     {
+          "identifier": "kalos-route-5",
+          "region_id": "6",
+          "id": "626"
+     },
+     {
+          "identifier": "kalos-route-6",
+          "region_id": "6",
+          "id": "627"
+     },
+     {
+          "identifier": "kalos-route-7",
+          "region_id": "6",
+          "id": "628"
+     },
+     {
+          "identifier": "kalos-route-8",
+          "region_id": "6",
+          "id": "629"
+     },
+     {
+          "identifier": "kalos-route-9",
+          "region_id": "6",
+          "id": "630"
+     },
+     {
+          "identifier": "kalos-route-10",
+          "region_id": "6",
+          "id": "631"
+     },
+     {
+          "identifier": "kalos-route-11",
+          "region_id": "6",
+          "id": "632"
+     },
+     {
+          "identifier": "kalos-route-12",
+          "region_id": "6",
+          "id": "633"
+     },
+     {
+          "identifier": "kalos-route-13",
+          "region_id": "6",
+          "id": "634"
+     },
+     {
+          "identifier": "kalos-route-14",
+          "region_id": "6",
+          "id": "635"
+     },
+     {
+          "identifier": "kalos-route-15",
+          "region_id": "6",
+          "id": "636"
+     },
+     {
+          "identifier": "kalos-route-16",
+          "region_id": "6",
+          "id": "637"
+     },
+     {
+          "identifier": "kalos-route-17",
+          "region_id": "6",
+          "id": "638"
+     },
+     {
+          "identifier": "kalos-route-18",
+          "region_id": "6",
+          "id": "639"
+     },
+     {
+          "identifier": "kalos-route-19",
+          "region_id": "6",
+          "id": "640"
+     },
+     {
+          "identifier": "kalos-route-20",
+          "region_id": "6",
+          "id": "641"
+     },
+     {
+          "identifier": "kalos-route-21",
+          "region_id": "6",
+          "id": "642"
+     },
+     {
+          "identifier": "kalos-route-22",
+          "region_id": "6",
+          "id": "643"
+     }
+]

@@ -1,0 +1,252 @@
+[
+     {
+          "nature_id": "1",
+          "max_change": "-1",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "1",
+          "max_change": "1",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "2",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "2",
+          "max_change": "2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "3",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "3",
+          "max_change": "2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "4",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "4",
+          "max_change": "2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "5",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "5",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "6",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "6",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "7",
+          "max_change": "1",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "7",
+          "max_change": "-1",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "8",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "8",
+          "max_change": "2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "9",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "9",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "10",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "10",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "11",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "11",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "12",
+          "max_change": "2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "12",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "13",
+          "max_change": "-1",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "13",
+          "max_change": "1",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "14",
+          "max_change": "2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "14",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "15",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "15",
+          "max_change": "2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "16",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "16",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "17",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "17",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "18",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "18",
+          "max_change": "2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "19",
+          "max_change": "1",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "19",
+          "max_change": "-1",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "20",
+          "max_change": "2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "20",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "21",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "21",
+          "max_change": "2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "22",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "22",
+          "max_change": "2",
+          "pokeathlon_stat_id": "3"
+     },
+     {
+          "nature_id": "23",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "23",
+          "max_change": "2",
+          "pokeathlon_stat_id": "5"
+     },
+     {
+          "nature_id": "24",
+          "max_change": "-2",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "24",
+          "max_change": "2",
+          "pokeathlon_stat_id": "2"
+     },
+     {
+          "nature_id": "25",
+          "max_change": "1",
+          "pokeathlon_stat_id": "1"
+     },
+     {
+          "nature_id": "25",
+          "max_change": "-1",
+          "pokeathlon_stat_id": "2"
+     }
+]

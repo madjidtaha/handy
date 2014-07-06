@@ -1,0 +1,22 @@
+[
+     {
+          "identifier": "forest",
+          "id": "1"
+     },
+     {
+          "identifier": "field",
+          "id": "2"
+     },
+     {
+          "identifier": "mountain",
+          "id": "3"
+     },
+     {
+          "identifier": "pond",
+          "id": "4"
+     },
+     {
+          "identifier": "sea",
+          "id": "5"
+     }
+]

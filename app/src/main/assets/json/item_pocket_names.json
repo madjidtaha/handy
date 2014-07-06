@@ -1,0 +1,72 @@
+[
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "1",
+          "name": "Items"
+     },
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "2",
+          "name": "Medicine"
+     },
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "3",
+          "name": "Poké Balls"
+     },
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "4",
+          "name": "TMs and HMs"
+     },
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "5",
+          "name": "Berries"
+     },
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "6",
+          "name": "Mail"
+     },
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "7",
+          "name": "Battle Items"
+     },
+     {
+          "local_language_id": "9",
+          "item_pocket_id": "8",
+          "name": "Key Items"
+     },
+     {
+          "local_language_id": "10",
+          "item_pocket_id": "4",
+          "name": "TMka a HMka"
+     },
+     {
+          "local_language_id": "10",
+          "item_pocket_id": "5",
+          "name": "Bobule"
+     },
+     {
+          "local_language_id": "10",
+          "item_pocket_id": "3",
+          "name": "Poké Bally"
+     },
+     {
+          "local_language_id": "10",
+          "item_pocket_id": "6",
+          "name": "Dopisy"
+     },
+     {
+          "local_language_id": "10",
+          "item_pocket_id": "2",
+          "name": "Medicína"
+     },
+     {
+          "local_language_id": "10",
+          "item_pocket_id": "1",
+          "name": "Předměty"
+     }
+]

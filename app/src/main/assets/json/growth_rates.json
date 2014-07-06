@@ -1,0 +1,41 @@
+[
+     {
+          "identifier": "slow",
+          "formula": "frac{5x^3}{4}",
+          "id": "1"
+     },
+     {
+          "identifier": "medium",
+          "formula": "x^3",
+          "id": "2"
+     },
+     {
+          "identifier": "fast",
+          "formula": "frac{4x^3}{5}",
+          "id": "3"
+     },
+     {
+          "identifier": "medium-slow",
+          "formula": "frac{6x^3}{5} - 15x^2 + 100x - 140",
+          "id": "4"
+     },
+     {
+          "identifier": "slow-then-very-fast",
+          "formula": "begin{cases}",
+          "id": "5"
+     },
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 1"},
+     {
+          "identifier": "fast-then-very-slow",
+          "formula": "begin{cases}",
+          "id": "6"
+     },
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 1"}
+]

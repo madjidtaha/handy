@@ -1,0 +1,42 @@
+[
+     {
+          "identifier": "level-up",
+          "id": "1"
+     },
+     {
+          "identifier": "egg",
+          "id": "2"
+     },
+     {
+          "identifier": "tutor",
+          "id": "3"
+     },
+     {
+          "identifier": "machine",
+          "id": "4"
+     },
+     {
+          "identifier": "stadium-surfing-pikachu",
+          "id": "5"
+     },
+     {
+          "identifier": "light-ball-egg",
+          "id": "6"
+     },
+     {
+          "identifier": "colosseum-purification",
+          "id": "7"
+     },
+     {
+          "identifier": "xd-shadow",
+          "id": "8"
+     },
+     {
+          "identifier": "xd-purification",
+          "id": "9"
+     },
+     {
+          "identifier": "form-change",
+          "id": "10"
+     }
+]

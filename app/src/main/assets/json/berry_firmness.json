@@ -1,0 +1,22 @@
+[
+     {
+          "identifier": "very-soft",
+          "id": "1"
+     },
+     {
+          "identifier": "soft",
+          "id": "2"
+     },
+     {
+          "identifier": "hard",
+          "id": "3"
+     },
+     {
+          "identifier": "very-hard",
+          "id": "4"
+     },
+     {
+          "identifier": "super-hard",
+          "id": "5"
+     }
+]

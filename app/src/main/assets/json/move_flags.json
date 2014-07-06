@@ -1,0 +1,58 @@
+[
+     {
+          "identifier": "contact",
+          "id": "1"
+     },
+     {
+          "identifier": "charge",
+          "id": "2"
+     },
+     {
+          "identifier": "recharge",
+          "id": "3"
+     },
+     {
+          "identifier": "protect",
+          "id": "4"
+     },
+     {
+          "identifier": "reflectable",
+          "id": "5"
+     },
+     {
+          "identifier": "snatch",
+          "id": "6"
+     },
+     {
+          "identifier": "mirror",
+          "id": "7"
+     },
+     {
+          "identifier": "punch",
+          "id": "8"
+     },
+     {
+          "identifier": "sound",
+          "id": "9"
+     },
+     {
+          "identifier": "gravity",
+          "id": "10"
+     },
+     {
+          "identifier": "defrost",
+          "id": "11"
+     },
+     {
+          "identifier": "distance",
+          "id": "12"
+     },
+     {
+          "identifier": "heal",
+          "id": "13"
+     },
+     {
+          "identifier": "authentic",
+          "id": "14"
+     }
+]

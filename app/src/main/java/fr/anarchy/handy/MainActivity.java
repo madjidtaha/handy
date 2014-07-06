@@ -4,32 +4,38 @@ import android.app.ActionBar;
 import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentManager;
+import android.content.res.AssetManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v4.widget.DrawerLayout;
 import android.view.Menu;
 import android.view.MenuItem;
-import java.util.logging.LogRecord;
 
-import fr.anarchy.handy.fr.anarchy.handy.json.AssembleJSONThreadPool;
-import fr.anarchy.handy.fr.anarchy.handy.json.GlobalJSON;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+import fr.anarchy.handy.fr.anarchy.handy.json.LoadJSON;
+import fr.anarchy.handy.fr.anarchy.handy.json.LoadNames;
+import fr.anarchy.handy.fr.anarchy.handy.json.LoadTypes;
+import fr.anarchy.handy.fr.anarchy.handy.json.Pokedex;
 
 public class MainActivity extends Activity
         implements NavigationDrawerFragment.NavigationDrawerCallbacks, StatsCalcFragment.OnFragmentInteractionListener {
 
     private NavigationDrawerFragment mNavigationDrawerFragment;
-
     private CharSequence mTitle;
 
     Fragment fragment;
     FragmentManager fragmentManager;
 
-    AssembleJSONThreadPool assemble;
+    AssetManager assetManager;
+    String[] jsonList;
 
-   public Handler myHandler;
+    ExecutorService executor;
+    Runnable worker;
+    public Handler myHandler;
 
-    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -42,24 +48,57 @@ public class MainActivity extends Activity
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
 
-        new GlobalJSON();
-
+        new Pokedex();
         myHandler = new Handler();
+        assetManager = getAssets();
 
-        assemble = new AssembleJSONThreadPool(this);
+        try {
+            // put list of file names in a string array
+            jsonList = assetManager.list(Pokedex.jsonDir);
 
-        assemble.start();
+            // the tread pool helps knowing when the thread is finished
+            executor = Executors.newFixedThreadPool(jsonList.length);
+            for (int i = 0; i < jsonList.length; i++) {
+                // executes threads to load json files in parallel
+                worker = new LoadJSON(assetManager, Pokedex.jsonDir + "/" + jsonList[i]);
+                executor.execute(worker);
+            }
+
+            executor.shutdown();
+            // wait until json files are loaded
+            while (!executor.isTerminated()) { }
+
+            executor = Executors.newFixedThreadPool(2);
+            // update pokemonNames global array
+            executor.execute(new LoadNames());
+            // update pokemonTypes global array
+            executor.execute(new LoadTypes());
+
+            executor.shutdown();
+            // wait until global arrays are available
+            while (!executor.isTerminated()) { }
+
+            // update the home cards
+            myHandler.post(new Runnable() {
+                public void run() {
+                    getGridPlayFragment().updateCards();
+                }
+            });
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
     }
 
     @Override
     public void onNavigationDrawerItemSelected(int position) {
 
-        switch (position){
-            case 0 :
+        switch (position) {
+            case 0:
                 fragment = new GridGplayFragment();
                 break;
-            case 1 :
+            case 1:
                 fragment = new StatsCalcFragment();
                 break;
         }
@@ -116,7 +155,7 @@ public class MainActivity extends Activity
 
     }
 
-    public GridGplayFragment getGridPlayFragment(){
+    public GridGplayFragment getGridPlayFragment() {
         return (GridGplayFragment) fragment;
     }
 

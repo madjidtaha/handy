@@ -2,7 +2,7 @@ apply plugin: 'android'
 
 android {
     compileSdkVersion 19
-    buildToolsVersion "19.1.0"
+    buildToolsVersion "20"
 
     defaultConfig {
         minSdkVersion 16
@@ -18,7 +18,7 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:+'
+    compile 'com.android.support:support-v4:20.0.0'
     compile files('libs/android-sqlite-asset-helper.jar')
     compile 'com.github.gabrielemariotti.cards:library:1.6.0'
     compile 'com.github.manuelpeinado.fadingactionbar:fadingactionbar:3.1.2'

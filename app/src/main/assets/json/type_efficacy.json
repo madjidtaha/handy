@@ -1,0 +1,1622 @@
+[
+     {
+          "target_type_id": "1",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "1",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "1",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "1",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "1",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "2",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "2",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "2",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "2",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "2",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "2",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "2",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "2",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "2",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "2",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "2",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "2",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "2",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "2",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "2",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "2",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "2",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "2",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "3",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "3",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "3",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "3",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "3",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "3",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "3",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "4",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "4",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "4",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "4",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "4",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "4",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "4",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "4",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "5",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "5",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "5",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "5",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "5",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "5",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "5",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "5",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "5",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "6",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "6",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "6",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "6",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "6",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "6",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "6",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "6",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "7",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "7",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "7",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "7",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "7",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "7",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "7",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "7",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "7",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "7",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "7",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "8",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "8",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "8",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "8",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "8",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "9",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "9",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "9",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "9",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "9",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "9",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "9",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "9",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "10",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "10",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "10",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "10",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "10",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "10",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "10",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "10",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "10",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "11",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "11",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "11",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "11",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "11",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "11",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "11",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "12",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "12",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "12",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "12",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "12",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "12",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "12",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "12",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "12",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "12",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "12",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "13",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "13",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "13",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "13",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "13",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "13",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "13",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "14",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "14",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "14",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "14",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "14",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "14",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "15",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "15",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "15",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "15",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "15",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "15",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "15",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "15",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "15",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "16",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "16",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "16",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "16",
+          "damage_factor": "0"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "17",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "17",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "17",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "17",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "17",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "17",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "1",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "2",
+          "damage_type_id": "18",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "3",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "4",
+          "damage_type_id": "18",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "5",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "6",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "7",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "8",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "9",
+          "damage_type_id": "18",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "10",
+          "damage_type_id": "18",
+          "damage_factor": "50"
+     },
+     {
+          "target_type_id": "11",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "12",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "13",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "14",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "15",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     },
+     {
+          "target_type_id": "16",
+          "damage_type_id": "18",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "17",
+          "damage_type_id": "18",
+          "damage_factor": "200"
+     },
+     {
+          "target_type_id": "18",
+          "damage_type_id": "18",
+          "damage_factor": "100"
+     }
+]

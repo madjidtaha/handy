@@ -1,0 +1,18 @@
+[
+     {
+          "identifier": "power",
+          "id": "1"
+     },
+     {
+          "identifier": "wisdom",
+          "id": "2"
+     },
+     {
+          "identifier": "charisma",
+          "id": "3"
+     },
+     {
+          "identifier": "capacity",
+          "id": "4"
+     }
+]

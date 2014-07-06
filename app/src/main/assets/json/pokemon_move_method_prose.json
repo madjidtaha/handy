@@ -1,0 +1,92 @@
+[
+     {
+          "local_language_id": "9",
+          "name": "Level up",
+          "description": "Learned when a Pokémon reaches a certain level.",
+          "pokemon_move_method_id": "1"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "name": "Tutor",
+          "description": "Can be taught at any time by an NPC.",
+          "pokemon_move_method_id": "3"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Machine",
+          "description": "Can be taught at any time by using a TM or HM.",
+          "pokemon_move_method_id": "4"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "name": "Volt Tackle Pichu",
+          "description": "Appears on a Pichu whose mother was holding a Light Ball.  The father cannot be Ditto.",
+          "pokemon_move_method_id": "6"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Colosseum: Purification",
+          "description": "Appears on a Shadow Pokémon as it becomes increasingly purified.",
+          "pokemon_move_method_id": "7"
+     },
+     {
+          "local_language_id": "9",
+          "name": "XD: Shadow",
+          "description": "Appears on a Snatched Shadow Pokémon.",
+          "pokemon_move_method_id": "8"
+     },
+     {
+          "local_language_id": "9",
+          "name": "XD: Purification",
+          "description": "Appears on a Shadow Pokémon as it becomes increasingly purified.",
+          "pokemon_move_method_id": "9"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Rotom Form",
+          "description": "Appears when Rotom changes to this form.  Disappears if Rotom becomes another form and this move can only be learned by form change.",
+          "pokemon_move_method_id": "10"
+     },
+     {
+          "local_language_id": "10",
+          "name": "Přístrojem",
+          "description": "Učené použitím TM nebo HM",
+          "pokemon_move_method_id": "4"
+     },
+     {
+          "local_language_id": "10",
+          "name": "Stadium: Surfující Pikachu",
+          "description": "",
+          "pokemon_move_method_id": "5"
+     },
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": "10",
+          "name": "Od učitele",
+          "description": "Učené nějakou postavou ve hře.",
+          "pokemon_move_method_id": "3"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "10",
+          "name": "XD: Stínový útok",
+          "description": "U ukradených „Shadow“ pokémonů",
+          "pokemon_move_method_id": "8"
+     },
+     {
+          "local_language_id": "10",
+          "name": "Vajíčkový",
+          "description": "Dědí se od otce.",
+          "pokemon_move_method_id": "2"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "10",
+          "name": "Úrovní",
+          "description": "Učení dosažením určité úrovně.",
+          "pokemon_move_method_id": "1"
+     }
+]

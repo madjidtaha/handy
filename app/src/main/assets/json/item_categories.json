@@ -1,0 +1,222 @@
+[
+     {
+          "pocket_id": "7",
+          "identifier": "stat-boosts",
+          "id": "1"
+     },
+     {
+          "pocket_id": "5",
+          "identifier": "effort-drop",
+          "id": "2"
+     },
+     {
+          "pocket_id": "5",
+          "identifier": "medicine",
+          "id": "3"
+     },
+     {
+          "pocket_id": "5",
+          "identifier": "other",
+          "id": "4"
+     },
+     {
+          "pocket_id": "5",
+          "identifier": "in-a-pinch",
+          "id": "5"
+     },
+     {
+          "pocket_id": "5",
+          "identifier": "picky-healing",
+          "id": "6"
+     },
+     {
+          "pocket_id": "5",
+          "identifier": "type-protection",
+          "id": "7"
+     },
+     {
+          "pocket_id": "5",
+          "identifier": "baking-only",
+          "id": "8"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "collectibles",
+          "id": "9"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "evolution",
+          "id": "10"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "spelunking",
+          "id": "11"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "held-items",
+          "id": "12"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "choice",
+          "id": "13"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "effort-training",
+          "id": "14"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "bad-held-items",
+          "id": "15"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "training",
+          "id": "16"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "plates",
+          "id": "17"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "species-specific",
+          "id": "18"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "type-enhancement",
+          "id": "19"
+     },
+     {
+          "pocket_id": "8",
+          "identifier": "event-items",
+          "id": "20"
+     },
+     {
+          "pocket_id": "8",
+          "identifier": "gameplay",
+          "id": "21"
+     },
+     {
+          "pocket_id": "8",
+          "identifier": "plot-advancement",
+          "id": "22"
+     },
+     {
+          "pocket_id": "8",
+          "identifier": "unused",
+          "id": "23"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "loot",
+          "id": "24"
+     },
+     {
+          "pocket_id": "6",
+          "identifier": "",
+          "id": "25"
+     },
+     {
+          "pocket_id": "2",
+          "identifier": "vitamins",
+          "id": "26"
+     },
+     {
+          "pocket_id": "2",
+          "identifier": "healing",
+          "id": "27"
+     },
+     {
+          "pocket_id": "2",
+          "identifier": "pp-recovery",
+          "id": "28"
+     },
+     {
+          "pocket_id": "2",
+          "identifier": "revival",
+          "id": "29"
+     },
+     {
+          "pocket_id": "2",
+          "identifier": "status-cures",
+          "id": "30"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "mulch",
+          "id": "32"
+     },
+     {
+          "pocket_id": "3",
+          "identifier": "special-balls",
+          "id": "33"
+     },
+     {
+          "pocket_id": "3",
+          "identifier": "standard-balls",
+          "id": "34"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "dex-completion",
+          "id": "35"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "scarves",
+          "id": "36"
+     },
+     {
+          "pocket_id": "4",
+          "identifier": "",
+          "id": "37"
+     },
+     {
+          "pocket_id": "7",
+          "identifier": "flutes",
+          "id": "38"
+     },
+     {
+          "pocket_id": "3",
+          "identifier": "apricorn-balls",
+          "id": "39"
+     },
+     {
+          "pocket_id": "8",
+          "identifier": "apricorn-box",
+          "id": "40"
+     },
+     {
+          "pocket_id": "8",
+          "identifier": "data-cards",
+          "id": "41"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "jewels",
+          "id": "42"
+     },
+     {
+          "pocket_id": "7",
+          "identifier": "miracle-shooter",
+          "id": "43"
+     },
+     {
+          "pocket_id": "1",
+          "identifier": "mega-stones",
+          "id": "44"
+     },
+     {
+          "pocket_id": "8",
+          "identifier": "xy-unknown",
+          "id": "10001"
+     }
+]

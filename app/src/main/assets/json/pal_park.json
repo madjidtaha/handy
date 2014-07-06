@@ -1,0 +1,2960 @@
+[
+     {
+          "species_id": "1",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "2",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "3",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "4",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "5",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "6",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "7",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "8",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "9",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "4"
+     },
+     {
+          "species_id": "10",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "11",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "12",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "13",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "14",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "15",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "16",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "17",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "18",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "19",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "20",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "21",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "22",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "23",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "24",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "25",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "26",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "1"
+     },
+     {
+          "species_id": "27",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "28",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "29",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "30",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "31",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "32",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "33",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "34",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "35",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "36",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "37",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "38",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "39",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "40",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "41",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "3"
+     },
+     {
+          "species_id": "42",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "43",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "44",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "45",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "46",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "47",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "48",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "49",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "50",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "3"
+     },
+     {
+          "species_id": "51",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "52",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "53",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "54",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "55",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "56",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "57",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "58",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "59",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "60",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "61",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "62",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "4"
+     },
+     {
+          "species_id": "63",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "64",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "65",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "66",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "67",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "68",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "69",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "70",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "71",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "72",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "5"
+     },
+     {
+          "species_id": "73",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "74",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "3"
+     },
+     {
+          "species_id": "75",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "76",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "77",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "78",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "79",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "80",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "81",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "82",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "83",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "84",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "85",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "86",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "87",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "88",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "89",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "90",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "91",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "92",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "93",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "94",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "1"
+     },
+     {
+          "species_id": "95",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "96",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "97",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "98",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "99",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "100",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "101",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "102",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "103",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "104",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "105",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "106",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "107",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "108",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "109",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "110",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "111",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "112",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "113",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "114",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "115",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "116",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "117",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "118",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "119",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "120",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "121",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "122",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "123",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "124",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "125",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "126",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "127",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "128",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "129",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "4"
+     },
+     {
+          "species_id": "130",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "4"
+     },
+     {
+          "species_id": "131",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "5"
+     },
+     {
+          "species_id": "132",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "133",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "134",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "135",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "136",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "137",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "138",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "139",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "140",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "141",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "142",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "143",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "144",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "145",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "146",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "147",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "148",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "149",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "150",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "151",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "1"
+     },
+     {
+          "species_id": "152",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "153",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "154",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "155",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "156",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "157",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "158",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "159",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "160",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "161",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "162",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "163",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "164",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "165",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "166",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "167",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "168",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "169",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "170",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "171",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "172",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "173",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "174",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "175",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "176",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "177",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "178",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "179",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "180",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "181",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "182",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "183",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "184",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "185",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "186",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "187",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "188",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "189",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "190",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "191",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "192",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "193",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "194",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "195",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "196",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "197",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "198",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "199",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "200",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "201",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "202",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "203",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "204",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "205",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "206",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "1"
+     },
+     {
+          "species_id": "207",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "208",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "209",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "210",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "211",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "212",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "213",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "214",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "215",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "216",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "217",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "218",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "219",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "220",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "221",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "222",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "223",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "224",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "225",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "226",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "227",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "228",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "229",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "230",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "231",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "232",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "233",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "234",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "235",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "236",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "237",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "238",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "239",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "240",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "241",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "242",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "243",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "244",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "245",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "246",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "247",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "248",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "249",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "250",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "251",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "1"
+     },
+     {
+          "species_id": "252",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "253",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "254",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "1"
+     },
+     {
+          "species_id": "255",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "256",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "257",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "258",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "259",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "260",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "4"
+     },
+     {
+          "species_id": "261",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "262",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "263",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "264",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "265",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "266",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "267",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "268",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "269",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "270",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "4"
+     },
+     {
+          "species_id": "271",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "272",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "273",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "1"
+     },
+     {
+          "species_id": "274",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "275",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "276",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "277",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "278",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "5"
+     },
+     {
+          "species_id": "279",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "280",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "281",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "282",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "283",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "284",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "285",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "286",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "287",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "288",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "289",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "290",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "291",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "292",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "293",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "294",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "295",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "296",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "297",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "298",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "299",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "300",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "301",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "302",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "303",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "304",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "305",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "306",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "307",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "308",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "309",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "310",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "311",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "312",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "313",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "314",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "315",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "316",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "317",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "318",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "319",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "320",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "321",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "322",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "323",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "324",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "325",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "326",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "327",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "328",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "329",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "330",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "331",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "332",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "333",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "334",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "335",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "336",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "337",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "338",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "339",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "340",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "341",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "342",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "343",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "344",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "345",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "346",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "347",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "348",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "349",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "350",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "5"
+     },
+     {
+          "species_id": "351",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "352",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "353",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "354",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "355",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "356",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "357",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "358",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "359",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "360",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "361",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "362",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "363",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "364",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "365",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "366",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "367",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "368",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "369",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "370",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "371",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "372",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "373",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "374",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "375",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "376",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "377",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "378",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "379",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "380",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "381",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "382",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "5"
+     },
+     {
+          "species_id": "383",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "384",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "385",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "3"
+     },
+     {
+          "species_id": "386",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "3"
+     },
+     {
+          "species_id": "387",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "388",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "389",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "1"
+     },
+     {
+          "species_id": "390",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "391",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "392",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "393",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "394",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "4"
+     },
+     {
+          "species_id": "395",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "4"
+     },
+     {
+          "species_id": "396",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "397",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "398",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "399",
+          "rate": "50",
+          "base_score": "30",
+          "area_id": "2"
+     },
+     {
+          "species_id": "400",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "401",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "402",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "403",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "404",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "405",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "406",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "407",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "408",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "409",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "410",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "411",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "412",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "413",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "414",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "415",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "416",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "417",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "1"
+     },
+     {
+          "species_id": "418",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "1"
+     },
+     {
+          "species_id": "419",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "420",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "421",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "422",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "423",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "424",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "425",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "426",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "427",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "428",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "429",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "430",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "431",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "432",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "433",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "434",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "435",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "436",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "437",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "438",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "439",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "440",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "441",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "442",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "443",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "444",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "445",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "4"
+     },
+     {
+          "species_id": "446",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "4"
+     },
+     {
+          "species_id": "447",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "448",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "2"
+     },
+     {
+          "species_id": "449",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "2"
+     },
+     {
+          "species_id": "450",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "5"
+     },
+     {
+          "species_id": "451",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "5"
+     },
+     {
+          "species_id": "452",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "5"
+     },
+     {
+          "species_id": "453",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "1"
+     },
+     {
+          "species_id": "454",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "455",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "456",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "457",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "458",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "459",
+          "rate": "30",
+          "base_score": "50",
+          "area_id": "3"
+     },
+     {
+          "species_id": "460",
+          "rate": "20",
+          "base_score": "70",
+          "area_id": "3"
+     },
+     {
+          "species_id": "461",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "462",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "463",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "464",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "465",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "466",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "467",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "468",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "469",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "470",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "471",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "472",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "473",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "474",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "475",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "2"
+     },
+     {
+          "species_id": "476",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "477",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "1"
+     },
+     {
+          "species_id": "478",
+          "rate": "10",
+          "base_score": "80",
+          "area_id": "3"
+     },
+     {
+          "species_id": "479",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "480",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "481",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "482",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "2"
+     },
+     {
+          "species_id": "483",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "484",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "485",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "486",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "487",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "3"
+     },
+     {
+          "species_id": "488",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "1"
+     },
+     {
+          "species_id": "489",
+          "rate": "3",
+          "base_score": "90",
+          "area_id": "5"
+     },
+     {
+          "species_id": "490",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "5"
+     },
+     {
+          "species_id": "491",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "3"
+     },
+     {
+          "species_id": "492",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "2"
+     },
+     {
+          "species_id": "493",
+          "rate": "1",
+          "base_score": "100",
+          "area_id": "3"
+     }
+]

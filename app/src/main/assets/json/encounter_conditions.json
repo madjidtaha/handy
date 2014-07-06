@@ -1,0 +1,26 @@
+[
+     {
+          "identifier": "swarm",
+          "id": "1"
+     },
+     {
+          "identifier": "time",
+          "id": "2"
+     },
+     {
+          "identifier": "radar",
+          "id": "3"
+     },
+     {
+          "identifier": "slot2",
+          "id": "4"
+     },
+     {
+          "identifier": "radio",
+          "id": "5"
+     },
+     {
+          "identifier": "season",
+          "id": "6"
+     }
+]

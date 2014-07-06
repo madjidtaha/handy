@@ -1,0 +1,107 @@
+[
+     {
+          "local_language_id": "9",
+          "egg_group_id": "1",
+          "name": "Monster"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "2",
+          "name": "Water 1"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "3",
+          "name": "Bug"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "4",
+          "name": "Flying"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "5",
+          "name": "Field"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "6",
+          "name": "Fairy"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "7",
+          "name": "Grass"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "8",
+          "name": "Human-Like"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "9",
+          "name": "Water 3"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "10",
+          "name": "Mineral"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "11",
+          "name": "Amorphous"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "12",
+          "name": "Water 2"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "13",
+          "name": "Ditto"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "14",
+          "name": "Dragon"
+     },
+     {
+          "local_language_id": "9",
+          "egg_group_id": "15",
+          "name": "Undiscovered"
+     },
+     {
+          "local_language_id": "10",
+          "egg_group_id": "11",
+          "name": "beztvární"
+     },
+     {
+          "local_language_id": "10",
+          "egg_group_id": "10",
+          "name": "minerály"
+     },
+     {
+          "local_language_id": "10",
+          "egg_group_id": "8",
+          "name": "antropoidní"
+     },
+     {
+          "local_language_id": "10",
+          "egg_group_id": "15",
+          "name": "nekřižitelní"
+     },
+     {
+          "local_language_id": "10",
+          "egg_group_id": "1",
+          "name": "pozemní"
+     },
+     {
+          "local_language_id": "10",
+          "egg_group_id": "13",
+          "name": "Ditto"
+     }
+]

@@ -1,0 +1,205 @@
+[
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "2",
+          "effect": "Inflicts regular damage.  Has double power if $target has a major status ailment.",
+          "short_effect": "Has double power if $target has a major status ailment."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "7",
+          "effect": "Inflicts regular damage.  Has double power if $target has already taken damage this turn.",
+          "short_effect": "Has double power if $target has already taken damage this turn."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "8",
+          "effect": "Inflicts regular damage.  Damage is calculated using $target's Attack stat rather than the user's.",
+          "short_effect": "Inflicts damage based on $target's Attack stat instead of the user's."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "9",
+          "effect": "Inflicts regular damage.  This move's critical hit rate is higher than usual.",
+          "short_effect": "Has an increased chance for a critical hit."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "20",
+          "effect": "Inflicts regular damage.",
+          "short_effect": "Switches $target with the Pokémon behind it."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "21",
+          "effect": "Inflicts regular damage.  The user heals for half as many HP as it dealt in damage.",
+          "short_effect": "Heals the user by half the damage dealt."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "22",
+          "effect": "The user teleports randomly to another tile.",
+          "short_effect": "Teleports randomly."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "25",
+          "effect": "Inflicts regular damage.  The user's Defense is lowered and its range is lowered to one tile until the beginning of its next turn.",
+          "short_effect": "Lowers the user's range and Defense until its next turn."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "28",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to raise the user's Attack afterward.",
+          "short_effect": "Has a $effect_chance% chance to raise the user's Attack."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "29",
+          "effect": "Inflicts regular damage.  Lowers the user's Attack afterward.",
+          "short_effect": "Lowers the user's Attack."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "30",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's Defense afterward.",
+          "short_effect": "Has a $effect_chance% chance to lower $target's Defense."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "33",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's Speed afterward.",
+          "short_effect": "Has a $effect_chance% chance to lower $target's Speed."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "36",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's accuracy.",
+          "short_effect": "Has a $effect_chance% chance to lower $target's accuracy."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "37",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze $target.",
+          "short_effect": "Has a $effect_chance% chance to paralyze $target."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "38",
+          "effect": "Puts $target to sleep.",
+          "short_effect": "Puts $target to sleep."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "39",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to poison $target.",
+          "short_effect": "Has a $effect_chance% chance to poison $target."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "40",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to badly poison $target.",
+          "short_effect": "Has a $effect_chance% chance to badly poison $target."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "41",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to burn $target.",
+          "short_effect": "Has a $effect_chance% chance to burn $target."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "42",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to freeze $target.",
+          "short_effect": "Has a $effect_chance% chance to freeze $target."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "43",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to confuse $target.",
+          "short_effect": "Has a $effect_chance% chance to confuse $target."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "44",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to make $target flinch.",
+          "short_effect": "Has a $effect_chance% chance to make $target flinch."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "47",
+          "effect": "Inflicts regular damage.  Permanently destroys $target's item if the item can be consumed in battle.",
+          "short_effect": "Permanently destroys $target's item if it is consumable."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "52",
+          "effect": "Inflicts regular damage.  Always has 100% accuracy.",
+          "short_effect": "Never misses."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "58",
+          "effect": "Inflicts regular damage.  Has a $effect_chance% chance to lower $target's range by one tile.",
+          "short_effect": "Has a $effect_chance% chance to lower $target's range by one tile."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "59",
+          "effect": "Inflicts regular damage.  Lowers the user's Attack and Defense afterward.",
+          "short_effect": "Lowers the user's Attack and Defense."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "60",
+          "effect": "Inflicts regular damage.",
+          "short_effect": "Inflicts regular damage with no additional effect."
+     },
+     {"Error": "Expected 4 fields but got 7"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "63",
+          "effect": "Inflicts regular damage.  The user's Defense is lowered and its range is lowered to one tile until the beginning of its next turn.  Has a $effect_chance% chance to paralyze $target.",
+          "short_effect": "Lowers the user's range and Defense until its next turn.  Has a $effect_chance% chance to paralyze $target."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "66",
+          "effect": "Inflicts damage.  Has a $effect_chance% chance to poison $target.  This move's critical hit rate is higher than usual.",
+          "short_effect": "Has a $effect_chance% chance to poison $target and an increased chance for a critical hit."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "68",
+          "effect": "Inflicts regular damage.  Hits twice in one turn.  Has a $effect_chance% chance to poison $target with each hit.",
+          "short_effect": "Hits twice in one turn.  Has a $effect_chance% chance to poison $target with each hit."
+     },
+     {
+          "local_language_id": "9",
+          "conquest_move_effect_id": "69",
+          "effect": "Does nothing.",
+          "short_effect": "Does nothing."
+     }
+]

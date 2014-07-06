@@ -1,0 +1,752 @@
+[
+     {
+          "local_language_id": "1",
+          "nature_id": "1",
+          "name": "がんばりや"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "1",
+          "name": "Hardi"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "1",
+          "name": "Robust"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "1",
+          "name": "Fuerte"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "1",
+          "name": "Ardita"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "1",
+          "name": "Hardy"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "2",
+          "name": "ずぶとい"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "2",
+          "name": "Assuré"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "2",
+          "name": "Kühn"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "2",
+          "name": "Osada"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "2",
+          "name": "Sicura"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "2",
+          "name": "Bold"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "3",
+          "name": "ひかえめ"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "3",
+          "name": "Modeste"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "3",
+          "name": "Mäßig"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "3",
+          "name": "Modesta"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "3",
+          "name": "Modesta"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "3",
+          "name": "Modest"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "4",
+          "name": "おだやか"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "4",
+          "name": "Calme"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "4",
+          "name": "Still"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "4",
+          "name": "Serena"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "4",
+          "name": "Calma"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "4",
+          "name": "Calm"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "5",
+          "name": "おくびょう"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "5",
+          "name": "Timide"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "5",
+          "name": "Scheu"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "5",
+          "name": "Miedosa"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "5",
+          "name": "Timida"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "5",
+          "name": "Timid"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "6",
+          "name": "さみしがり"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "6",
+          "name": "Solo"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "6",
+          "name": "Solo"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "6",
+          "name": "Huraña"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "6",
+          "name": "Schiva"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "6",
+          "name": "Lonely"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "7",
+          "name": "すなお"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "7",
+          "name": "Docile"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "7",
+          "name": "Sanft"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "7",
+          "name": "Dócil"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "7",
+          "name": "Docile"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "7",
+          "name": "Docile"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "8",
+          "name": "おっとり"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "8",
+          "name": "Doux"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "8",
+          "name": "Mild"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "8",
+          "name": "Afable"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "8",
+          "name": "Mite"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "8",
+          "name": "Mild"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "9",
+          "name": "おとなしい"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "9",
+          "name": "Gentil"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "9",
+          "name": "Zart"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "9",
+          "name": "Amable"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "9",
+          "name": "Gentile"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "9",
+          "name": "Gentle"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "10",
+          "name": "せっかち"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "10",
+          "name": "Pressé"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "10",
+          "name": "Hastig"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "10",
+          "name": "Activa"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "10",
+          "name": "Lesta"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "10",
+          "name": "Hasty"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "11",
+          "name": "いじっぱり"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "11",
+          "name": "Rigide"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "11",
+          "name": "Hart"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "11",
+          "name": "Firme"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "11",
+          "name": "Decisa"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "11",
+          "name": "Adamant"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "12",
+          "name": "わんぱく"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "12",
+          "name": "Malin"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "12",
+          "name": "Pfiffig"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "12",
+          "name": "Agitada"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "12",
+          "name": "Scaltra"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "12",
+          "name": "Impish"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "13",
+          "name": "てれや"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "13",
+          "name": "Pudique"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "13",
+          "name": "Zaghaft"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "13",
+          "name": "Tímida"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "13",
+          "name": "Ritrosa"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "13",
+          "name": "Bashful"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "14",
+          "name": "しんちょう"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "14",
+          "name": "Prudent"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "14",
+          "name": "Sacht"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "14",
+          "name": "Cauta"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "14",
+          "name": "Cauta"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "14",
+          "name": "Careful"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "15",
+          "name": "うっかりや"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "15",
+          "name": "Foufou"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "15",
+          "name": "Hitzig"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "15",
+          "name": "Alocada"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "15",
+          "name": "Ardente"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "15",
+          "name": "Rash"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "16",
+          "name": "ようき"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "16",
+          "name": "Jovial"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "16",
+          "name": "Froh"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "16",
+          "name": "Alegre"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "16",
+          "name": "Allegra"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "16",
+          "name": "Jolly"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "17",
+          "name": "やんちゃ"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "17",
+          "name": "Mauvais"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "17",
+          "name": "Frech"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "17",
+          "name": "Pícara"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "17",
+          "name": "Birbona"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "17",
+          "name": "Naughty"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "18",
+          "name": "のうてんき"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "18",
+          "name": "Lâche"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "18",
+          "name": "Lasch"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "18",
+          "name": "Floja"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "18",
+          "name": "Fiacca"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "18",
+          "name": "Lax"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "19",
+          "name": "きまぐれ"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "19",
+          "name": "Bizarre"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "19",
+          "name": "Kauzig"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "19",
+          "name": "Rara"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "19",
+          "name": "Furba"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "19",
+          "name": "Quirky"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "20",
+          "name": "むじゃき"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "20",
+          "name": "Naïf"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "20",
+          "name": "Naiv"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "20",
+          "name": "Ingenua"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "20",
+          "name": "Ingenua"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "20",
+          "name": "Naive"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "21",
+          "name": "ゆうかん"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "21",
+          "name": "Brave"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "21",
+          "name": "Mutig"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "21",
+          "name": "Audaz"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "21",
+          "name": "Audace"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "21",
+          "name": "Brave"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "22",
+          "name": "のんき"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "22",
+          "name": "Relax"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "22",
+          "name": "Locker"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "22",
+          "name": "Plácida"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "22",
+          "name": "Placida"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "22",
+          "name": "Relaxed"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "23",
+          "name": "れいせい"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "23",
+          "name": "Discret"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "23",
+          "name": "Ruhig"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "23",
+          "name": "Mansa"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "23",
+          "name": "Quieta"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "23",
+          "name": "Quiet"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "24",
+          "name": "なまいき"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "24",
+          "name": "Malpoli"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "24",
+          "name": "Forsch"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "24",
+          "name": "Grosera"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "24",
+          "name": "Vivace"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "24",
+          "name": "Sassy"
+     },
+     {
+          "local_language_id": "1",
+          "nature_id": "25",
+          "name": "まじめ"
+     },
+     {
+          "local_language_id": "5",
+          "nature_id": "25",
+          "name": "Sérieux"
+     },
+     {
+          "local_language_id": "6",
+          "nature_id": "25",
+          "name": "Ernst"
+     },
+     {
+          "local_language_id": "7",
+          "nature_id": "25",
+          "name": "Seria"
+     },
+     {
+          "local_language_id": "8",
+          "nature_id": "25",
+          "name": "Seria"
+     },
+     {
+          "local_language_id": "9",
+          "nature_id": "25",
+          "name": "Serious"
+     }
+]

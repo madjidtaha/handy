@@ -1,0 +1,103 @@
+[
+     {
+          "local_language_id": "9",
+          "name": "User",
+          "description": "The user.",
+          "conquest_move_range_id": "1"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Single tile",
+          "description": "A single tile directly in front of the user.",
+          "conquest_move_range_id": "2"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Two-tile column",
+          "description": "Two tiles in a column in front of the user.",
+          "conquest_move_range_id": "3"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Three-tile column",
+          "description": "Three tiles in a column in front of the user.",
+          "conquest_move_range_id": "4"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Adjacent diamond",
+          "description": "The four tiles adjacent to the user.",
+          "conquest_move_range_id": "5"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Adjacent ring",
+          "description": "Eight tiles in a ring around the user.",
+          "conquest_move_range_id": "6"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Row",
+          "description": "Three tiles in a line centered directly in front of the user.",
+          "conquest_move_range_id": "7"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "name": "Plus",
+          "description": "Five tiles in a plus shape centered two tiles in front of the user.",
+          "conquest_move_range_id": "9"
+     },
+     {
+          "local_language_id": "9",
+          "name": "X-shape",
+          "description": "Five tiles in an X shape centered directly in front of the user.",
+          "conquest_move_range_id": "10"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Two ahead",
+          "description": "A single tile two tiles in front of the user.",
+          "conquest_move_range_id": "11"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Three ahead",
+          "description": "A single tile three tiles in front of the user.",
+          "conquest_move_range_id": "12"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Diamond two ahead",
+          "description": "Four tiles in a diamond centered two tiles in front of the user.",
+          "conquest_move_range_id": "13"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Ring in front",
+          "description": "Eight tiles in a ring centered two tiles in front of the user.",
+          "conquest_move_range_id": "14"
+     },
+     {
+          "local_language_id": "9",
+          "name": "Row two ahead",
+          "description": "Three tiles in a line centered two tiles in front of the user.",
+          "conquest_move_range_id": "15"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "name": "Column two ahead",
+          "description": "A column of two tiles starting two tiles in front of the user.",
+          "conquest_move_range_id": "17"
+     },
+     {
+          "local_language_id": "9",
+          "name": "X-shape two ahead",
+          "description": "Five tiles in an X shape centered two tiles in front of the user.",
+          "conquest_move_range_id": "18"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"}
+]

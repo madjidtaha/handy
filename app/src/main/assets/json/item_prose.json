@@ -1,0 +1,3848 @@
+[
+     {
+          "local_language_id": "9",
+          "item_id": "1",
+          "effect": "Used in battle",
+          "short_effect": "Catches a wild Pokémon every time."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "2",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon.  Success rate is 2×."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "3",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon.  Success rate is 1.5×."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "4",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "5",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "6",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon."
+     },
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": " where `level` is the wild Pokémon's level",
+          "item_id": ":   Attempts to [catch]{mechanic:catch} a wild Pokémon.  Has a catch rate of given by `(40 - level) / 10`",
+          "effect": " this ball has a catch rate of 1×.",
+          "short_effect": " to a maximum of 3.9× for level 1 Pokémon.  If the wild Pokémon's level is higher than 30"
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "9",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon."
+     },
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "11",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness."
+     },
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "12",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "13",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves."
+     },
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "14",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed."
+     },
+     {
+          "local_language_id": " using a catch rate of 1×.  The caught Pokémon's [HP]{mechanic:hp} is immediately restored",
+          "item_id": ":   Attempts to [catch]{mechanic:catch} a wild Pokémon",
+          "effect": " and any [status ailment]{mechanic:status-ailment} is cured.",
+          "short_effect": " [PP]{mechanic:pp} for all its moves is restored"
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "16",
+          "effect": "Used in battle",
+          "short_effect": "Tries to catch a wild Pokémon."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "17",
+          "effect": "Used on a friendly Pokémon",
+          "short_effect": "Restores 20 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "18",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures poison."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "19",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures a burn."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "20",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures freezing."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "21",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures sleep."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "22",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures paralysis."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "23",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores HP to full and cures any status ailment and confusion."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "24",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores HP to full."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "25",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 200 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "26",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 50 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "27",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures any status ailment and confusion."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "28",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Revives with half HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "29",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Revives with full HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "30",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 50 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "31",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 60 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "32",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 80 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "33",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 100 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "38",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 10 PP for one move."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "39",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores PP to full for one move."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "40",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 10 PP for each move."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "41",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores PP to full for each move."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "42",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures any status ailment and confusion."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "43",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Restores 20 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "44",
+          "effect": "Used",
+          "short_effect": "Revives all fainted Pokémon with full HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "45",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises HP effort and happiness."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "46",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises Attack effort and happiness."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "47",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises Defense effort and happiness."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "48",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises Speed effort and happiness."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "49",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises Special Attack effort and happiness."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "50",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Causes a level-up and raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "51",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises a move's max PP by 20%."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "52",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises Special Defense and happiness."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "53",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Raises a move's max PP by 60%."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "54",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures any status ailment and confusion."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "55",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Prevents stat changes in battle for five turns in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "56",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Increases the chance of a critical hit in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "57",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises Attack by one stage in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "58",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises Defense by one stage in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "59",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises Speed by one stage in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "60",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises accuracy by one stage in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "61",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises Special Attack by one stage in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "62",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises Special Defense by one stage in battle.  Raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "63",
+          "effect": "Used in battle",
+          "short_effect": "Ends a wild battle."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "64",
+          "effect": "Used in battle",
+          "short_effect": "Ends a wild battle."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "65",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures sleep."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "66",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Cures confusion."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "67",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Cures attraction."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "68",
+          "effect": "Used outside of battle",
+          "short_effect": "Halves the wild Pokémon encounter rate."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "69",
+          "effect": "Used outside of battle",
+          "short_effect": "Doubles the wild Pokémon encounter rate."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "70",
+          "effect": "No effect.",
+          "short_effect": "No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "71",
+          "effect": "No effect.",
+          "short_effect": "No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "72",
+          "effect": "No effect.",
+          "short_effect": "No effect. Can be traded for items or moves."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": " trade one for a []{item:cheri-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:pecha-berry} with the Juggler near the Pokémon Center in []{location:violet-city}.",
+          "short_effect": " a []{item:leppa-berry}"
+     },
+     {
+          "local_language_id": " trade one for a []{item:persim-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:razz-berry} with the Juggler near the []{location:pal-park} entrance in []{location:fuchsia-city}.",
+          "short_effect": " a []{item:pomeg-berry}"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "73",
+          "effect": "No effect.",
+          "short_effect": "No effect. Can be traded for items or moves."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": " trade one for a []{item:chesto-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:wiki-berry} with the Juggler near the Pokémon Center in []{location:violet-city}.",
+          "short_effect": " an []{item:oran-berry}"
+     },
+     {
+          "local_language_id": " trade one for a []{item:bluk-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:kelpsy-berry} with the Juggler near the []{location:pal-park} entrance in []{location:fuchsia-city}.",
+          "short_effect": " a []{item:cornn-berry}"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "74",
+          "effect": "No effect.",
+          "short_effect": "No effect. Can be traded for items or moves."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": " trade one for an []{item:aspear-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:sitrus-berry} with the Juggler near the Pokémon Center in []{location:violet-city}.",
+          "short_effect": " a []{item:iapapa-berry}"
+     },
+     {
+          "local_language_id": " trade one for a []{item:grepa-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:pinap-berry} with the Juggler near the []{location:pal-park} entrance in []{location:fuchsia-city}.",
+          "short_effect": " a []{item:nomel-berry}"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "75",
+          "effect": "No effect.",
+          "short_effect": "No effect. Can be traded for items or moves."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": " trade one for an []{item:aguav-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:rawst-berry} with the Juggler near the Pokémon Center in []{location:violet-city}.",
+          "short_effect": " a []{item:lum-berry}"
+     },
+     {
+          "local_language_id": " trade one for a []{item:durin-berry}",
+          "item_id": "In HeartGold and SoulSilver",
+          "effect": " and a []{item:wepear-berry} with the Juggler near the []{location:pal-park} entrance in []{location:fuchsia-city}.",
+          "short_effect": " a []{item:hondew-berry}"
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "78",
+          "effect": "Used outside of battle",
+          "short_effect": "Transports user to the outside entrance of a cave."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": " a []{pokemon:gloom} into []{pokemon:bellossom}",
+          "item_id": ":   Evolves a []{pokemon:cottonee} into []{pokemon:whimsicott}",
+          "effect": " or a []{pokemon:sunkern} into []{pokemon:sunflora}.",
+          "short_effect": " a []{pokemon:petilil} into []{pokemon:lilligant}"
+     },
+     {"Error": "Expected 4 fields but got 9"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": " a []{pokemon:growlithe} into []{pokemon:arcanine}",
+          "item_id": ":   Evolves an []{pokemon:eevee} into []{pokemon:flareon}",
+          "effect": " or a []{pokemon:vulpix} into []{pokemon:ninetales}.",
+          "short_effect": " a []{pokemon:pansear} into []{pokemon:simisear}"
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 9"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "93",
+          "effect": "Trade one to the Move Relearner near the shore in []{location:pastoria-city} or with the Move Deleter in []{location:blackthorn-city} to teach one party Pokémon a prior level-up move.",
+          "short_effect": "No effect. Can be traded for prior Level-up moves."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "94",
+          "effect": "Used outside of battle",
+          "short_effect": ""
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "97",
+          "effect": "Used on a patch of soil",
+          "short_effect": "Berries stay on the plant for longer than their usual time."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "98",
+          "effect": "Used on a path of soil",
+          "short_effect": "Berries regrow from dead plants an increased number of times."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "99",
+          "effect": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:lileep}.",
+          "short_effect": "Can be revived into a Lileep."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "100",
+          "effect": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:anorith}.",
+          "short_effect": "Can be revived into an Anorith."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "101",
+          "effect": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:omanyte}.",
+          "short_effect": "Can be revived into an Omanyte."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "102",
+          "effect": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:kabuto}.",
+          "short_effect": "Can be revived into a Kabuto."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "103",
+          "effect": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:aerodactyl}.",
+          "short_effect": "Can be revived into an Aerodactyl."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "104",
+          "effect": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:shieldon}.",
+          "short_effect": "Can be revived into a Shieldon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "105",
+          "effect": "Give to a scientist in the []{location:mining-museum} in []{location:oreburgh-city} or the Museum of Science in []{location:pewter-city} to receive a []{pokemon:cranidos}.",
+          "short_effect": "Can be revived into a Cranidos."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 3"},
+     {
+          "local_language_id": "9",
+          "item_id": "109",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Evolves a male Kirlia into Gallade or a female Snorunt into Froslass."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "110",
+          "effect": "Held by []{pokemon:happiny}",
+          "short_effect": "Level-up during Day on a Happiny: Holder evolves into Chansey."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "112",
+          "effect": "Held by []{pokemon:dialga}",
+          "short_effect": "Boosts the damage from Dialga's Dragon-type and Steel-type moves by 20%."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "113",
+          "effect": "Held by []{pokemon:palkia}",
+          "short_effect": "Boosts the damage from Palkia's Dragon-type and Water-type moves by 20%."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "126",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when paralyzed to cure paralysis."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "127",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when asleep to cure sleep."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "128",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when poisoned to cure poison."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "129",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when burned to cure a burn."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "130",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when frozen to cure frozen."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "131",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when a move runs out of PP to restore its PP by 10."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "132",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/2 max HP to recover 10 HP."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "133",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when confused to cure confusion."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "134",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed to cure any status condition or confusion."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "135",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/2 max HP to recover 1/4 max HP."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "136",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor."
+     },
+     {
+          "local_language_id": " it consumes this item to restore 1/8 its max HP.  If the holder dislikes spicy flavors (i.e.",
+          "item_id": ":   When the holder has 1/2 its max [HP]{mechanic:hp} remaining or less",
+          "effect": " it will also become [confused]{mechanic:confusion}.",
+          "short_effect": " has a nature that lowers [Attack]{mechanic:attack})"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "137",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor."
+     },
+     {
+          "local_language_id": " it consumes this item to restore 1/8 its max HP.  If the holder dislikes dry flavors (i.e.",
+          "item_id": ":   When the holder has 1/2 its max [HP]{mechanic:hp} remaining or less",
+          "effect": " it will also become [confused]{mechanic:confusion}.",
+          "short_effect": " has a nature that lowers [Special Attack]{mechanic:special-attack})"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "138",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sweet flavor."
+     },
+     {
+          "local_language_id": " it consumes this item to restore 1/8 its max HP.  If the holder dislikes sweet flavors (i.e.",
+          "item_id": ":   When the holder has 1/2 its max [HP]{mechanic:hp} remaining or less",
+          "effect": " it will also become [confused]{mechanic:confusion}.",
+          "short_effect": " has a nature that lowers [Speed]{mechanic:speed})"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "139",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor."
+     },
+     {
+          "local_language_id": " it consumes this item to restore 1/8 its max HP.  If the holder dislikes bitter flavors (i.e.",
+          "item_id": ":   When the holder has 1/2 its max [HP]{mechanic:hp} remaining or less",
+          "effect": " it will also become [confused]{mechanic:confusion}.",
+          "short_effect": " has a nature that lowers [Special Defense]{mechanic:special-defense})"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "140",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sour flavor."
+     },
+     {
+          "local_language_id": " it consumes this item to restore 1/8 its max HP.  If the holder dislikes sour flavors (i.e.",
+          "item_id": ":   When the holder has 1/2 its max [HP]{mechanic:hp} remaining or less",
+          "effect": " it will also become [confused]{mechanic:confusion}.",
+          "short_effect": " has a nature that lowers [Defense]{mechanic:defense})"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "141",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "142",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "143",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "144",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "145",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "146",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Drops HP Effort Values by 10 and raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "147",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Drops Attack Effort Values by 10 and raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "148",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Drops Defense Effort Values by 10 and raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "149",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Drops Special Attack Effort Values by 10 and raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "150",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Drops Special Defense Effort Values by 10 and raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "151",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Drops Speed Effort Values by 10 and raises happiness."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "152",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "153",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "154",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "155",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "156",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "157",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "158",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "159",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "160",
+          "effect": "No effect; only useful for planting and cooking.",
+          "short_effect": "Used for creating PokéBlocks and Poffins."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "161",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Fire-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "162",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Water-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "163",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Electric-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "164",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Grass-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "165",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Ice-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "166",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "167",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Poison-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "168",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Ground-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "169",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Flying-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "170",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "171",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Bug-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "172",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Rock-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "173",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "174",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Dragon-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "175",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Dark-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "176",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective Steel-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "177",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a Normal-type attack to halve the damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "178",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost Attack."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "179",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost Defense."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "180",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost Speed."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "181",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost Special Attack."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "182",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost Special Defense."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "183",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "184",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost a random stat by two stages."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "185",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed when struck by a super-effective attack to restore 1/4 max HP."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "186",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP to boost accuracy of next move by 20%. (Gen IV: Perfect accuracy)"
+     },
+     {"Error": "Expected 4 fields but got 3"},
+     {
+          "local_language_id": "9",
+          "item_id": "187",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed at 1/4 max HP when using a move to go first."
+     },
+     {
+          "local_language_id": " it consumes this item.  On the following turn",
+          "item_id": ":   When the holder has 1/4 its max [HP]{mechanic:hp} remaining or less",
+          "effect": " regardless of [Speed]{mechanic:speed}.",
+          "short_effect": " the holder will act first among moves with the same [priority]{mechanic:priority}"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "188",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed to deal 1/8 attacker's max HP when holder is struck by a physical attack."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "189",
+          "effect": "Held in battle",
+          "short_effect": "Held: Consumed to deal 1/8 attacker's max HP when holder is struck by a special attack."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "190",
+          "effect": "Held in battle",
+          "short_effect": "Held: Increases the holder's evasion by 1/9 (11 1/9%)."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "191",
+          "effect": "Held in battle",
+          "short_effect": "Held: Resets all lowered stats to normal at end of turn. Consumed after use."
+     },
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "193",
+          "effect": "Held",
+          "short_effect": "Held: Half the experience from a battle is split between Pokémon holding this item."
+     },
+     {
+          "local_language_id": " and Pokémon holding this item.  Each Pokémon earns experience as though it had battled alone",
+          "item_id": ":   [Experience]{mechanic:experience} is split across two groups: Pokémon who participated in battle",
+          "effect": " then divided by the number of groups. Pokémon holding this item who also participated in battle effectively earn experience twice.",
+          "short_effect": " divided by the number of Pokémon in its group"
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 3"},
+     {
+          "local_language_id": "9",
+          "item_id": "194",
+          "effect": "Held in battle",
+          "short_effect": "Held: Holder has a 3/16 (18.75%) chance to move first."
+     },
+     {
+          "local_language_id": " it has a 3/16 chance to act first among moves with the same [priority]{mechanic:priority}.  If multiple Pokémon have this effect at the same time",
+          "item_id": ":   Whenever the holder attempts to use a move",
+          "effect": " but the effect of []{move:trick-room} is ignored.",
+          "short_effect": " [Speed]{mechanic:speed} is the tie-breaker as normal"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "195",
+          "effect": "Held",
+          "short_effect": "Held: Doubles the happiness earned by the holder."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "198",
+          "effect": "Held in battle",
+          "short_effect": "Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": " a move with a 30% chance to flinch normally will have a 37% total chance to flinch when used with this item",
+          "item_id": "e.g.",
+          "effect": " both effects activate.",
+          "short_effect": " because 3% of the time"
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 3"},
+     {
+          "local_language_id": "9",
+          "item_id": "199",
+          "effect": "Held in battle",
+          "short_effect": "Held: Bug-Type moves from holder do 20% more damage."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "200",
+          "effect": "Held",
+          "short_effect": "Held: Doubles the money earned from a battle. Does not stack with Luck Incense."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "201",
+          "effect": "Held by lead Pokémon: Prevents wild battles with Pokémon that are lower level than the holder.",
+          "short_effect": "Prevents wild encounters of level lower than your party's lead Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "202",
+          "effect": "Held by Latias or Latios: Increases the holder's Special Attack and Special Defense by 50%.",
+          "short_effect": "Raises Latias and Latios's Special Attack and Special Defense by 50%."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "203",
+          "effect": "Held by Clamperl: Doubles the holder's Special Attack.  Evolves the holder into Huntail when traded.",
+          "short_effect": "Doubles Clamperl's Special Attack. Traded on a Clamperl: Holder evolves into Huntail."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "204",
+          "effect": "Held by Clamperl: Doubles the holder's Special Defense.  Evolves the holder into Gorebyss when traded.",
+          "short_effect": "Doubles Clamperl's Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "208",
+          "effect": "Held: Increases any Exp the holder gains by 50%.",
+          "short_effect": "Held: Increases EXP earned in battle by 50%."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "209",
+          "effect": "Held: Raises the holder's critical hit counter by 1.",
+          "short_effect": "Held: Raises the holder's critical hit ratio by one stage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "210",
+          "effect": "Held: Increases the power of the holder's Steel moves by 20%.",
+          "short_effect": "Held: Steel-Type moves from holder do 20% more damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "211",
+          "effect": "Held: Heals the holder by 1/16 its max HP at the end of each turn.",
+          "short_effect": "Held: Restores 1/16 (6.25%) holder's max HP at the end of each turn."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "212",
+          "effect": "Held by Seadra: Evolves the holder into Kingdra when traded.",
+          "short_effect": "Traded on a Seadra: Holder evolves into Kingdra."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "213",
+          "effect": "Held by Pikachu: Doubles the holder's initial Attack and Special Attack.",
+          "short_effect": "Doubles Pikachu's Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "214",
+          "effect": "Held: Increases the power of the holder's Ground moves by 20%.",
+          "short_effect": "Held: Ground-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "215",
+          "effect": "Held: Increases the power of the holder's Rock moves by 20%.",
+          "short_effect": "Held: Rock-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "216",
+          "effect": "Held: Increases the power of the holder's Grass moves by 20%.",
+          "short_effect": "Held: Grass-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "217",
+          "effect": "Held: Increases the power of the holder's Dark moves by 20%.",
+          "short_effect": "Held: Dark-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "218",
+          "effect": "Held: Increases the power of the holder's Fighting moves by 20%.",
+          "short_effect": "Held: Fighting-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "219",
+          "effect": "Held: Increases the power of the holder's Electric moves by 20%.",
+          "short_effect": "Held: Electric-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "220",
+          "effect": "Held: Increases the power of the holder's Water moves by 20%.",
+          "short_effect": "Held: Water-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "221",
+          "effect": "Held: Increases the power of the holder's Flying moves by 20%.",
+          "short_effect": "Held: Flying-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "222",
+          "effect": "Held: Increases the power of the holder's Poison moves by 20%.",
+          "short_effect": "Held: Poison-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "223",
+          "effect": "Held: Increases the power of the holder's Ice moves by 20%.",
+          "short_effect": "Held: Ice-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "224",
+          "effect": "Held: Increases the power of the holder's Ghost moves by 20%.",
+          "short_effect": "Held: Ghost-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "225",
+          "effect": "Held: Increases the power of the holder's Psychic moves by 20%.",
+          "short_effect": "Held: Psychic-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "226",
+          "effect": "Held: Increases the power of the holder's Fire moves by 20%.",
+          "short_effect": "Held: Fire-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "227",
+          "effect": "Held: Increases the power of the holder's Dragon moves by 20%.",
+          "short_effect": "Held: Dragon-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "228",
+          "effect": "Held: Increases the power of the holder's Normal moves by 20%.",
+          "short_effect": "Held: Normal-Type moves from holder do 20% more damage."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "229",
+          "effect": "Held by Porygon: Evolves the holder into Porygon2 when traded.",
+          "short_effect": "Traded on a Porygon: Holder evolves into Porygon2."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "230",
+          "effect": "Held: Heals the holder by 1/8 of any damage it inflicts.",
+          "short_effect": "Held: Holder receives 1/8 of the damage it deals when attacking."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "231",
+          "effect": "Held: Increases the power of the holder's Water moves by 20%.",
+          "short_effect": "Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "232",
+          "effect": "Held: Increases the holder's Evasion by 5%.",
+          "short_effect": "Held: Holder's evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "233",
+          "effect": "Held by Chansey: Raises the holder's critical hit counter by 2.",
+          "short_effect": "Raises Chansey's critical hit ratio by two stages."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "234",
+          "effect": "Held by Ditto: Increases the holder's initial Defense and Special Defense by 50%.",
+          "short_effect": "Raises Ditto's Defense and Special Defense by 50%. The boost is lost after transforming."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "235",
+          "effect": "Held by Cubone or Marowak: Doubles the holder's Attack.",
+          "short_effect": "Doubles Cubone or Marowak's Attack."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "236",
+          "effect": "Held by Farfetch'd: Raises the holder's critical hit counter by 2.",
+          "short_effect": "Raises Farfetch'd's critical hit ratio by two stages."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "237",
+          "effect": "Held: Increases the holder's Coolness during a Super Contest's Visual Competition.",
+          "short_effect": "Raises the holder's Coolness while in a contest."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "238",
+          "effect": "Held: Increases the holder's Beauty during a Super Contest's Visual Competition.",
+          "short_effect": "Raises the holder's Beauty while in a contest."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "239",
+          "effect": "Held: Increases the holder's Cuteness during a Super Contest's Visual Competition.",
+          "short_effect": "Raises the holder's Cuteness while in a contest."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "240",
+          "effect": "Held: Increases the holder's Smartness during a Super Contest's Visual Competition.",
+          "short_effect": "Raises the holder's Smartness while in a contest."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "241",
+          "effect": "Held: Increases the holder's Toughness during a Super Contest's Visual Competition.",
+          "short_effect": "Raises the holder's Toughness while in a contest."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "242",
+          "effect": "Held: Increases the accuracy of any move the holder uses by 10% (multiplied; i.e. 70% accuracy is increased to 77%).",
+          "short_effect": "Held: Provides a 1/10 (10%) boost in accuracy to the holder."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "243",
+          "effect": "Held: Increases the power of the holder's physical moves by 10%.",
+          "short_effect": "Held: Boosts the damage of physical moves used by the holder by 10%."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "244",
+          "effect": "Held: Increases the power of the holder's special moves by 10%.",
+          "short_effect": "Held: Boosts the damage of special moves used by the holder by 1/10 (10%)."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 12"},
+     {
+          "local_language_id": "9",
+          "item_id": "249",
+          "effect": "Held: Badly poisons the holder at the end of each turn.",
+          "short_effect": "Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "250",
+          "effect": "Held: Burns the holder at the end of each turn.",
+          "short_effect": "Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "251",
+          "effect": "Held by Ditto: Doubles the holder's initial Speed.",
+          "short_effect": "Doubles Ditto's Speed when held. The boost is lost after transforming."
+     },
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": "9",
+          "item_id": "253",
+          "effect": "Held: Raises the holder's Accuracy by 20% when it goes last.",
+          "short_effect": "Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 7"},
+     {"Error": "Expected 4 fields but got 7"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "263",
+          "effect": "Held: Increases the duration of the holder's multiturn (2-5 turn) moves by three turns.",
+          "short_effect": "Held: Holder's multi-turn trapping moves last 5 turns."
+     },
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 7"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 6"},
+     {
+          "local_language_id": "9",
+          "item_id": "272",
+          "effect": "Held: The holder is unaffected by any moves or abilities that would prevent it from actively leaving battle.",
+          "short_effect": "Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of."
+     },
+     {"Error": "Expected 4 fields but got 14"},
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "275",
+          "effect": "Held: Increases the power of the holder's Fire moves by 20%.",
+          "short_effect": "Held: Fire-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fire."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "276",
+          "effect": "Held: Increases the power of the holder's Water moves by 20%.",
+          "short_effect": "Held: Water-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Water."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "277",
+          "effect": "Held: Increases the power of the holder's Electric moves by 20%.",
+          "short_effect": "Held: Electric-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Electric."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "278",
+          "effect": "Held: Increases the power of the holder's Grass moves by 20%.",
+          "short_effect": "Held: Grass-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Grass."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "279",
+          "effect": "Held: Increases the power of the holder's Ice moves by 20%.",
+          "short_effect": "Held: Ice-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ice."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "280",
+          "effect": "Held: Increases the power of the holder's Fighting moves by 20%.",
+          "short_effect": "Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fighting."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "281",
+          "effect": "Held: Increases the power of the holder's Poison moves by 20%.",
+          "short_effect": "Held: Posion-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Posion."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "282",
+          "effect": "Held: Increases the power of the holder's Ground moves by 20%.",
+          "short_effect": "Held: Ground-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ground."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "283",
+          "effect": "Held: Increases the power of the holder's Flying moves by 20%.",
+          "short_effect": "Held: Flying-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Flying."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "284",
+          "effect": "Held: Increases the power of the holder's Psychic moves by 20%.",
+          "short_effect": "Held: Psychic-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Psychic."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "285",
+          "effect": "Held: Increases the power of the holder's Bug moves by 20%.",
+          "short_effect": "Held: Bug-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Bug."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "286",
+          "effect": "Held: Increases the power of the holder's Rock moves by 20%.",
+          "short_effect": "Held: Rock-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Rock."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "287",
+          "effect": "Held: Increases the power of the holder's Ghost moves by 20%.",
+          "short_effect": "Held: Ghost-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ghost."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "288",
+          "effect": "Held: Increases the power of the holder's Dragon moves by 20%.",
+          "short_effect": "Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Dragon."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "289",
+          "effect": "Held: Increases the power of the holder's Dark moves by 20%.",
+          "short_effect": "Held: Dark-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Dark."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "290",
+          "effect": "Held: Increases the power of the holder's Steel moves by 20%.",
+          "short_effect": "Held: Steel-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Steel."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "291",
+          "effect": "Held: Increases the power of the holder's Psychic moves by 20%.",
+          "short_effect": "Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "292",
+          "effect": "Held: Increases the power of the holder's Rock moves by 20%.",
+          "short_effect": "Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg."
+     },
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": "9",
+          "item_id": "294",
+          "effect": "Held: Increases the power of the holder's Water moves by 20%.",
+          "short_effect": "Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "295",
+          "effect": "Held: Increases the power of the holder's Grass moves by 20%.",
+          "short_effect": "Held: Grass-Type moves from holder do 20% more damage. Breeding: Roselia or Roserade beget a Budew Egg."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "296",
+          "effect": "Held: Doubles the money the trainer receives after an in-game trainer battle.  This effect cannot apply more than once to the same battle.",
+          "short_effect": "Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "297",
+          "effect": "Held by lead Pokémon: Prevents wild battles with Pokémon that are lower level than the holder.",
+          "short_effect": "Prevents wild encounters of level lower than your party's lead Pokémon. Breeding: Chimecho begets a Chingling Egg."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "298",
+          "effect": "Held by Rhydon: Evolves the holder into Rhyperior when traded.",
+          "short_effect": "Traded on a Rhydon: Holder evolves into Rhyperior."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "299",
+          "effect": "Held by Electabuzz: Evolves the holder into Electivire when traded.",
+          "short_effect": "Traded on an Electabuzz: Holder evolves into Electivire."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "300",
+          "effect": "Held by Magmar: Evolves the holder into Magmortar when traded.",
+          "short_effect": "Traded on a Magmar: Holder evolves into Magmortar."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "301",
+          "effect": "Held by Porygon2: Evolves the holder into Porygon-Z when traded.",
+          "short_effect": "Traded on a Porygon2: Holder evolves into Porygon-Z."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "302",
+          "effect": "Held by Dusclops: Evolves the holder into Dusknoir when traded.",
+          "short_effect": "Traded on a Dusclops: Holder evolves into Dusknoir."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "303",
+          "effect": "Held: Raises the holder's critical hit counter by 1.",
+          "short_effect": "Held: Raises the holder's critical hit ratio by one stage. Traded on a Sneasel at night: Holder evolves into Weavile."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "305",
+          "effect": "Teaches Focus Punch to a compatible Pokémon.",
+          "short_effect": "Teaches Hone Claws to a compatible Pokémon. (Gen IV & III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "306",
+          "effect": "Teaches Dragon Claw to a compatible Pokémon.",
+          "short_effect": "Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "307",
+          "effect": "Teaches Water Pulse to a compatible Pokémon.",
+          "short_effect": "Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "308",
+          "effect": "Teaches Calm Mind to a compatible Pokémon.",
+          "short_effect": "Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "309",
+          "effect": "Teaches Roar to a compatible Pokémon.",
+          "short_effect": "Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "310",
+          "effect": "Teaches Toxic to a compatible Pokémon.",
+          "short_effect": "Teaches Toxic to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "311",
+          "effect": "Teaches Hail to a compatible Pokémon.",
+          "short_effect": "Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "312",
+          "effect": "Teaches Bulk Up to a compatible Pokémon.",
+          "short_effect": "Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "313",
+          "effect": "Teaches Bullet Seed to a compatible Pokémon.",
+          "short_effect": "Teaches Venoshock to a compatible Pokémon. (Gen IV & III: Bullet Seed Gen II: Psych Up Gen I: Take Down)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "314",
+          "effect": "Teaches Hidden Power to a compatible Pokémon.",
+          "short_effect": "Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "315",
+          "effect": "Teaches Sunny Day to a compatible Pokémon.",
+          "short_effect": "Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "316",
+          "effect": "Teaches Taunt to a compatible Pokémon.",
+          "short_effect": "Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "317",
+          "effect": "Teaches Ice Beam to a compatible Pokémon.",
+          "short_effect": "Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "318",
+          "effect": "Teaches Blizzard to a compatible Pokémon.",
+          "short_effect": "Teaches Blizzard to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "319",
+          "effect": "Teaches Hyper Beam to a compatible Pokémon.",
+          "short_effect": "Teaches Hyper Beam to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "320",
+          "effect": "Teaches Light Screen to a compatible Pokémon.",
+          "short_effect": "Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "321",
+          "effect": "Teaches Protect to a compatible Pokémon.",
+          "short_effect": "Teaches Protect to a compatible Pokémon. (Gen I: Submission)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "322",
+          "effect": "Teaches Rain Dance to a compatible Pokémon.",
+          "short_effect": "Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "323",
+          "effect": "Teaches Giga Drain to a compatible Pokémon.",
+          "short_effect": "Teaches Telekinesis to a compatible Pokémon. (Gen IV & III & II: Giga Drain Gen I: Seismic Toss)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "324",
+          "effect": "Teaches Safeguard to a compatible Pokémon.",
+          "short_effect": "Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "325",
+          "effect": "Teaches Frustration to a compatible Pokémon.",
+          "short_effect": "Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "326",
+          "effect": "Teaches SolarBeam to a compatible Pokémon.",
+          "short_effect": "Teaches SolarBeam to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "327",
+          "effect": "Teaches Iron Tail to a compatible Pokémon.",
+          "short_effect": "Teaches Smack Down to a compatible Pokémon. (Gen IV & III & II: Iron Tail Gen I: Dragon Rage)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "328",
+          "effect": "Teaches Thunderbolt to a compatible Pokémon.",
+          "short_effect": "Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "329",
+          "effect": "Teaches Thunder to a compatible Pokémon.",
+          "short_effect": "Teaches Thunder to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "330",
+          "effect": "Teaches Earthquake to a compatible Pokémon.",
+          "short_effect": "Teaches Earthquake to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "331",
+          "effect": "Teaches Return to a compatible Pokémon.",
+          "short_effect": "Teaches Return to a compatible Pokémon. (Gen I: Fissure)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "332",
+          "effect": "Teaches Dig to a compatible Pokémon.",
+          "short_effect": "Teaches Dig to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "333",
+          "effect": "Teaches Psychic to a compatible Pokémon.",
+          "short_effect": "Teaches Psychic to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "334",
+          "effect": "Teaches Shadow Ball to a compatible Pokémon.",
+          "short_effect": "Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "335",
+          "effect": "Teaches Brick Break to a compatible Pokémon.",
+          "short_effect": "Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "336",
+          "effect": "Teaches Double Team to a compatible Pokémon.",
+          "short_effect": "Teaches Double Team to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "337",
+          "effect": "Teaches Reflect to a compatible Pokémon.",
+          "short_effect": "Teaches Reflect to a compatible Pokémon. (Gen II: Ice Punch)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "338",
+          "effect": "Teaches Shock Wave to a compatible Pokémon.",
+          "short_effect": "Teaches Sludge Wave to a compatible Pokémon. (Gen IV & III: Shock Wave Gen II: Swagger Gen I: Bide)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "339",
+          "effect": "Teaches Flamethrower to a compatible Pokémon.",
+          "short_effect": "Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "340",
+          "effect": "Teaches Sludge Bomb to a compatible Pokémon.",
+          "short_effect": "Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "341",
+          "effect": "Teaches Sandstorm to a compatible Pokémon.",
+          "short_effect": "Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "342",
+          "effect": "Teaches Fire Blast to a compatible Pokémon.",
+          "short_effect": "Teaches Fire Blast to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "343",
+          "effect": "Teaches Rock Tomb to a compatible Pokémon.",
+          "short_effect": "Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "344",
+          "effect": "Teaches Aerial Ace to a compatible Pokémon.",
+          "short_effect": "Teaches Aerial Ace to a compatible Pokémon. (Gen II: Defense Curl Gen I: Skull Bash)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "345",
+          "effect": "Teaches Torment to a compatible Pokémon.",
+          "short_effect": "Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "346",
+          "effect": "Teaches Facade to a compatible Pokémon.",
+          "short_effect": "Teaches Facade to a compatible Pokémon. (Gen II & I: Dream Eater)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "347",
+          "effect": "Teaches Secret Power to a compatible Pokémon.",
+          "short_effect": "Teaches Flame Charge to a compatible Pokémon. (Gen IV & III: Secret Power Gen II: Detect Gen I: Sky Attack)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "348",
+          "effect": "Teaches Rest to a compatible Pokémon.",
+          "short_effect": "Teaches Rest to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "349",
+          "effect": "Teaches Attract to a compatible Pokémon.",
+          "short_effect": "Teaches Attract to a compatible Pokémon. (Gen I: Thunder Wave)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "350",
+          "effect": "Teaches Thief to a compatible Pokémon.",
+          "short_effect": "Teaches Thief to a compatible Pokémon. (Gen I: Psywave)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "351",
+          "effect": "Teaches Steel Wing to a compatible Pokémon.",
+          "short_effect": "Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "352",
+          "effect": "Teaches Skill Swap to a compatible Pokémon.",
+          "short_effect": "Teaches Round to a compatible Pokémon. (Gen IV & III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "353",
+          "effect": "Teaches Snatch to a compatible Pokémon.",
+          "short_effect": "Teaches Echoed Voice to a compatible Pokémon. (Gen IV & III: Snatch Gen II: Fury Cutter Gen I: Tri Attack)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "354",
+          "effect": "Teaches Overheat to a compatible Pokémon.",
+          "short_effect": "Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "355",
+          "effect": "Teaches Roost to a compatible Pokémon.",
+          "short_effect": "Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "356",
+          "effect": "Teaches Focus Blast to a compatible Pokémon.",
+          "short_effect": "Teaches Focus Blast to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "357",
+          "effect": "Teaches Energy Ball to a compatible Pokémon.",
+          "short_effect": "Teaches Energy Ball to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "358",
+          "effect": "Teaches False Swipe to a compatible Pokémon.",
+          "short_effect": "Teaches False Swipe to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "359",
+          "effect": "Teaches Brine to a compatible Pokémon.",
+          "short_effect": "Teaches Scald to a compatible Pokémon. (Gen IV: Brine)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "360",
+          "effect": "Teaches Fling to a compatible Pokémon.",
+          "short_effect": "Teaches Fling to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "361",
+          "effect": "Teaches Charge Beam to a compatible Pokémon.",
+          "short_effect": "Teaches Charge Beam to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "362",
+          "effect": "Teaches Endure to a compatible Pokémon.",
+          "short_effect": "Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "363",
+          "effect": "Teaches Dragon Pulse to a compatible Pokémon.",
+          "short_effect": "Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "364",
+          "effect": "Teaches Drain Punch to a compatible Pokémon.",
+          "short_effect": "Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "365",
+          "effect": "Teaches Will-O-Wisp to a compatible Pokémon.",
+          "short_effect": "Teaches Will-O-Wisp to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "366",
+          "effect": "Teaches Silver Wind to a compatible Pokémon.",
+          "short_effect": "Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "367",
+          "effect": "Teaches Embargo to a compatible Pokémon.",
+          "short_effect": "Teaches Embargo to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "368",
+          "effect": "Teaches Explosion to a compatible Pokémon.",
+          "short_effect": "Teaches Explosion to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "369",
+          "effect": "Teaches Shadow Claw to a compatible Pokémon.",
+          "short_effect": "Teaches Shadow Claw to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "370",
+          "effect": "Teaches Payback to a compatible Pokémon.",
+          "short_effect": "Teaches Payback to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "371",
+          "effect": "Teaches Recycle to a compatible Pokémon.",
+          "short_effect": "Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "372",
+          "effect": "Teaches Giga Impact to a compatible Pokémon.",
+          "short_effect": "Teaches Giga Impact to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "373",
+          "effect": "Teaches Rock Polish to a compatible Pokémon.",
+          "short_effect": "Teaches Rock Polish to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "374",
+          "effect": "Teaches Flash to a compatible Pokémon.",
+          "short_effect": "Teaches Flash to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "375",
+          "effect": "Teaches Stone Edge to a compatible Pokémon.",
+          "short_effect": "Teaches Stone Edge to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "376",
+          "effect": "Teaches Avalanche to a compatible Pokémon.",
+          "short_effect": "Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "377",
+          "effect": "Teaches Thunder Wave to a compatible Pokémon.",
+          "short_effect": "Teaches Thunder Wave to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "378",
+          "effect": "Teaches Gyro Ball to a compatible Pokémon.",
+          "short_effect": "Teaches Gyro Ball to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "379",
+          "effect": "Teaches Swords Dance to a compatible Pokémon.",
+          "short_effect": "Teaches Swords Dance to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "380",
+          "effect": "Teaches Stealth Rock to a compatible Pokémon.",
+          "short_effect": "Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "381",
+          "effect": "Teaches Psych Up to a compatible Pokémon.",
+          "short_effect": "Teaches Psych Up to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "382",
+          "effect": "Teaches Captivate to a compatible Pokémon.",
+          "short_effect": "Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "383",
+          "effect": "Teaches Dark Pulse to a compatible Pokémon.",
+          "short_effect": "Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "384",
+          "effect": "Teaches Rock Slide to a compatible Pokémon.",
+          "short_effect": "Teaches Rock Slide to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "385",
+          "effect": "Teaches X-Scissor to a compatible Pokémon.",
+          "short_effect": "Teaches X-Scissor to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "386",
+          "effect": "Teaches Sleep Talk to a compatible Pokémon.",
+          "short_effect": "Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "387",
+          "effect": "Teaches Natural Gift to a compatible Pokémon.",
+          "short_effect": "Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "388",
+          "effect": "Teaches Poison Jab to a compatible Pokémon.",
+          "short_effect": "Teaches Poison Jab to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "389",
+          "effect": "Teaches Dream Eater to a compatible Pokémon.",
+          "short_effect": "Teaches Dream Eater to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "390",
+          "effect": "Teaches Grass Knot to a compatible Pokémon.",
+          "short_effect": "Teaches Grass Knot to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "391",
+          "effect": "Teaches Swagger to a compatible Pokémon.",
+          "short_effect": "Teaches Swagger to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "392",
+          "effect": "Teaches Pluck to a compatible Pokémon.",
+          "short_effect": "Teaches Pluck to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "393",
+          "effect": "Teaches U-Turn to a compatible Pokémon.",
+          "short_effect": "Teaches U-turn to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "394",
+          "effect": "Teaches Substitute to a compatible Pokémon.",
+          "short_effect": "Teaches Substitute to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "395",
+          "effect": "Teaches Flash Cannon to a compatible Pokémon.",
+          "short_effect": "Teaches Flash Cannon to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "396",
+          "effect": "Teaches Trick Room to a compatible Pokémon.",
+          "short_effect": "Teaches Trick Room to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "397",
+          "effect": "Teaches Cut to a compatible Pokémon.",
+          "short_effect": "Teaches Cut to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "398",
+          "effect": "Teaches Fly to a compatible Pokémon.",
+          "short_effect": "Teaches Fly to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "399",
+          "effect": "Teaches Surf to a compatible Pokémon.",
+          "short_effect": "Teaches Surf to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "400",
+          "effect": "Teaches Strength to a compatible Pokémon.",
+          "short_effect": "Teaches Strength to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "401",
+          "effect": "Teaches Defog to a compatible Pokémon.",
+          "short_effect": "Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "402",
+          "effect": "Teaches Rock Smash to a compatible Pokémon.",
+          "short_effect": "Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "403",
+          "effect": "Teaches Waterfall to a compatible Pokémon.",
+          "short_effect": "Teaches a move to a compatible Pokémon. (Gen IV & III & II: Waterfall)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "404",
+          "effect": "Teaches Rock Climb to a compatible Pokémon.",
+          "short_effect": "Teaches a move to a compatible Pokémon. (Gen IV: Rock Climb Gen III: Dive)"
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "405",
+          "effect": "Sends the trainer to the Underground.  Only usable outside.",
+          "short_effect": "Allows visiting the Underground."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "406",
+          "effect": "Unused.",
+          "short_effect": "Carries coal mine loot."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "407",
+          "effect": "Unused.",
+          "short_effect": "List of battle types and their rules."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "409",
+          "effect": "Tracks Battle Points.",
+          "short_effect": "Keeps count of Battle Points earned."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "410",
+          "effect": "Records some of the trainer's activities for the day.",
+          "short_effect": "Records prior significant activities the player took."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "411",
+          "effect": "Contains Seals used for decorating Pokéballs.",
+          "short_effect": "Stores Seals that can be applied to Poké Ball capsules."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "412",
+          "effect": "Contains Pokémon Accessories.",
+          "short_effect": "Holds Pokémon Accessories for use in Contests."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "413",
+          "effect": "Unused.",
+          "short_effect": "Holds ten Seals for Poké Balls."
+     },
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": "9",
+          "item_id": "415",
+          "effect": "Opens the front door of the Valley Windworks.  Reusable.",
+          "short_effect": "Grants access to Valley Windworks."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "416",
+          "effect": "Given to Cynthia's grandmother to get the Surf HM.",
+          "short_effect": "Trade to Cynthia's grandmother in Celestic Town for HM04 (Surf)."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "417",
+          "effect": "Grants access to Galactic HQ in Veilstone City.",
+          "short_effect": "Grants access to Galactic HQ in Veilstone City."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "418",
+          "effect": "Unused.",
+          "short_effect": "Used to bind Palkia and Dialga."
+     },
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "425",
+          "effect": "Waters Berry plants.",
+          "short_effect": "Used to water berries."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "426",
+          "effect": "Contains up to 100 Poffins.",
+          "short_effect": "Holds Poffins."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "428",
+          "effect": "Opens the locked building in the lakeside resort.",
+          "short_effect": "Opens a locked building in the Lakeside Resort."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "431",
+          "effect": "Provides access to Newmoon Island and Darkrai.",
+          "short_effect": "Allows access to Newmoon Island and Darkrai."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "432",
+          "effect": "Supposedly related to t",
+          "short_effect": "Allows entry into the Hall of Origin. Unreleased."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "433",
+          "effect": "Allows passage on a ferry.",
+          "short_effect": "Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)"
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "434",
+          "effect": "Allows the trainer to enter Contests.",
+          "short_effect": "Allows participation in Pokémon Contests."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "435",
+          "effect": "Causes Heatran to appear at Reversal Mountain.",
+          "short_effect": "Magma is sealed inside."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "437",
+          "effect": "One of three coupons needed to receive a Pokétch.",
+          "short_effect": "The first of three tickets used to obtain a Pokétch."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "438",
+          "effect": "One of three coupons needed to receive a Pokétch.",
+          "short_effect": "The second of three tickets used to obtain a Pokétch."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "439",
+          "effect": "One of three coupons needed to receive a Pokétch.",
+          "short_effect": "The last of three tickets used to obtain a Pokétch."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "440",
+          "effect": "Grants access to the Team Galactic warehouse in Veilstone City.",
+          "short_effect": "Grants access to the Team Galactic warehouse in Veilstone City."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "441",
+          "effect": "Required to cure the Psyducks blocking Route 210 of their chronic headaches.",
+          "short_effect": "Used to heal the Ampharos at the top of Olivine Lighthouse."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 9"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "444",
+          "effect": "Used by trainer on a :pokemon:`Shaymin`",
+          "short_effect": "Changes an unfrozen Shaymin to Sky Forme in the day."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "446",
+          "effect": "Stores Apricorns.",
+          "short_effect": "Holds Apricorns."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "447",
+          "effect": "Contains four portable pots of soil suitable for growing berries.",
+          "short_effect": "Allows portable berry growing."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "448",
+          "effect": "Required to water berries within the :item:`Berry Pots`.",
+          "short_effect": "Use on Sudowoodo blocking the path on Route 36. Also waters berries."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "449",
+          "effect": "Used by trainer in battle",
+          "short_effect": "3× effectiveness while fishing. Made from Blu Apricorn."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "450",
+          "effect": "Used by trainer in battle",
+          "short_effect": "Success rate based off of fraction target Pokémon is of user's Pokémon. Made from Red Apricorn."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "451",
+          "effect": "Used by trainer in battle",
+          "short_effect": "4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 7"},
+     {
+          "local_language_id": "9",
+          "item_id": "452",
+          "effect": "Used by a trainer in battle",
+          "short_effect": "Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "453",
+          "effect": "Used by a trainer in battle",
+          "short_effect": "4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "454",
+          "effect": "Used by a trainer in battle",
+          "short_effect": "Caught Pokémon start with 200 happiness. Made from Grn Apricorn."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "456",
+          "effect": "Used by a trainer in battle",
+          "short_effect": "Catches Pokémon in the Pal Park every time."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "457",
+          "effect": "Used by a trainer in battle",
+          "short_effect": "Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)"
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "458",
+          "effect": "May be given to Kurt in :location:`Azalea Town` to produce a :item:`Level Ball`.",
+          "short_effect": "Used to make a Level Ball."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "459",
+          "effect": "May be given to Kurt in :location:`Azalea Town` to produce a :item:`Lure Ball`.",
+          "short_effect": "Used to make a Lure Ball."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "460",
+          "effect": "May be given to Kurt in :location:`Azalea Town` to produce a :item:`Moon Ball`.",
+          "short_effect": "Used to make a Moon Ball."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "461",
+          "effect": "May be given to Kurt in :location:`Azalea Town` to produce a :item:`Friend Ball`.",
+          "short_effect": "Used to make a Friend Ball."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "462",
+          "effect": "May be given to Kurt in :location:`Azalea Town` to produce a :item:`Love Ball`.",
+          "short_effect": "Used to make a Love Ball."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "463",
+          "effect": "May be given to Kurt in :location:`Azalea Town` to produce a :item:`Fast Ball`.",
+          "short_effect": "Used to make a Fast Ball."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "464",
+          "effect": "May be given to Kurt in :location:`Azalea Town` to produce a :item:`Heavy Ball`.",
+          "short_effect": "Used to make a Heavy Ball."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "465",
+          "effect": "Used by trainer outside of battle",
+          "short_effect": "Use to find hidden items on the field. AKA Itemfinder."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "466",
+          "effect": "May be traded for a :item:`TM64` in the vertical Underground Path.",
+          "short_effect": "HS: Traded for TM64. Gen II & Gen V: Acts as a Potion."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "467",
+          "effect": "Causes :pokemon:`Groudon` to appear in the :location:`Embedded Tower`.",
+          "short_effect": "Summons Groudon to the Embedded Tower."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "468",
+          "effect": "Causes :pokemon:`Kyogre` to appear in the :location:`Embedded Tower`.",
+          "short_effect": "Summons Kyogre to the Embedded Tower."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "469",
+          "effect": "Causes :pokemon:`Rayquaza` to appear in the :location:`Embedded Tower`.",
+          "short_effect": "Summons Rayquaza to the Embedded Tower."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "471",
+          "effect": "Lists which :pokemon:`Unown` forms the trainer has caught.",
+          "short_effect": "Keeps track of Unown types caught."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "472",
+          "effect": "Allows the trainer to answer the daily question on Buena's radio show.  Records the points earned for correct answers.",
+          "short_effect": "Keeps track of points from Buena's show."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "473",
+          "effect": "Does nothing.",
+          "short_effect": "A tasty tail that sells for a high price."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "474",
+          "effect": "May be given to the Kimono Girls to summon :pokemon:`Ho-Oh` to the top of the :location:`Bell Tower`.",
+          "short_effect": "HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "475",
+          "effect": "Used by trainer outside of battle",
+          "short_effect": "HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "476",
+          "effect": "Used by trainer outside of battle",
+          "short_effect": "HS: Key to the tunnel under Goldenrod City. Gen III: Key to New Mauville."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "477",
+          "effect": "May be traded to Mr. Pokémon for an :item:`Exp. Share`.",
+          "short_effect": "Trade to Mr. Pokémon for an Exp. Share."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "478",
+          "effect": "May be traded to the Copycat for a :item:`Pass`.",
+          "short_effect": "A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "479",
+          "effect": "Allows the trainer to ride the Magnet Train between :location:`Goldenrod City` and :location:`Saffron City`.",
+          "short_effect": "Grants access to ride the Magnet Train between Goldenrod City and Saffron City."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "480",
+          "effect": "Must be replaced in the :location:`Power Plant` to power the Magnet Train.",
+          "short_effect": "Must be replaced in the Power Plant to power the Magnet Train."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "481",
+          "effect": "Causes :pokemon:`Lugia` to appear in the :location:`Whirl Islands`.",
+          "short_effect": "Summons Lugia to the Whirl Islands."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "482",
+          "effect": "Causes :pokemon:`Ho-Oh` to appear at the top of :location:`Bell Tower`.",
+          "short_effect": "Summons Ho-Oh at the top of the Bell Tower."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {
+          "local_language_id": "9",
+          "item_id": "484",
+          "effect": "Used by trainer outside of battle",
+          "short_effect": "Use to listen to GameBoy era audio."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "485",
+          "effect": "May be given to the Kimono Girls to summon :pokemon:`Lugia` to the top of the :location:`Bell Tower`.",
+          "short_effect": "Allows Kimono-girls to summon Lugia."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "486",
+          "effect": "Records the number of times the trainer has come in first place overall in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer has come in first place overall in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "487",
+          "effect": "Records the number of times the trainer has come in last place overall in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer has come in last place overall in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "488",
+          "effect": "Records the number of times the trainer's Pokémon have dashed in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer's Pokémon have dashed in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "489",
+          "effect": "Records the number of times the trainer's Pokémon have jumped in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer's Pokémon have jumped in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "490",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "491",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Relay Run.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Relay Run."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "492",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "493",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Block Smash.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Block Smash."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "494",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Disc Catch.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Disc Catch."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "495",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Snow Throw.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Snow Throw."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "496",
+          "effect": "Records the number of points the trainer has earned in the Pokéathlon.",
+          "short_effect": "Records the number of points the trainer has earned in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "497",
+          "effect": "Records the number of times the trainer's Pokémon have messed up in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer's Pokémon have messed up in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "498",
+          "effect": "Records the number of times the trainer's Pokémon have defeated themselves in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer's Pokémon have defeated themselves in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "499",
+          "effect": "Records the number of times the trainer's Pokémon have tackled in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer's Pokémon have tackled in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "500",
+          "effect": "Records the number of times the trainer's Pokémon have fallen in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer's Pokémon have fallen in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "501",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Ring Drop.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Ring Drop."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "502",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "503",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Circle Push.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Circle Push."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "504",
+          "effect": "Records the number of times the trainer has come in first place overall in the Pokéathlon over wirelss.",
+          "short_effect": "Records the number of times the trainer has come in first place overall in the Pokéathlon over wirelss."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "505",
+          "effect": "Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless.",
+          "short_effect": "Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "506",
+          "effect": "Records the number of times the trainer has come in first across all Pokéathlon events.",
+          "short_effect": "Records the number of times the trainer has come in first across all Pokéathlon events."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "507",
+          "effect": "Records the number of times the trainer has come in last across all Pokéathlon events.",
+          "short_effect": "Records the number of times the trainer has come in last across all Pokéathlon events."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "508",
+          "effect": "Records the number of times the trainer has switched Pokémon in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer has switched Pokémon in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "509",
+          "effect": "Records the number of times the trainer has come in first in the Pokéathlon Goal Roll.",
+          "short_effect": "Records the number of times the trainer has come in first in the Pokéathlon Goal Roll."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "510",
+          "effect": "Records the number of times the trainer's Pokémon received prizes in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer's Pokémon received prizes in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "511",
+          "effect": "Records the number of times the trainer has instructed Pokémon in the Pokéathlon.",
+          "short_effect": "Records the number of times the trainer has instructed Pokémon in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "512",
+          "effect": "Records the total time spent in the Pokéathlon.",
+          "short_effect": "Records the total time spent in the Pokéathlon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "513",
+          "effect": "Does nothing.",
+          "short_effect": "Contains TM95 (Snarl)."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "514",
+          "effect": "Does nothing.",
+          "short_effect": "Stores photos from your adventure."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 6"},
+     {
+          "local_language_id": "9",
+          "item_id": "529",
+          "effect": "Waters Berry plants.",
+          "short_effect": "Used to water berries."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "530",
+          "effect": "Contains a machine part to be delivered to Captain Stern.",
+          "short_effect": "Contains mechanical parts to be delivered to Captain Stern."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "531",
+          "effect": "Collects soot when walking through tall grass on :location:`Route 113`.",
+          "short_effect": "Stores volcanic ash from Route 113."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "532",
+          "effect": "Stores Pokéblocks.",
+          "short_effect": "Holds Pokéblocks."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "533",
+          "effect": "Contains a letter to be delivered to Steven.",
+          "short_effect": "A letter to Steven from the Devon Corp president."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "535",
+          "effect": "May be traded to Captain Stern for a :item:`DeepSeaTooth` or a :item:`DeepSeaScale`.",
+          "short_effect": "Trade to Captain Stern for a DeepSeaTooth or DeepSeaScale."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "536",
+          "effect": "Allows the trainer to enter the desert on :location:`Route 111`.",
+          "short_effect": "Allows passage through windy deserts."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "537",
+          "effect": "RSE: May be traded to Professor Cozmo for :item:`TM27`.",
+          "short_effect": "FL: Deliver to Lostelle's father. RSE: Trade to Professor Cozmo for TM27 (Return)."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "538",
+          "effect": "Unlocks room 1 on the :location:`Abandoned Ship`.",
+          "short_effect": "Unlocks room 1 on the Abandoned Ship."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "539",
+          "effect": "Unlocks room 2 on the :location:`Abandoned Ship`.",
+          "short_effect": "Unlocks room 2 on the Abandoned Ship."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "540",
+          "effect": "Unlocks room 4 on the :location:`Abandoned Ship`.",
+          "short_effect": "Unlocks room 4 on the Abandoned Ship."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "541",
+          "effect": "Unlocks room 6 on the :location:`Abandoned Ship`.",
+          "short_effect": "Unlocks room 6 on the Abandoned Ship."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "542",
+          "effect": "Reveals invisble :pokemon:`Kecleon` on the overworld.",
+          "short_effect": "Allows spotting of invisible Kecleon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "543",
+          "effect": "A parcel to be delivered to Professor Oak for a Pokédex.",
+          "short_effect": "Trade to Prof. Oak for a Pokédex."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "545",
+          "effect": "May be traded for a :item:`Bicycle`.",
+          "short_effect": "Trade in Cerulean bike shop for a Bicycle."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "547",
+          "effect": "Operates the elevator in the Celadon Rocket Hideout.",
+          "short_effect": "Operates the elevator in Team Rocket's Celadon Hideout."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "548",
+          "effect": "Identifies ghosts in :location:`Pokémon Tower`.",
+          "short_effect": "Used to identify the true forms of ghosts in Pokémon Tower."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "549",
+          "effect": "Records information on various famous people.",
+          "short_effect": "Records information about NPCs."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "550",
+          "effect": "Stores TMs and HMs.",
+          "short_effect": "Holds TMs."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "551",
+          "effect": "Stores Berries.",
+          "short_effect": "Holds berries."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "552",
+          "effect": "Teaches beginning trainers basic information.",
+          "short_effect": "Teachers basic trainer advice."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "553",
+          "effect": "Provides access to the first three Sevii Islands.",
+          "short_effect": "Grants access to the first three Sevii Islands."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "554",
+          "effect": "Provides access to the Sevii Islands.",
+          "short_effect": "Grants access to all of the Sevii Islands."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "555",
+          "effect": "Used to bribe the :location:`Saffron City` guards for entry to the city.",
+          "short_effect": "Grants access to Saffron City."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {
+          "local_language_id": "9",
+          "item_id": "557",
+          "effect": "Provides access to :location:`Birth Island` and :pokemon:`Deoxys`.",
+          "short_effect": "Allows access to Birth Island and Deoxys."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "558",
+          "effect": "Holds Berry Powder from Berry Crushing.",
+          "short_effect": "Stores Berry Powder made using a Berry Crusher."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "559",
+          "effect": "Deliver to Celio for use in the Network Machine.",
+          "short_effect": "Give to Celio with Sapphire to activate Network Machine and get Rainbow Pass."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "560",
+          "effect": "Deliver to Celio for use in the Network Machine.",
+          "short_effect": "Give to Celio with Ruby to activate Network Machine and get Rainbow Pass."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "561",
+          "effect": "Provides access to the :location:`Team Magma Hideout` in the :location:`Jagged Pass`.",
+          "short_effect": "Provides access to the Team Magma Hideout in the Jagged Pass."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "562",
+          "effect": "Provides access to :location:`Faraway Island` and :pokemon:`Mew`.",
+          "short_effect": "Allows access to Faraway Island and Mew. Unreleased outside of Japan."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "567",
+          "effect": "Used on a friendly Pokémon",
+          "short_effect": "Restores 20 HP."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "580",
+          "effect": "Held by []{pokemon:feebas}",
+          "short_effect": "Traded on a Feebas: Holder evolves into Milotic."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "582",
+          "effect": "Held",
+          "short_effect": "Held: Holder has 0.5× weight."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 6"},
+     {
+          "local_language_id": " []{move:spikes}",
+          "item_id": ":   Holder is immune to []{type:ground}-type moves",
+          "effect": " and []{ability:arena-trap}.",
+          "short_effect": " []{move:toxic-spikes}"
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "586",
+          "effect": "Held",
+          "short_effect": "Held: Negates the holder's type immunities. Ability immunities are not removed."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "587",
+          "effect": "Held",
+          "short_effect": "Held: Doubles the per-turn damage of multi-turn trapping moves."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "588",
+          "effect": "Held",
+          "short_effect": "Held: Raises the holder's Special Attack by one stage when it takes Water-type damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "589",
+          "effect": "Held",
+          "short_effect": "Held: Raises the holder's Attack by one stage when it takes Electric-type damage."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 3"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "606",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Increases [HP]{mechanic:hp} [effort]{mechanic:effort} by 1."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "607",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Increases [Attack]{mechanic:attack} [effort]{mechanic:effort} by 1."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "608",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Increases [Defense]{mechanic:defense} [effort]{mechanic:effort} by 1."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "609",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Increases [Special Attack]{mechanic:special-attack} [effort]{mechanic:effort} by 1."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "610",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Increases [Special Defense]{mechanic:special-defense} [effort]{mechanic:effort} by 1."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "611",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Increases [Speed]{mechanic:speed} [effort]{mechanic:effort} by 1."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "612",
+          "effect": "Vendor trash.",
+          "short_effect": "Sell for 100 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "613",
+          "effect": "Give to a scientist in a museum to receive a []{pokemon:tirtouga}.",
+          "short_effect": "Can be revived into a []{pokemon:tirtouga}."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "614",
+          "effect": "Give to a scientist in a museum to receive a []{pokemon:archen}.",
+          "short_effect": "Can be revived into a []{pokemon:archen}."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "616",
+          "effect": "Acts as currency to activate Pass Powers in the Entralink.",
+          "short_effect": "Activates Pass Powers."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "618",
+          "effect": "Used in battle",
+          "short_effect": "Ends a wild battle."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "619",
+          "effect": "Stores props for the Pokémon Musical.",
+          "short_effect": "Stores props for the Pokémon Musical."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "620",
+          "effect": "Only used as a plot point; this item is given to the player and taken away in the same cutscene.",
+          "short_effect": "Return to the museum in Nacrene City."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "621",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Hungry Maid for 25000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "622",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Ore Collector for 30000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "623",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Ore Collector for 25000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "624",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Ore Collector for 60000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "625",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Villa Owner for 1000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "626",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Villa Owner 5000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "627",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Villa Owner 10000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "628",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Villa Owner 50000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "629",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Villa Owner for 100000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "630",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Villa Owner 200000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "631",
+          "effect": "Cult vendor trash.",
+          "short_effect": "Sell to Villa Owner for 300000 Pokédollars."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "632",
+          "effect": "Used on a party Pokémon",
+          "short_effect": "Cures any status ailment and confusion."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "633",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [critical hit]{mechanic:critical-hit} rate by two [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "634",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Speed]{mechanic:speed} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "635",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Special Attack]{mechanic:special-attack} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "636",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Special Defense]{mechanic:special-defense} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "637",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Defense]{mechanic:defense} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "638",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Attack]{mechanic:attack} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "639",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [accuracy]{mechanic:accuracy} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "640",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Speed]{mechanic:speed} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "641",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Special Attack]{mechanic:special-attack} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "642",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Special Defense]{mechanic:special-defense} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "643",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Defense]{mechanic:defense} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "644",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Attack]{mechanic:attack} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "645",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [accuracy]{mechanic:accuracy} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "646",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Speed]{mechanic:speed} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "647",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Special Attack]{mechanic:special-attack} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "648",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Special Defense]{mechanic:special-defense} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "649",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Defense]{mechanic:defense} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "650",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [Attack]{mechanic:attack} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "651",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [accuracy]{mechanic:accuracy} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "652",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Forcibly activates a friendly Pokémon's ability."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "653",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Forces a friendly Pokémon to drop its held item."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "654",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Forcibly activates a friendly Pokémon's held item."
+     },
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "655",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Resets a friendly Pokémon's stat changes."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "656",
+          "effect": "Used on a party Pokémon in battle",
+          "short_effect": "Raises [critical hit]{mechanic:critical-hit} rate by three [stages]{mechanic:stage} in battle.  Wonder Launcher only."
+     },
+     {"Error": "Expected 4 fields but got 1"},
+     {"Error": "Expected 4 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "item_id": "657",
+          "effect": "Summons []{pokemon:reshiram} for the final battle against N.",
+          "short_effect": "Summons Reshiram for the final battle against N."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "658",
+          "effect": "Summons []{pokemon:zekrom} for the final battle against N.",
+          "short_effect": "Summons Zekrom for the final battle against N."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "659",
+          "effect": "Teaches []{move:wild-charge} to a compatible Pokémon.",
+          "short_effect": "Teaches Wild Charge to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "660",
+          "effect": "Teaches []{move:rock-smash} to a compatible Pokémon.",
+          "short_effect": "Teaches Rock Smash to a compatible Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "661",
+          "effect": "Teaches []{move:snarl} to a compatible Pokémon.",
+          "short_effect": "Teaches Snarl to a compatible Pokémon."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "663",
+          "effect": "Unknown.  Currently unused.",
+          "short_effect": "Unknown.  Currently unused."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 2"},
+     {
+          "local_language_id": "9",
+          "item_id": "670",
+          "effect": "",
+          "short_effect": "Holds medals recieved in the medal rally."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "item_id": "673",
+          "effect": "",
+          "short_effect": "Grants access to the Nature Preserve."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "674",
+          "effect": "",
+          "short_effect": "Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "675",
+          "effect": "",
+          "short_effect": "Raises the chance of finding a shiny Pokémon."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "676",
+          "effect": "",
+          "short_effect": "Required to progress in the Plasma Frigate."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "677",
+          "effect": "",
+          "short_effect": "Appears in the Café Warehouse on Sunday; return to the customer with a Patrat on Thursday."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "678",
+          "effect": "",
+          "short_effect": "Wakes up the Crustle blocking the way in Seaside Cave."
+     },
+     {
+          "local_language_id": "9",
+          "item_id": "679",
+          "effect": "",
+          "short_effect": "Returned to Curtis or Yancy as part of a sidequest."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"}
+]

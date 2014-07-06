@@ -1,0 +1,52 @@
+[
+     {
+          "local_language_id": "9",
+          "encounter_condition_id": "1",
+          "name": "Swarm"
+     },
+     {
+          "local_language_id": "9",
+          "encounter_condition_id": "2",
+          "name": "Time of day"
+     },
+     {
+          "local_language_id": "9",
+          "encounter_condition_id": "3",
+          "name": "PokeRadar"
+     },
+     {
+          "local_language_id": "9",
+          "encounter_condition_id": "4",
+          "name": "Gen 3 game in slot 2"
+     },
+     {
+          "local_language_id": "9",
+          "encounter_condition_id": "5",
+          "name": "Radio"
+     },
+     {
+          "local_language_id": "9",
+          "encounter_condition_id": "6",
+          "name": "Season"
+     },
+     {
+          "local_language_id": "10",
+          "encounter_condition_id": "1",
+          "name": "Rojení"
+     },
+     {
+          "local_language_id": "10",
+          "encounter_condition_id": "3",
+          "name": "PokéRadar"
+     },
+     {
+          "local_language_id": "10",
+          "encounter_condition_id": "5",
+          "name": "Rádio"
+     },
+     {
+          "local_language_id": "10",
+          "encounter_condition_id": "2",
+          "name": "Denní doba"
+     }
+]

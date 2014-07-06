@@ -1,0 +1,122 @@
+[
+     {
+          "identifier": "armor-veteran",
+          "id": "1"
+     },
+     {
+          "identifier": "armor-officer",
+          "id": "2"
+     },
+     {
+          "identifier": "armor-helmet",
+          "id": "3"
+     },
+     {
+          "identifier": "armor-headlight",
+          "id": "4"
+     },
+     {
+          "identifier": "armor-sweatband",
+          "id": "5"
+     },
+     {
+          "identifier": "armor-smarmy",
+          "id": "6"
+     },
+     {
+          "identifier": "armor-buff",
+          "id": "7"
+     },
+     {
+          "identifier": "armor-visor",
+          "id": "8"
+     },
+     {
+          "identifier": "angular",
+          "id": "9"
+     },
+     {
+          "identifier": "portly",
+          "id": "10"
+     },
+     {
+          "identifier": "clever",
+          "id": "11"
+     },
+     {
+          "identifier": "nervous",
+          "id": "12"
+     },
+     {
+          "identifier": "professor",
+          "id": "13"
+     },
+     {
+          "identifier": "woman-warrior",
+          "id": "14"
+     },
+     {
+          "identifier": "princess",
+          "id": "15"
+     },
+     {
+          "identifier": "messenger",
+          "id": "16"
+     },
+     {
+          "identifier": "sailor",
+          "id": "17"
+     },
+     {
+          "identifier": "adventurer",
+          "id": "18"
+     },
+     {
+          "identifier": "alchemist",
+          "id": "19"
+     },
+     {
+          "identifier": "merchant-m",
+          "id": "20"
+     },
+     {
+          "identifier": "merchant-f",
+          "id": "21"
+     },
+     {
+          "identifier": "monk",
+          "id": "22"
+     },
+     {
+          "identifier": "ninja-armor",
+          "id": "23"
+     },
+     {
+          "identifier": "ninja-visor",
+          "id": "24"
+     },
+     {
+          "identifier": "ninja-scroll",
+          "id": "25"
+     },
+     {
+          "identifier": "ninja-eyeliner",
+          "id": "26"
+     },
+     {
+          "identifier": "ninja-ceiling",
+          "id": "27"
+     },
+     {
+          "identifier": "farmer-m",
+          "id": "28"
+     },
+     {
+          "identifier": "farmer-f",
+          "id": "29"
+     },
+     {
+          "identifier": "nobleman",
+          "id": "30"
+     }
+]

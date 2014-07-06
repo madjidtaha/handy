@@ -1,0 +1,822 @@
+[
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "2",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": "1"
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "13",
+          "power": "",
+          "accuracy": "75",
+          "effect_chance": "",
+          "changed_in_version_group_id": "5",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "1",
+          "move_id": "16",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": "1"
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "17",
+          "power": "35",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "18",
+          "power": "",
+          "accuracy": "85",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "19",
+          "power": "70",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "20",
+          "power": "",
+          "accuracy": "75",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "10",
+          "effect_id": "",
+          "move_id": "22",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "26",
+          "power": "70",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "25",
+          "effect_id": "",
+          "move_id": "26",
+          "power": "85",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "28",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": "1"
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "33",
+          "power": "35",
+          "accuracy": "95",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "35",
+          "power": "",
+          "accuracy": "85",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "20",
+          "effect_id": "",
+          "move_id": "37",
+          "power": "90",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "49",
+          "move_id": "38",
+          "power": "100",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "40",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "20",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "44",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "10",
+          "changed_in_version_group_id": "3",
+          "type_id": "1"
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "50",
+          "power": "",
+          "accuracy": "55",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "50",
+          "power": "",
+          "accuracy": "80",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "59",
+          "power": "",
+          "accuracy": "90",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "32",
+          "move_id": "67",
+          "power": "50",
+          "accuracy": "90",
+          "effect_chance": "30",
+          "changed_in_version_group_id": "5",
+          "type_id": ""
+     },
+     {
+          "pp": "20",
+          "effect_id": "",
+          "move_id": "71",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "10",
+          "effect_id": "",
+          "move_id": "72",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "14",
+          "move_id": "74",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "80",
+          "power": "70",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "20",
+          "effect_id": "",
+          "move_id": "80",
+          "power": "90",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "83",
+          "power": "15",
+          "accuracy": "70",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "87",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "10",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "88",
+          "power": "",
+          "accuracy": "65",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "91",
+          "power": "100",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "91",
+          "power": "60",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "92",
+          "power": "",
+          "accuracy": "85",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "94",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "30",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "95",
+          "power": "",
+          "accuracy": "60",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "95",
+          "power": "",
+          "accuracy": "70",
+          "effect_chance": "",
+          "changed_in_version_group_id": "9",
+          "type_id": ""
+     },
+     {
+          "pp": "20",
+          "effect_id": "",
+          "move_id": "105",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "120",
+          "power": "130",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "126",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "30",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "10",
+          "effect_id": "",
+          "move_id": "128",
+          "power": "",
+          "accuracy": "75",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "136",
+          "power": "85",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "20",
+          "effect_id": "",
+          "move_id": "136",
+          "power": "100",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "137",
+          "power": "",
+          "accuracy": "75",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "139",
+          "power": "",
+          "accuracy": "55",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "143",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "10",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "1",
+          "move_id": "146",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "0",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "148",
+          "power": "",
+          "accuracy": "70",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "152",
+          "power": "",
+          "accuracy": "85",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "153",
+          "power": "170",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "1",
+          "move_id": "157",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "0",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "1",
+          "move_id": "161",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "0",
+          "changed_in_version_group_id": "3",
+          "type_id": ""
+     },
+     {
+          "pp": "40",
+          "effect_id": "",
+          "move_id": "170",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "174",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": "10001"
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "178",
+          "power": "",
+          "accuracy": "85",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "184",
+          "power": "",
+          "accuracy": "90",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "192",
+          "power": "100",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "198",
+          "power": "",
+          "accuracy": "80",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "200",
+          "power": "90",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "15",
+          "effect_id": "",
+          "move_id": "200",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "5",
+          "effect_id": "",
+          "move_id": "202",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "202",
+          "power": "60",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "210",
+          "power": "10",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "15",
+          "effect_id": "",
+          "move_id": "248",
+          "power": "80",
+          "accuracy": "90",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "249",
+          "power": "20",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "250",
+          "power": "15",
+          "accuracy": "70",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "251",
+          "power": "10",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "253",
+          "power": "50",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "10",
+          "effect_id": "",
+          "move_id": "254",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "291",
+          "power": "60",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "54",
+          "move_id": "294",
+          "power": "",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "328",
+          "power": "15",
+          "accuracy": "70",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "331",
+          "power": "10",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "333",
+          "power": "10",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "343",
+          "power": "40",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "348",
+          "power": "70",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "8",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "350",
+          "power": "",
+          "accuracy": "80",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "353",
+          "power": "120",
+          "accuracy": "85",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "364",
+          "power": "50",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "382",
+          "power": "0",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "386",
+          "power": "60",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "387",
+          "power": "130",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "5",
+          "effect_id": "",
+          "move_id": "409",
+          "power": "60",
+          "accuracy": "",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     },
+     {
+          "pp": "",
+          "effect_id": "",
+          "move_id": "463",
+          "power": "",
+          "accuracy": "70",
+          "effect_chance": "",
+          "changed_in_version_group_id": "11",
+          "type_id": ""
+     }
+]

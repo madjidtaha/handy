@@ -1,0 +1,87 @@
+[
+     {"Error": "Expected 3 fields but got 7"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "201",
+          "form_description": "Forms only affect appearance.  A form is determined at random before a wild encounter and cannot be changed."
+     },
+     {"Error": "Expected 3 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "386",
+          "form_description": "Forms have different stats and can learn different moves.  Moves are retained through form changes."
+     },
+     {"Error": "Expected 3 fields but got 7"},
+     {
+          "local_language_id": " Pearl",
+          "pokemon_species_id": "* Diamond",
+          "form_description": " and Platinum: In the southwest corner of []{location:veilstone-city}."
+     },
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 7"},
+     {"Error": "Expected 3 fields but got 5"},
+     {"Error": "Expected 3 fields but got 4"},
+     {"Error": "Expected 3 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "423",
+          "form_description": "Forms only affect appearance.  A form is determined before a wild encounter based on whether the battle is in western or eastern Sinnoh and cannot be changed."
+     },
+     {"Error": "Expected 3 fields but got 5"},
+     {"Error": "Expected 3 fields but got 6"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 4"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 7"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 2"},
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 4"},
+     {"Error": "Expected 3 fields but got 4"},
+     {"Error": "Expected 3 fields but got 7"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "585",
+          "form_description": "Forms only affect appearance.  Deerling switches forms to match the season if it is in the party upon loading the game."
+     },
+     {"Error": "Expected 3 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "586",
+          "form_description": "Forms only affect appearance.  Sawsbuck switches forms to match the season if it is in the party upon loading the game."
+     },
+     {"Error": "Expected 3 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "641",
+          "form_description": "Forms have different stats and abilities.  Tornadus switches forms when the []{item:reveal-glass} is used on it."
+     },
+     {"Error": "Expected 3 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "642",
+          "form_description": "Forms have different stats and abilities.  Thundurus switches forms when the []{item:reveal-glass} is used on it."
+     },
+     {"Error": "Expected 3 fields but got 1"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "645",
+          "form_description": "Forms have different stats and abilities.  Landorus switches forms when the []{item:reveal-glass} is used on it."
+     },
+     {"Error": "Expected 3 fields but got 1"},
+     {"Error": "Expected 3 fields but got 6"},
+     {"Error": "Expected 3 fields but got 4"},
+     {"Error": "Expected 3 fields but got 4"},
+     {
+          "local_language_id": "9",
+          "pokemon_species_id": "649",
+          "form_description": "Form changes to match Genesect's held Drive.  The only differences are the color of its weapon and []{move:techno-blast}'s type."
+     }
+]

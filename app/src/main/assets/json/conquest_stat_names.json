@@ -1,0 +1,32 @@
+[
+     {
+          "local_language_id": "9",
+          "conquest_stat_id": "1",
+          "name": "HP"
+     },
+     {
+          "local_language_id": "9",
+          "conquest_stat_id": "2",
+          "name": "Attack"
+     },
+     {
+          "local_language_id": "9",
+          "conquest_stat_id": "3",
+          "name": "Defense"
+     },
+     {
+          "local_language_id": "9",
+          "conquest_stat_id": "4",
+          "name": "Speed"
+     },
+     {
+          "local_language_id": "9",
+          "conquest_stat_id": "5",
+          "name": "Range"
+     },
+     {
+          "local_language_id": "9",
+          "conquest_stat_id": "6",
+          "name": "Energy"
+     }
+]

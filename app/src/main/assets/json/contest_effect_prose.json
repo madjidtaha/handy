@@ -1,0 +1,130 @@
+[
+     {
+          "local_language_id": "9",
+          "effect": "Gives a high number of appeal points wth no other effects.",
+          "contest_effect_id": "1",
+          "flavor_text": "A highly appealing move."
+     },
+     {"Error": "Expected 4 fields but got 7"},
+     {"Error": "Expected 4 fields but got 6"},
+     {
+          "local_language_id": "9",
+          "effect": "Attempts to jam the Pokémon that appealed before the user.",
+          "contest_effect_id": "4",
+          "flavor_text": "Badly startles the Pokémon in front."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Attempts to jam all Pokémon that have appealed this turn.",
+          "contest_effect_id": "5",
+          "flavor_text": "Badly startles those that have made appeals."
+     },
+     {"Error": "Expected 4 fields but got 6"},
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "effect": "Attempts to jam all Pokémon that have appealed this turn.",
+          "contest_effect_id": "8",
+          "flavor_text": "Startles all Pokémon that have done their appeals."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Attempts to jam the Pokémon that appealed before the user.",
+          "contest_effect_id": "9",
+          "flavor_text": "Startles the Pokémon that appealed before the user."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 6"},
+     {
+          "local_language_id": "9",
+          "effect": "Attempts to jam all Pokémon that have appealed this turn for half their appeal points (minimum 1).",
+          "contest_effect_id": "14",
+          "flavor_text": "Badly startles all Pokémon that made good appeals."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Prevents jamming for the rest of this turn.",
+          "contest_effect_id": "15",
+          "flavor_text": "Can avoid being startled by others."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Prevents the next jam on this turn.",
+          "contest_effect_id": "16",
+          "flavor_text": "Can avoid being startled by others once."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Repeated use does not incur a penalty.",
+          "contest_effect_id": "17",
+          "flavor_text": "Can be repeatedly used without boring the judge."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Attempts to make all following Pokémon nervous (and thus unable to appeal).",
+          "contest_effect_id": "18",
+          "flavor_text": "Makes all Pokémon after the user nervous."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "User earns appeal points equal to the points the previous Pokémon earned plus one.",
+          "contest_effect_id": "19",
+          "flavor_text": "Makes the appeal as good as the one before it."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "User earns appeal points equal to half the points ALL the previous Pokémon earned plus one.",
+          "contest_effect_id": "20",
+          "flavor_text": "Makes the appeal as good as those before it."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Shuffles the next turn's turn order.",
+          "contest_effect_id": "21",
+          "flavor_text": "Scrambles up the order of appeals on the next turn."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Cancels combo standby status for all Pokémon that have appealed this turn.",
+          "contest_effect_id": "22",
+          "flavor_text": "Shifts the judge's attention from others."
+     },
+     {"Error": "Expected 4 fields but got 5"},
+     {
+          "local_language_id": "9",
+          "effect": "Prevents the Applause Meter from rising for the rest of the turn.",
+          "contest_effect_id": "24",
+          "flavor_text": "Temporarily stops the crowd from getting excited."
+     },
+     {"Error": "Expected 4 fields but got 7"},
+     {"Error": "Expected 4 fields but got 8"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 5"},
+     {"Error": "Expected 4 fields but got 8"},
+     {
+          "local_language_id": "9",
+          "effect": "User will go first next turn.",
+          "contest_effect_id": "30",
+          "flavor_text": "The next appeal can be made earlier next turn."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "User will go last next turn.",
+          "contest_effect_id": "31",
+          "flavor_text": "The next appeal can be made later next turn."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "User gains one star.",
+          "contest_effect_id": "32",
+          "flavor_text": "Ups the user's condition.  Helps prevent nervousness."
+     },
+     {
+          "local_language_id": "9",
+          "effect": "Removes all stars from all Pokémon that have appealed this turn.",
+          "contest_effect_id": "33",
+          "flavor_text": "Worsens the condition of those that made appeals."
+     }
+]

@@ -1,0 +1,14 @@
+[
+     {
+          "identifier": "non-damaging",
+          "id": "1"
+     },
+     {
+          "identifier": "physical",
+          "id": "2"
+     },
+     {
+          "identifier": "special",
+          "id": "3"
+     }
+]

@@ -1,0 +1,37 @@
+[
+     {
+          "local_language_id": "9",
+          "berry_firmness_id": "1",
+          "name": "Very Soft"
+     },
+     {
+          "local_language_id": "9",
+          "berry_firmness_id": "2",
+          "name": "Soft"
+     },
+     {
+          "local_language_id": "9",
+          "berry_firmness_id": "3",
+          "name": "Hard"
+     },
+     {
+          "local_language_id": "9",
+          "berry_firmness_id": "4",
+          "name": "Very Hard"
+     },
+     {
+          "local_language_id": "9",
+          "berry_firmness_id": "5",
+          "name": "Super Hard"
+     },
+     {
+          "local_language_id": "10",
+          "berry_firmness_id": "3",
+          "name": "Tvrdá"
+     },
+     {
+          "local_language_id": "10",
+          "berry_firmness_id": "2",
+          "name": "Měkká"
+     }
+]

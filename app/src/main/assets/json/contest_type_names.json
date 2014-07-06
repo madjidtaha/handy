@@ -1,0 +1,58 @@
+[
+     {
+          "local_language_id": "9",
+          "color": "Red",
+          "flavor": "Spicy",
+          "contest_type_id": "1",
+          "name": "Cool"
+     },
+     {
+          "local_language_id": "9",
+          "color": "Blue",
+          "flavor": "Dry",
+          "contest_type_id": "2",
+          "name": "Beauty"
+     },
+     {
+          "local_language_id": "9",
+          "color": "Pink",
+          "flavor": "Sweet",
+          "contest_type_id": "3",
+          "name": "Cute"
+     },
+     {
+          "local_language_id": "9",
+          "color": "Green",
+          "flavor": "Bitter",
+          "contest_type_id": "4",
+          "name": "Smart"
+     },
+     {
+          "local_language_id": "9",
+          "color": "Yellow",
+          "flavor": "Sour",
+          "contest_type_id": "5",
+          "name": "Tough"
+     },
+     {
+          "local_language_id": "10",
+          "color": "",
+          "flavor": "Ostrá",
+          "contest_type_id": "1",
+          "name": ""
+     },
+     {
+          "local_language_id": "10",
+          "color": "",
+          "flavor": "",
+          "contest_type_id": "5",
+          "name": "Síla"
+     },
+     {
+          "local_language_id": "10",
+          "color": "",
+          "flavor": "Suchá",
+          "contest_type_id": "2",
+          "name": "Krása"
+     }
+]
